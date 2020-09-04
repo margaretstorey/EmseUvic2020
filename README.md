@@ -1,53 +1,49 @@
 # EmseUvic2020
 
 ##### [Department of Computer Science - University of Victoria](http://www.csc.uvic.ca/)
-##### [CSC 485E + SENG 480B](https://heat.csc.uvic.ca/coview/outline/2016/Fall/CSC/485E), 2016, Fall Semester
+##### [CSC 485A + SENG 480A + SCS578A](https://heat.csc.uvic.ca/coview/course/2020091/CSC578A), 2020, Fall Semester
 <br>
 
-This course aims to give students the tools and skills to rapidly develop and transform innovative ideas (of their own choosing) into working projects utilizing advanced mobile, social, cloud, and web technologies. In particular, students will experience the style of development activity that is common in a new startup company. The project based course will be augmented by a series of lectures to accelerate learning with new web technologies, product design, agile development practices, user interface design, and project management. During the term, students will work in teams of 5 students. Each team will be closely mentored by several staff members (including the instructors and one or more members from industry). Students will gain valuable technical skills and experience working in small teams, while facing real-world challenges that include a tight schedule, hard deadlines, and self directed learning.
+This course will prepare students for advanced research in industrial and academic settings by examining how to plan, conduct and report on empirical investigations of software engineering phenomena. The course will cover techniques applicable to each of the steps of an empirical software engineering research project, including formulating and identifying relevant research questions, data analysis (using both qualitative and quantitative methods), building evidence, developing new and refining existing theories, assessing validity and novelty of the research methods and outcomes, and publishing and presenting findings to different audiences. The course will emphasize research methods that are used to study human interactions with software engineering methods and tools: controlled experiments, user studies, field studies, surveys, archival data analysis methods, action research and ethnographies. We will explore, understand and critique the methods used in several examples of studies of software engineering methodologies and tools used in industry, and through academic peer reviewed articles published in empirical software engineering venues.​
 
-Projects will include designing and developing a live web system. Each team will also maintain a web page with project documentation and design documents.
-
-See [course requirements](requirements.md) and [student testimonials](testimonials.md).
+See [course requirements](requirements.md).
 
 ---
 
-**Classes will be on Fridays 1:30-4:20 at [HHB 110](http://www.uvic.ca/home/about/campus-info/maps/maps/hhb.php):**  
+**Classes will be on Fridays 1:30-4:20 online (via Zoom)**  
 (*Tentative schedule, slides are in the [**resources section**](resources)*)
 
 
-| | Date | Meeting agenda |
-| ---:| ---------- | -------------- |
-| 1 | 09/09/2016 | [Introduction](https://speakerdeck.com/alexeyza/welcome-to-startup-programming-course-fall-2016) (Alexey), [How to build a software product](https://speakerdeck.com/alexeyza/how-to-build-a-software-product), [Standing on the shoulders of giants](http://prezi.com/mkn6azkr8kqt/standing-on-the-shoulders-of-giants-v4/), Demo of past projects (guest: [Carlene Lebeuf](http://clebeuf.github.io/)), Forming teams |
-| 2 | 16/09/2016 | [Startup Slam](http://www.startupslam.io/) invitation ([Noah Warder](https://angel.co/noah-warder)), [Web development overview](https://speakerdeck.com/alexeyza/web-development-overview-2016) (Alexey), [Mobile development overview](https://docs.google.com/presentation/d/1kROO3-EDVNjYDe02Xf7GPpNwFz1XN5ZwfNmVbje-Zys) ([Greg](http://schier.co/)), [UI/UX - Design Thinking](resources/design_thinking2016.pdf?raw=true) ([Peggy](https://margaretannestorey.wordpress.com/)) |
-| 3 | 23/09/2016 | [Git, GitHub, and Working Together](http://github.eclipsesource.com/introduction_to_git/) ([Ian](http://ianbull.com/)), [Project proposal presentations](/presenting%20your%20ideas.md) |
-| 4 | 30/09/2016 | Guest talks:<br>&nbsp;·&nbsp;[So you want to build a thing](http://so-you-want-to-build-a-thing.surge.sh) by [Jason Trill](http://jjt.io/) (Director of Engineering at [Flow](https://www.getflow.com/), previously was at [Metalab](http://metalab.co/)),<br>&nbsp;·&nbsp;[Will Fraser](https://twitter.com/getfraser) (CEO and Co-Founder of [Referral SaaSquatch](https://www.referralsaasquatch.com)) |
-| 5 | 14/10/2016 | [Milestone 1 presentation](/milestone%201%20-%20proof%20of%20concept.md) - Proof Of Concept |
-| 6 | 21/10/2016 | &nbsp;·&nbsp;[Software Management for people who just want to get stuff done](http://www.slideshare.net/cliffmcc/software-managementfor-people-who-just-want-to-get-stuff-done) ([Cliff](https://ca.linkedin.com/in/cliffmccollum)),<br>&nbsp;·&nbsp;[Benevity guest talk](resources/benevity_guest_talk.pdf?raw=true) by [Jim Olson](http://islandsofno.ca/about.html) (product design at [Benevity](http://www.benevity.com/)) and [Jon Wiggens](https://twitter.com/jonwiggens) (UI Designer at [Benevity](http://www.benevity.com/), previously at EA),<br>&nbsp;·&nbsp;[Dev Ops - 12 factor apps](resources/devops_12_factor_apps.pdf?raw=true) ([Cliff](https://ca.linkedin.com/in/cliffmccollum)) |
-| 7 | 28/10/2016 | &nbsp;·&nbsp;[Testing for web developers](resources/testing-clarke.pdf?raw=true) by [Clarke Brunsdon](https://twitter.com/cbrunsdon) (CEO and Co-founder of [Stembolt](https://stembolt.com))<br>&nbsp;·&nbsp;Startup accelerators Q&A by [Brad Van Vugt](https://twitter.com/bvanvugt) (Co-founder of [SendWithUs](https://www.sendwithus.com/) and [YC alum](https://www.ycombinator.com/)) and [Leif Baradoy](http://www.leifb.com/) (CEO and Co-founder of [Giftbit](https://www.giftbit.com/) and [Techstars Alum](http://www.techstars.com/))<br>&nbsp;·&nbsp;[UI/UX - thinking about the user](resources/ui_ux_thinking_about_the_user.pdf?raw=true) ([Peggy](https://margaretannestorey.wordpress.com/)) |
-| 8 | 04/11/2016 | [Milestone 2 presentation](/milestone%202%20-%20release%20candidate.md) - Release Candidate |
-| 9 | 02/12/2016 | [Milestone 3 presentation](/milestone%203%20-%20public%20beta.md) - Public live BETA<br>*(note: time and location of this meeting may change)* |
-| | 19/12/2016 | [Final submission](/final%20submission.md) (by email, no meeting)
+| | Date | Meeting agenda | Deliverable | 
+| ---:| ---------- | -------------- | ------------- | 
+| 1 | 11/09/2020 | [Introduction]()| Introductions | 
+| 2 | 18/09/2020 | [Topics in SE]() | Quiz #1 | 
+| 3 | 25/09/2020 | [Research Methods for SE]() | Quiz #2 | 
+| 4 | 02/10/2020 | [Synthesizing Research]() | Quiz #3 | 
+| 5 | 09/10/2020 | Drop in to Zoom (thanksgiving weekend) | Work on Project #1 |
+| 6 | 16/10/2020 | Workshop #1 | Blogpost #1 |
+| 7 | 23/10/2020 | Workshop #2 | Blogpost #2 |
+| 8 | 30/10/2020 | Workshop #3 | Blogpost #3 |
+| 9 | 06/11/2020 | Alignment for Project #1 | Project #1 due | 
+| 10 | 13/11/2020 | Workshop #4 | Blogpost #4 |
+| 11 | 20/11/2020 | Workshop #5 | Blogpost #5 |
+| 12 | 27/11/2020 | Workshop #6 | Blogpost #6 |
+| 13 | 04/12/2020 | Project 2 share | Project #2, videos due | 
+| 14 | 11/12/2020 | No class | Project #2, final reports due | 
 
 ---
 
-**Mentoring Staff:**
+**Teaching Staff:**
 
-- [Alexey Zagalsky](http://alexeyza.com/)
-- [Margaret-Anne Storey](https://margaretannestorey.wordpress.com/)
-- [Cliff McCollum](https://ca.linkedin.com/in/cliffmccollum)
-- [Ian Bull](http://ianbull.com/)
-- [Gregory Schier](http://schier.co/)
-- Eirini Kalliamvakou (Teaching Assistant)
+- [Margaret-Anne Storey](https://margaretannestorey.com/)
+- Omar Elzahary (Teaching Assistant)
 
-Alumni mentors: [Arie van Deursen](http://www.st.ewi.tudelft.nl/~arie/)
+**Projects:**  
+Information on projects will be posted here [projects](projects.md).
 
-**Teams and Projects:**  
-View current and past [teams and projects](teams and projects.md).
+**Office Hour:** By appointment and Thursdays (via Zoom) (please send me an email to set up a meeting) 
 
-**Reception Hour:** By appointment. Friday 11:00am-12:00pm at ECS 617 (please send an email to set a meeting) 
-
-**Contact email:** [startup.programming@gmail.com](mailto:startup.programming@gmail.com)
+**Contact email:** [mstorey@uvic.ca](mailto:mstorey@uvic.ca)
 
 
 ## License
@@ -55,10 +51,3 @@ This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 Int
 
 ![Alt text](https://i.creativecommons.org/l/by-sa/4.0/88x31.png "Creative Commons Attribution-ShareAlike 4.0 International License")
 
-## Intellectual Property Ownership
-Students are asked to consult with the [project participant agreement](resources/Project_Participant_Agreement.pdf). UVic will agree to waive its
-interest in such IP under the following conditions:
-
-1. A class list and list of associated projects (contained with the attached [Project Participant Agreement](resources/Project_Participant_Agreement.pdf)) is provided to ORS (via RPKM) **within 1 month** of the start date of the course, and
-2. That the students make their IP developed during the course **freely available** to other students taking the course for learning purpose only for the duration of the course
-3. Each student participating **signs** the attached “Project Participation Agreement” (PPA) where they acknowledge they will not use any faculty IP/University owned IP in their project.
