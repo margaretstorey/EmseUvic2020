@@ -36,9 +36,9 @@ See [course requirements](requirements.md).
 **Teaching Staff:**
 
 - [Margaret-Anne Storey](https://margaretannestorey.com/)
-- [Omar Elzahary] (https://omazhary.github.io/about.html) (Teaching Assistant)
+- [Omar Elazhary] (https://omazhary.github.io/about.html) (Teaching Assistant)
 
-**Office Hour:** By appointment and Thursdays 2-3pm (via Zoom) (please send me an email to set up a meeting) 
+**Office Hour:** By appointment and Thursdays 2-3pm (via Zoom, please email [mstorey@uvic.ca](mailto:mstorey@uvic.ca) to set up a meeting) 
 
 **Contact email:** [mstorey@uvic.ca](mailto:mstorey@uvic.ca)
 
