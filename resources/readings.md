@@ -1,1 +1,0 @@
-# Readings (assigned and optional)
