@@ -8,25 +8,31 @@
 
 **General Requirements:**
 
-- Attendance in all class meetings during the scheduled timeslot is **mandatory**. If you have to miss a class, please let the instructor know ahead of time. 
+- Attendance in all class meetings during the scheduled timeslot is **mandatory**. If you have to miss a class, please let the instructor know ahead of time.  Some classes may start or end early depending on the nature of the topic covered.  Details will be posted on Slack in advance of the lecture (assume the lecture will consume the entire scheduled class time unless you hear otherwise).
 - Readings/videos/podcasts will be assigned and should be read/viewed/listened to in **advance** of the lecture.
 - Blogposts must be finalized and submitted by 5pm on the due date.
 - There are no extensions for project deliverables.
-- See the course outline for other expectations and course policies.
+- See the [course outlines](https://heat.csc.uvic.ca/coview/course/2020091/CSC578A) for other expectations, course policies, and official grade breakdown.
 - Monitor messages on Slack for any changes in course delivery methods, tools used and due dates.
+
+**Quizzes:**
+
+There will be three quizzes to be completed individually (online, via Connex) as per the course schedule (see the [readme](readnme.md) file).
+The quizzes will be based on assigned readings/videos/podcasts and material presented during the class.
 
 **Blogposts:**
 
-Details will be posted here shortly.
+Details will be posted here shortly. See the course schedule for tentative due dates for the six posts.  
+Blogposts will be based on assigned readings/videos/podcasts and material presented during the class.
 
 **Project #1:**
 
-Details will be posted here shortly. This literature review project will be completed individually for the most part.
-(The individual component is worth 80% of the project #1 grade) with an alignment step completed in class (worth 20% of your project #1 grade). 
+Details will be posted here shortly. This literature review project will have a main individual component worth 80% of the project #1 grade, and a collaborative alignment step completed during class time on Nov 6th (the alignment part is worth 20% of your project #1 grade). 
 
 **Project #2:** 
 
 This project will be completed in teams. 
+Details will be posted here later in the term and discussed in class.
 Each team member is required to do the following:
 
 1. Follow any updates on this site.
