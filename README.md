@@ -8,7 +8,7 @@ This course will prepare students for advanced research in industrial and academ
 
 The course will be held in a mostly synchronous fashion and students should be available to attend the full lectures each week. 
 The first part of the course will be more lecture based establishing some foundations in the topics taught in this course. 
-The second part of the course will be workshop based, with guest speakers and some activities to drill into topics more deeply.  These topics may include the following (details will be posted throughout the term and these topics are subject to change): code assessment techniques, security, knowledge sharing, continuous software engineering, human and social aspects, and development productivity. 
+The second part of the course will be workshop based, with guest speakers and some activities to drill into topics more deeply.  These topics may include some of the following topics (details will be posted throughout the term): code assessment techniques, security, knowledge sharing, continuous software engineering, human and social aspects of software engineering, diversity and inclusion in software engineering, and development productivity. 
 
 See [course requirements](requirements.md).
 
