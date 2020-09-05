@@ -21,10 +21,10 @@ See [course requirements](requirements.md).
 | | Date | Meeting agenda | Deliverable | 
 | ---:| ---------- | -------------- | ------------- | 
 | 1 | 11/09/2020 | [Introduction]()| Introductions/Activity | 
-| 2 | 18/09/2020 | Topics in SE | Quiz #1 | 
-| 3 | 25/09/2020 | Research Methods for SE | Quiz #2 | 
-| 4 | 02/10/2020 | Synthesizing Research | Quiz #3 | 
-| 5 | 09/10/2020 | Drop in to Zoom (thanksgiving weekend) | Work on Project #1 |
+| 2 | 18/09/2020 | Topics in SE | Group Activity | 
+| 3 | 25/09/2020 | Research Methods for SE | Group Activity | 
+| 4 | 02/10/2020 | Synthesizing Research | Group Activity | 
+| 5 | 09/10/2020 | Work on Project #1 | Project #1 started |
 | 6 | 16/10/2020 | Workshop #1 | Blogpost #1 |
 | 7 | 23/10/2020 | Workshop #2 | Blogpost #2 |
 | 8 | 30/10/2020 | Workshop #3 | Blogpost #3 |
