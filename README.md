@@ -6,6 +6,10 @@
 
 This course will prepare students for advanced research in industrial and academic settings by examining how to plan, conduct and report on empirical investigations of software engineering phenomena. The course will cover techniques applicable to each of the steps of an empirical software engineering research project, including formulating and identifying relevant research questions, data analysis (using both qualitative and quantitative methods), building evidence, developing new and refining existing theories, assessing validity and novelty of the research methods and outcomes, and publishing and presenting findings to different audiences. The course will emphasize research methods that are used to study human interactions with software engineering methods and tools: controlled experiments, user studies, field studies, surveys, archival data analysis methods, action research and ethnographies. We will explore, understand and critique the methods used in several examples of studies of software engineering methodologies and tools used in industry, and through academic peer reviewed articles published in empirical software engineering venues.​
 
+The course will be held in a mostly synchronous fashion and students should be available to attend the full lectures each week. 
+The first part of the course will be more lecture based establishing some foundations in the topics taught in this course. 
+The second part of the course will be workshop based, with guest speakers and some activities to drill into topics more deeply.  These topics may include the following (details will be posted throughout the term and these topics are subject to change): code assessment techniques, security, knowledge sharing, continuous software engineering, human and social aspects, and development productivity. 
+
 See [course requirements](requirements.md).
 
 ---
