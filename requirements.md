@@ -27,7 +27,7 @@ Blogposts will be based on assigned readings/videos/podcasts and material presen
 
 **Project #1:**
 
-Details will be posted here shortly. This literature review project will have a main individual component worth 80% of the project #1 grade, and a collaborative alignment step completed during class time on Nov 6th (the alignment part is worth 20% of your project #1 grade). 
+Details will be posted here shortly. This literature review project will have a main individual component worth 80% of the project #1 grade (with interim milestones), and a collaborative alignment step completed during class time on Nov 6th (the alignment part is worth 20% of your project #1 grade). 
 
 **Project #2:** 
 
@@ -35,12 +35,12 @@ This project will be completed in teams.
 Details will be posted here later in the term and discussed in class.
 Each team member is required to do the following:
 
-1. Follow any updates on this site.
+1. Follow any updates on this site and meet all of the established interim milestones.
 2. Attend all the lectures during the semester, as these will prepare you to succeed in this project.
 3. Together with your team mates, choose a topic for your project (details to follow).
 4. Contribute equitably throughout the term to the team project in terms of research, video and paper writing.
 5. Grade will be determined on a combination of the following:
     - 30% of your grade for this project component will be given for presentation in class (prepared video)
-    - 70% of your grade will be based on the final report.
-    - You are encouraged to submit early versions of your work for feedback before the final submission is due.
+    - 70% of your grade will be based on the final report and meeting milestones throughout the term
+    - Several milestones will be established for early versions of the report and project ideas.
     - Extra points may be given for: challenging projects, original ideas, collaboration with external organizations.
