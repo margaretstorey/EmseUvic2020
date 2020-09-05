@@ -8,6 +8,7 @@
 
 **General Requirements:**
 
+- This is a senior seminar style class assuming a professional approach to the course in terms of attendance and participation in the class and course
 - Attendance in all class meetings (lectures, project #1 alignment session, and workshops) during the scheduled timeslot is **mandatory**. If you have to miss a class, please let the instructor know ahead of time.  Some classes may start or end early depending on the nature of the topic covered.  Details will be posted on Slack in advance of the lecture (assume the lecture will consume the entire scheduled class time unless you hear otherwise).
 - Readings/videos/podcasts will be assigned and should be read/viewed/listened to in **advance** of the lectures and workshops.
 - Blogposts must be finalized and submitted by 5pm on their due dates.
@@ -15,10 +16,9 @@
 - See the [course outlines](https://heat.csc.uvic.ca/coview/course/2020091/CSC578A) for other expectations, course policies, and official grade breakdown.
 - Monitor messages on Slack for any changes in course delivery methods, tools used and due dates.
 
-**Quizzes:**
+**Course participation:**
 
-There will be three quizzes to be completed individually (online, via Connex) as per the course schedule (see the [readme](readnme.md) file).
-The quizzes will be based on assigned readings/videos/podcasts and material presented during the respective lectures.
+There will be group activities throughout the term and opportunities to contribute to the course material and class discussions. 
 
 **Blogposts:**
 
