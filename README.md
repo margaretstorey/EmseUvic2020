@@ -1,7 +1,7 @@
 # EmseUvic2020
 
 ##### [Department of Computer Science - University of Victoria](http://www.csc.uvic.ca/)
-##### [CSC 485A + SENG 480A + SCS578A](https://heat.csc.uvic.ca/coview/course/2020091/CSC578A), 2020, Fall Semester
+##### [CSC 485A + SENG 480A + CSC578A](https://heat.csc.uvic.ca/coview/course/2020091/CSC578A), 2020, Fall Semester
 <br>
 
 This course will prepare students for advanced research in industrial and academic settings by examining how to plan, conduct and report on empirical investigations of software engineering phenomena. The course will cover techniques applicable to each of the steps of an empirical software engineering research project, including formulating and identifying relevant research questions, data analysis (using both qualitative and quantitative methods), building evidence, developing new and refining existing theories, assessing validity and novelty of the research methods and outcomes, and publishing and presenting findings to different audiences. The course will emphasize research methods that are used to study human interactions with software engineering methods and tools: controlled experiments, user studies, field studies, surveys, archival data analysis methods, action research and ethnographies. We will explore, understand and critique the methods used in several examples of studies of software engineering methodologies and tools used in industry, and through academic peer reviewed articles published in empirical software engineering venues.​
@@ -16,7 +16,7 @@ See [course requirements](requirements.md).
 
 | | Date | Meeting agenda | Deliverable | 
 | ---:| ---------- | -------------- | ------------- | 
-| 1 | 11/09/2020 | [Introduction]()| Introductions | 
+| 1 | 11/09/2020 | [Introduction]()| Introductions/Activity | 
 | 2 | 18/09/2020 | Topics in SE | Quiz #1 | 
 | 3 | 25/09/2020 | Research Methods for SE | Quiz #2 | 
 | 4 | 02/10/2020 | Synthesizing Research | Quiz #3 | 
@@ -38,7 +38,8 @@ See [course requirements](requirements.md).
 - [Margaret-Anne Storey](https://margaretannestorey.com/)
 - [Omar Elazhary] (https://omazhary.github.io/about.html) (Teaching Assistant)
 
-**Office Hour:** By appointment and Thursdays 2-3pm (via Zoom, please email [mstorey@uvic.ca](mailto:mstorey@uvic.ca) to set up a meeting) 
+**Office Hour:** By appointment and Thursdays 2-3pm via Zoom. 
+Please direct message me on Slack (or email me) to set up a meeting.
 
 **Contact email:** [mstorey@uvic.ca](mailto:mstorey@uvic.ca)
 
