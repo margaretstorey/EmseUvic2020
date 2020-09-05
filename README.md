@@ -15,7 +15,7 @@ See [course requirements](requirements.md).
 ---
 
 **Classes will be on Fridays 1:30-4:20 online (via Zoom)**  
-(*Tentative schedule, slides and other materials will be posted in the [**resources section**](resources)*)
+(*Tentative schedule, slides and other materials will be posted throughout the term and linked in the table below*)
 
 
 | | Date | Meeting agenda | Deliverable | 
