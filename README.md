@@ -17,9 +17,9 @@ See [course requirements](requirements.md).
 | | Date | Meeting agenda | Deliverable | 
 | ---:| ---------- | -------------- | ------------- | 
 | 1 | 11/09/2020 | [Introduction]()| Introductions | 
-| 2 | 18/09/2020 | [Topics in SE]() | Quiz #1 | 
-| 3 | 25/09/2020 | [Research Methods for SE]() | Quiz #2 | 
-| 4 | 02/10/2020 | [Synthesizing Research]() | Quiz #3 | 
+| 2 | 18/09/2020 | Topics in SE | Quiz #1 | 
+| 3 | 25/09/2020 | Research Methods for SE | Quiz #2 | 
+| 4 | 02/10/2020 | Synthesizing Research | Quiz #3 | 
 | 5 | 09/10/2020 | Drop in to Zoom (thanksgiving weekend) | Work on Project #1 |
 | 6 | 16/10/2020 | Workshop #1 | Blogpost #1 |
 | 7 | 23/10/2020 | Workshop #2 | Blogpost #2 |
@@ -28,7 +28,7 @@ See [course requirements](requirements.md).
 | 10 | 13/11/2020 | Workshop #4 | Blogpost #4 |
 | 11 | 20/11/2020 | Workshop #5 | Blogpost #5 |
 | 12 | 27/11/2020 | Workshop #6 | Blogpost #6 |
-| 13 | 04/12/2020 | Project 2 share | Project #2, videos due | 
+| 13 | 04/12/2020 | Project #2 presentations | Project #2, videos due | 
 | 14 | 11/12/2020 | No class | Project #2, final reports due | 
 
 ---
@@ -36,12 +36,9 @@ See [course requirements](requirements.md).
 **Teaching Staff:**
 
 - [Margaret-Anne Storey](https://margaretannestorey.com/)
-- Omar Elzahary (Teaching Assistant)
+- [Omar Elzahary] (https://omazhary.github.io/about.html) (Teaching Assistant)
 
-**Projects:**  
-Information on projects will be posted here [projects](projects.md).
-
-**Office Hour:** By appointment and Thursdays (via Zoom) (please send me an email to set up a meeting) 
+**Office Hour:** By appointment and Thursdays 2-3pm (via Zoom) (please send me an email to set up a meeting) 
 
 **Contact email:** [mstorey@uvic.ca](mailto:mstorey@uvic.ca)
 
