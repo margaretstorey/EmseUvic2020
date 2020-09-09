@@ -29,6 +29,7 @@ by Greg Wilson, Jorge Aranda, American Scientist, Nov-Dec 2011.
 **Optional Readings:**
 - Chapter 1, Contemporary Book
 - [Why Most Published Research Findings Are False](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1182327/), by John P.A. Ioannidis, PLOS Medicine, 2005.
+- [Over half of psychology studies fail reproducibility test](https://www.nature.com/news/over-half-of-psychology-studies-fail-reproducibility-test-1.18248
 
 ## Guests
 - TBA
