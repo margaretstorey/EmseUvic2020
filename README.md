@@ -39,7 +39,7 @@ See [course requirements](requirements.md).
 
 ---
 
-##References:**
+**References:**
 
 See the resources for each lecture in the schedule above for an extensive list of assigned materials and optional references.  The following are some general books related to this topic (these are also available through the UVic library when you are logged in):
 
