@@ -17,4 +17,4 @@ Date: Sept 11, 2020
 
 ## Activities
 - Introductions (display a meaningful [customized Zoom background](https://support.zoom.us/hc/en-us/articles/204674889-Zoom-Rooms-Customized-Background) -- e.g., where you are from, favourite food, animal, sport, movie, song)
-- Group activity on history of software engineering (be ready to concept map!)
+- Group activity on history of software engineering (be ready to mindmap!)
