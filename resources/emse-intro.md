@@ -11,6 +11,7 @@ Date: Sept 18, 2020
 - Learn what empirical means
 - Learn about different types of knowledge gleaned from empirical software engineering
 - Understand the role of empirical software engineering in industry and academia (and the gap between the two)
+- Understand why human and social aspects matter
 
 ## Materials
 - Slides (To be posted)
