@@ -10,7 +10,7 @@ This course will prepare students for advanced research in industrial and academ
 
 The course will be held in a mostly synchronous fashion and students should be available to attend the full lectures each week. 
 The first part of the course will be more lecture based establishing some foundations in the topics taught and explored in this course. 
-The second part of the course will be workshop based, with guest speakers and ample activities to drill into specific topics more deeply.  The workshops will be on the following topics: code assessment techniques, knowledge sharing and collaboration, continuous software engineering, diversity and inclusion in software engineering, software engineering productivity and ethics of empirical research in software engineering. 
+The second part of the course will be workshop based, with guest speakers and ample activities to drill into specific topics more deeply.  The workshops will be on the following topics: code assessment techniques, knowledge sharing and collaboration, continuous software engineering, diversity and inclusion in software engineering, software engineering productivity and ethics of and reliability of empirical research in software engineering. 
 
 See [course requirements](requirements.md).
 
