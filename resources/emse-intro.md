@@ -28,7 +28,7 @@ by Greg Wilson, Jorge Aranda, American Scientist, Nov-Dec 2011.
 - [THE PRINCIPAL ELEMENTS OF THE NATURE OF SCIENCE: DISPELLING THE MYTHS by William F. McComas,1998](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.121.3476&rep=rep1&type=pdf)
 
 **Optional Readings:**
-- Chapter 1, Contemporary Book
+- Chapter 1, [Contemporary Empirical Methods in Software Engineering](https://link.springer.com/book/10.1007/978-3-030-32489-6), Editors: Michael FeldererGuilherme Horta Travassos, Springer 2020. [PDF](https://link.springer.com/content/pdf/10.1007%2F978-3-030-32489-6.pdf)
 - [Why Most Published Research Findings Are False](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1182327/), by John P.A. Ioannidis, PLOS Medicine, 2005.)
 - [Over half of psychology studies fail reproducibility test](https://www.nature.com/news/over-half-of-psychology-studies-fail-reproducibility-test-1.18248)
 - [Is Reproducible Research Accurate? by John Ioannidis Talk at Google 2014](https://www.youtube.com/watch?v=GPYzY9I78CI)
