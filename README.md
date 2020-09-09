@@ -42,7 +42,7 @@ See [course requirements](requirements.md).
 **Teaching Staff:**
 
 - [Margaret-Anne Storey](https://margaretannestorey.com/)
-- [Omar Elazhary] (https://omazhary.github.io/about.html) (Teaching Assistant)
+- [Omar Elazhary] ((http://omazhary.net) (Teaching Assistant)
 
 **Office Hour:** By appointment and Thursdays 2-3pm via Zoom. 
 Please direct message me on Slack (or email me) to set up a meeting.
