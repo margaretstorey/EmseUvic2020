@@ -17,6 +17,7 @@ Date: Sept 18, 2020
 - Assigned reading:  [Empirical Software Engineering](https://www.americanscientist.org/article/empirical-software-engineering) 
 by Greg Wilson, Jorge Aranda, American Scientist, Nov-Dec 2011.
 - Assigned reading: 
+- Assigned reading: [Building Theories in Software Engineering](http://pooh.poly.asu.edu/Ser515/Schedule/docs/BuildingTheoriesInSE_Ch12.pdf) by D. Sjøberg, T. Dybå, and J. Hannay, 2007, Chapter 12, [Guide to Advanced Empirical Software Engineering](https://link.springer.com/book/10.1007/978-1-84800-044-5)
 
 ## Guests
 - TBA
