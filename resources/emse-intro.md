@@ -14,7 +14,7 @@ Date: Sept 18, 2020
 - Learn about different types of knowledge gleaned from empirical software engineering
 - Understand the role of empirical software engineering in industry and academia (and the gap between the two)
 - Understand why human and social aspects matter
-- Identify your philosophical stance
+- Explore different research paradigms and identify your philosophical stance
 - Be able to think more critically about research findings and results
 
 ## Materials
