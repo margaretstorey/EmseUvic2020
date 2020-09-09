@@ -11,6 +11,7 @@ Date: Sept 11, 2020
 - Learn about and reflect on the history of software engineering
 
 ## Materials
+- Slides (To be posted)
 - [A History of Software Engineering by Grady Booch]() (watch during class time)
 
 ## Activities
