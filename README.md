@@ -46,7 +46,7 @@ See the resources for each lecture in the schedule above for an extensive list o
 - [Guide to Advanced Empirical Software Engineering](https://link.springer.com/book/10.1007/978-1-84800-044-5), by Forrest Shull, Janice Singer and Dag Sjøberg, Springer 2007,  [PDF link](https://link.springer.com/content/pdf/10.1007%2F978-1-84800-044-5.pdf)
 - [Contemporary Empirical Methods in Software Engineering](https://link.springer.com/book/10.1007/978-3-030-32489-6), Editors: Michael FeldererGuilherme Horta Travassos, Springer 2020. [PDF](https://link.springer.com/content/pdf/10.1007%2F978-3-030-32489-6.pdf)
 - [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/) by Titus Winters, Tom Manshreck, Hyrum Wright, Released March 2020, Publisher(s): O'Reilly Media, Inc.
-
+- [Research Methods in Human-Computer Interaction, 2nd Edition](https://www.elsevier.com/books/research-methods-in-human-computer-interaction/lazar/978-0-12-805390-4) by Paul Lazar, Elsevier, 2017. [uvic link](http://tinyurl.com/y2jtrkd2)
 
 
 **Teaching Staff:**
