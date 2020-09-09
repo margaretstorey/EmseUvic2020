@@ -23,7 +23,7 @@ See [course requirements](requirements.md).
 | | Date | Meeting agenda | Guests | Deliverable | 
 | ---:| ---------- | -------------- | ------------ |  ------------- | 
 | 1 | 11/09/2020 | [Course Introduction and <br> History of Software Engineering](resources/introduction.md)| | Introductions/Activity | 
-| 2 | 18/09/2020 | Introduction to Empirical Software Engineering | | Group Activity | 
+| 2 | 18/09/2020 | [Introduction to Empirical Software Engineering](resources/emse-intro.md) | | Group Activity | 
 | 3 | 25/09/2020 | Research Methods for SE | | Group Activity | 
 | 4 | 02/10/2020 | Synthesizing Research | | Group Activity | 
 | 5 | 09/10/2020 | Work on Project #1 | | Project #1 started |
