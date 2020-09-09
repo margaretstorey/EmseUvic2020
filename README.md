@@ -8,7 +8,7 @@ This course will prepare students for advanced research in industrial and academ
 
 The course will be held in a mostly synchronous fashion and students should be available to attend the full lectures each week. 
 The first part of the course will be more lecture based establishing some foundations in the topics taught in this course. 
-The second part of the course will be workshop based, with guest speakers and some activities to drill into topics more deeply.  These topics may include some of the following topics (details will be posted throughout the term): code assessment techniques, security, knowledge sharing, continuous software engineering, human and social aspects of software engineering, diversity and inclusion in software engineering, and development productivity. 
+The second part of the course will be workshop based, with guest speakers and some activities to drill into topics more deeply.  These topics may include some of the following topics: code assessment techniques, knowledge sharing and collaboration, continuous software engineering, human and social aspects of software engineering, diversity and inclusion in software engineering, development productivity and development security. 
 
 See [course requirements](requirements.md).
 
@@ -20,8 +20,8 @@ See [course requirements](requirements.md).
 
 | | Date | Meeting agenda | Deliverable | 
 | ---:| ---------- | -------------- | ------------- | 
-| 1 | 11/09/2020 | [Course Introduction](resources/introduction.md)| Introductions/Activity | 
-| 2 | 18/09/2020 | Software Engineering Overview | Group Activity | 
+| 1 | 11/09/2020 | [Course Introduction and History of Software Engineering](resources/introduction.md)| Introductions/Activity | 
+| 2 | 18/09/2020 | Introduction to Empirical Software Engineering Overview | Group Activity | 
 | 3 | 25/09/2020 | Research Methods for SE | Group Activity | 
 | 4 | 02/10/2020 | Synthesizing Research | Group Activity | 
 | 5 | 09/10/2020 | Work on Project #1 | Project #1 started |
