@@ -20,22 +20,22 @@ See [course requirements](requirements.md).
 (*Tentative schedule, slides and other materials will be posted throughout the term and linked in the table below*)
 
 
-| | Date | Meeting agenda | Deliverable | 
+| | Date | Meeting agenda | Guests | Deliverable | 
 | ---:| ---------- | -------------- | ------------- | 
-| 1 | 11/09/2020 | [Course Introduction and History of Software Engineering](resources/introduction.md)| Introductions/Activity | 
-| 2 | 18/09/2020 | Introduction to Empirical Software Engineering | Group Activity | 
-| 3 | 25/09/2020 | Research Methods for SE | Group Activity | 
-| 4 | 02/10/2020 | Synthesizing Research | Group Activity | 
-| 5 | 09/10/2020 | Work on Project #1 | Project #1 started |
-| 6 | 16/10/2020 | Workshop #1 | Blogpost #1 |
-| 7 | 23/10/2020 | Workshop #2 | Blogpost #2 |
-| 8 | 30/10/2020 | Workshop #3 | Blogpost #3 |
-| 9 | 06/11/2020 | Alignment for Project #1 | Project #1 due | 
-| 10 | 13/11/2020 | Workshop #4 | Blogpost #4 |
-| 11 | 20/11/2020 | Workshop #5 | Blogpost #5 |
-| 12 | 27/11/2020 | Workshop #6 | Blogpost #6 |
-| 13 | 04/12/2020 | Project #2 presentations | Project #2, videos due | 
-| 14 | 11/12/2020 | No class | Project #2, final reports due | 
+| 1 | 11/09/2020 | [Course Introduction and History of Software Engineering](resources/introduction.md)| | Introductions/Activity | 
+| 2 | 18/09/2020 | Introduction to Empirical Software Engineering | | Group Activity | 
+| 3 | 25/09/2020 | Research Methods for SE | | Group Activity | 
+| 4 | 02/10/2020 | Synthesizing Research | | Group Activity | 
+| 5 | 09/10/2020 | Work on Project #1 | | Project #1 started |
+| 6 | 16/10/2020 | Workshop #1 | | Blogpost #1 |
+| 7 | 23/10/2020 | Workshop #2 | | Blogpost #2 |
+| 8 | 30/10/2020 | Workshop #3 | | Blogpost #3 |
+| 9 | 06/11/2020 | Alignment for Project #1 | | Project #1 due | 
+| 10 | 13/11/2020 | Workshop #4 | | Blogpost #4 |
+| 11 | 20/11/2020 | Workshop #5 | | Blogpost #5 |
+| 12 | 27/11/2020 | Workshop #6 | | Blogpost #6 |
+| 13 | 04/12/2020 | Project #2 presentations | | Project #2, videos due | 
+| 14 | 11/12/2020 | No class | | Project #2, final reports due | 
 
 ---
 
