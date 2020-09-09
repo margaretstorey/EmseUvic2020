@@ -1,7 +1,7 @@
 # Week 1: Course Introduction and History of Software Engineering
 
 Date: Sept 11, 2020
-(See [Connex]() for link to Zoom, you need to use your UVic ID to access Connex)
+(See [Connex](https://connex.csc.uvic.ca/portal/site/emse2020) for link to Zoom, you need to use your UVic ID to access Connex)
 
 ## Lecture Objectives
 
