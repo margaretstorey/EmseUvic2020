@@ -1,17 +1,17 @@
 # Week 3: Empirical Methods in Software Engineering
-(this file is a work in progresss)
 
 Date: Sept 25th, 2020
 (See [Connex]( https://connex.csc.uvic.ca/portal/site/emse2020) for link to Zoom, you need to use your UVic ID to access Connex)
 
 ## Lecture Topics
 - Selecting methods and designing good research questions
-- Field studies
-- Lab experiments
-- Qualitative methods (diary studies, interviews, focus groups)
-- Observations, ethnography
-- Surveys
-- Mining software repositories and software analytics
+- Overview of methods:
+  - Field studies
+  - Lab experiments
+  - Qualitative methods (diary studies, interviews, focus groups)
+  - Observations, ethnography
+  - Surveys
+  - Mining software repositories and software analytics
 - Analyzing qualitative data 
 - Analyzing quantitative data
 
