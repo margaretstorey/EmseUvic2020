@@ -30,10 +30,10 @@ by Greg Wilson, Jorge Aranda, American Scientist, Nov-Dec 2011.
 **Optional Readings:**
 - Chapter 1, [Contemporary Empirical Methods in Software Engineering](https://link.springer.com/book/10.1007/978-3-030-32489-6), Editors: Michael FeldererGuilherme Horta Travassos, Springer 2020. [PDF](https://link.springer.com/content/pdf/10.1007%2F978-3-030-32489-6.pdf)
 - [Programming as Theory Building](http://pages.cs.wisc.edu/~remzi/Naur.pdf) by Peter Naur, 1985.
-- [](https://third-bit.com/2020/07/09/acm-sigsoft-award.html)
+- [Sigsoft award for influential educator: Greg Wilson](https://third-bit.com/2020/07/09/acm-sigsoft-award.html)
 
 ## Guests
-- We are very lucky to have scheduled a live conversation with [Greg Wilson](https://third-bit.com/), author of some of the assigned readings above!
+- We are very lucky to have scheduled a live conversation with [Greg Wilson](https://third-bit.com/), author of some of the assigned readings for this week:
 
 
 ## Activities
