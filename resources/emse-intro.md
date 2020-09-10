@@ -23,9 +23,10 @@ Date: Sept 18, 2020
 **Assigned Readings:**
 - [Empirical Software Engineering](https://www.americanscientist.org/article/empirical-software-engineering) 
 by Greg Wilson, Jorge Aranda, American Scientist, Nov-Dec 2011.
-- [Building Theories in Software Engineering](http://pooh.poly.asu.edu/Ser515/Schedule/docs/BuildingTheoriesInSE_Ch12.pdf) by D. Sjøberg, T. Dybå, and J. Hannay, 2007, Chapter 12, [Guide to Advanced Empirical Software Engineering](https://link.springer.com/book/10.1007/978-1-84800-044-5)
 - [Design Science Research in Software Engineering](http://chisel.cs.uvic.ca/pubs/storey-ESEM2017.pdf) by Storey, Enstrom, Host and Runeson, ESEM 2017.
 - [THE PRINCIPAL ELEMENTS OF THE NATURE OF SCIENCE: DISPELLING THE MYTHS by William F. McComas,1998](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.121.3476&rep=rep1&type=pdf)
+- [Programming as Theory Building](http://pages.cs.wisc.edu/~remzi/Naur.pdf) by Peter Naur, 1985.
+- [Building Theories in Software Engineering](http://pooh.poly.asu.edu/Ser515/Schedule/docs/BuildingTheoriesInSE_Ch12.pdf) by D. Sjøberg, T. Dybå, and J. Hannay, 2007, Chapter 12, [Guide to Advanced Empirical Software Engineering](https://link.springer.com/book/10.1007/978-1-84800-044-5)
 
 **Optional Readings:**
 - Chapter 1, [Contemporary Empirical Methods in Software Engineering](https://link.springer.com/book/10.1007/978-3-030-32489-6), Editors: Michael FeldererGuilherme Horta Travassos, Springer 2020. [PDF](https://link.springer.com/content/pdf/10.1007%2F978-3-030-32489-6.pdf)
