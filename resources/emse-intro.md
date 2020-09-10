@@ -24,12 +24,12 @@ Date: Sept 18, 2020
 - [Empirical Software Engineering](https://www.americanscientist.org/article/empirical-software-engineering) 
 by Greg Wilson, Jorge Aranda, American Scientist, Nov-Dec 2011.
 - [The Princial Elements of the Nature of Science: Dispelling the Myths](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.121.3476&rep=rep1&type=pdf) by William F. McComas,1998
-- [Programming as Theory Building](http://pages.cs.wisc.edu/~remzi/Naur.pdf) by Peter Naur, 1985.
 - [Design Science Research in Software Engineering](http://chisel.cs.uvic.ca/pubs/storey-ESEM2017.pdf) by Storey, Enstrom, Host and Runeson, ESEM 2017.
 - [Why engineers write bad code](https://changelog.com/podcast/339) by Adam Barr (he explores the gap between industry and academia)
 
 **Optional Readings:**
 - Chapter 1, [Contemporary Empirical Methods in Software Engineering](https://link.springer.com/book/10.1007/978-3-030-32489-6), Editors: Michael FeldererGuilherme Horta Travassos, Springer 2020. [PDF](https://link.springer.com/content/pdf/10.1007%2F978-3-030-32489-6.pdf)
+- [Programming as Theory Building](http://pages.cs.wisc.edu/~remzi/Naur.pdf) by Peter Naur, 1985.
 
 ## Guests
 - TBA
