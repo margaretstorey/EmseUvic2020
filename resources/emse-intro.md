@@ -32,7 +32,8 @@ by Greg Wilson, Jorge Aranda, American Scientist, Nov-Dec 2011.
 - [Programming as Theory Building](http://pages.cs.wisc.edu/~remzi/Naur.pdf) by Peter Naur, 1985.
 
 ## Guests
-- TBA
+- A live conversation with [Greg Wilson](https://third-bit.com/), author of one of the assigned readings above as well as this article:  https://third-bit.com/2020/07/09/acm-sigsoft-award.html
+
 
 ## Activities
 - Group activity
