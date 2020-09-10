@@ -35,4 +35,4 @@ by Greg Wilson, Jorge Aranda, American Scientist, Nov-Dec 2011.
 - TBA
 
 ## Activities
-- Group activity: 2 Truths and 1 Lie
+- Group activity
