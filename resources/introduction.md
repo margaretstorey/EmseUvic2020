@@ -14,6 +14,7 @@ Date: Sept 11, 2020
 - Slides (To be posted)
 - [A History of Software Engineering by Grady Booch]() (watch during class time)
 - Optional reading: [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/) By Titus Winters, Tom Manshreck and Hyrum Wright, O'Reilly Media [uvic link](http://tinyurl.com/yyybgzr6)
+- Optional podcast: [Exploding Software Engineering Myths](https://www.microsoft.com/en-us/research/blog/exploding-software-engineering-myths/)
 
 ## Activities
 - Introductions (display a meaningful [customized Zoom background](https://support.zoom.us/hc/en-us/articles/204674889-Zoom-Rooms-Customized-Background) -- e.g., where you are from, favourite food, animal, sport, movie, song)
