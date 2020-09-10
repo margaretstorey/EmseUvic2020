@@ -20,12 +20,13 @@ Date: Sept 18, 2020
 ## Materials
 - Slides (To be posted)
 
-**Assigned Readings:**
+**Assigned Readings/Podcasts:**
 - [Empirical Software Engineering](https://www.americanscientist.org/article/empirical-software-engineering) 
 by Greg Wilson, Jorge Aranda, American Scientist, Nov-Dec 2011.
 - [Design Science Research in Software Engineering](http://chisel.cs.uvic.ca/pubs/storey-ESEM2017.pdf) by Storey, Enstrom, Host and Runeson, ESEM 2017.
 - [THE PRINCIPAL ELEMENTS OF THE NATURE OF SCIENCE: DISPELLING THE MYTHS by William F. McComas,1998](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.121.3476&rep=rep1&type=pdf)
 - [Programming as Theory Building](http://pages.cs.wisc.edu/~remzi/Naur.pdf) by Peter Naur, 1985.
+- [Why engineers write bad code](https://changelog.com/podcast/339) by Adam Barr (he explores the gap between industry and academia)
 - [Building Theories in Software Engineering](http://pooh.poly.asu.edu/Ser515/Schedule/docs/BuildingTheoriesInSE_Ch12.pdf) by D. Sjøberg, T. Dybå, and J. Hannay, 2007, Chapter 12, [Guide to Advanced Empirical Software Engineering](https://link.springer.com/book/10.1007/978-1-84800-044-5)
 
 **Optional Readings:**
