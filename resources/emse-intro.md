@@ -17,23 +17,19 @@ Date: Sept 18, 2020
 - Explore different research paradigms and identify your philosophical stance
 - Be able to think more critically about research findings and results
 
-## Materials
+## Materials 
 - Slides (To be posted)
 
-**Assigned Readings/Podcasts:**
+**Assigned Readings/Podcasts:**. 
 - [Empirical Software Engineering](https://www.americanscientist.org/article/empirical-software-engineering) 
 by Greg Wilson, Jorge Aranda, American Scientist, Nov-Dec 2011.
-- [Design Science Research in Software Engineering](http://chisel.cs.uvic.ca/pubs/storey-ESEM2017.pdf) by Storey, Enstrom, Host and Runeson, ESEM 2017.
-- [THE PRINCIPAL ELEMENTS OF THE NATURE OF SCIENCE: DISPELLING THE MYTHS by William F. McComas,1998](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.121.3476&rep=rep1&type=pdf)
+- [The Princial Elements of the Nature of Science: Dispelling the Myths](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.121.3476&rep=rep1&type=pdf) by William F. McComas,1998
 - [Programming as Theory Building](http://pages.cs.wisc.edu/~remzi/Naur.pdf) by Peter Naur, 1985.
+- [Design Science Research in Software Engineering](http://chisel.cs.uvic.ca/pubs/storey-ESEM2017.pdf) by Storey, Enstrom, Host and Runeson, ESEM 2017.
 - [Why engineers write bad code](https://changelog.com/podcast/339) by Adam Barr (he explores the gap between industry and academia)
-
 
 **Optional Readings:**
 - Chapter 1, [Contemporary Empirical Methods in Software Engineering](https://link.springer.com/book/10.1007/978-3-030-32489-6), Editors: Michael FeldererGuilherme Horta Travassos, Springer 2020. [PDF](https://link.springer.com/content/pdf/10.1007%2F978-3-030-32489-6.pdf)
-- [Why Most Published Research Findings Are False](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1182327/), by John P.A. Ioannidis, PLOS Medicine, 2005.)
-- [Over half of psychology studies fail reproducibility test](https://www.nature.com/news/over-half-of-psychology-studies-fail-reproducibility-test-1.18248)
-- [Is Reproducible Research Accurate? by John Ioannidis Talk at Google 2014](https://www.youtube.com/watch?v=GPYzY9I78CI)
 
 ## Guests
 - TBA
