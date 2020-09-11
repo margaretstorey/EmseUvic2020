@@ -10,7 +10,6 @@ Date: Sept 18, 2020
 - Design Science
 
 ## Lecture Objectives
-- Learn what empirical means
 - Learn about different types of knowledge gleaned from empirical software engineering
 - Understand the role of empirical software engineering in industry and academia (and the gap between the two)
 - Understand why human and social aspects matter
@@ -33,8 +32,7 @@ by Greg Wilson, Jorge Aranda, American Scientist, Nov-Dec 2011.
 - [Sigsoft award for influential educator: Greg Wilson](https://third-bit.com/2020/07/09/acm-sigsoft-award.html)
 
 ## Guests
-- We are very lucky to have scheduled a live conversation with [Greg Wilson](https://third-bit.com/), author of some of the assigned readings for this week:
-
+- We are very lucky to have a conversation with [Greg Wilson](https://third-bit.com/), author of some of the assigned readings for this week:
 
 ## Activities
 - Group activity
