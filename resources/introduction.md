@@ -17,9 +17,6 @@ Date: Sept 11, 2020
 **Optional readings/podcasts:**
 
 - Chapter 1 of [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/) By Titus Winters, Tom Manshreck and Hyrum Wright, O'Reilly Media [uvic link](http://tinyurl.com/yyybgzr6)
-- [Why Most Published Research Findings Are False](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1182327/), by John P.A. Ioannidis, PLOS Medicine, 2005.)
-- [Over half of psychology studies fail reproducibility test](https://www.nature.com/news/over-half-of-psychology-studies-fail-reproducibility-test-1.18248)
-- [Is Reproducible Research Accurate? by John Ioannidis Talk at Google 2014](https://www.youtube.com/watch?v=GPYzY9I78CI)
 - [Exploding Software Engineering Myths](https://www.microsoft.com/en-us/research/blog/exploding-software-engineering-myths/)
 
 ## Activities
