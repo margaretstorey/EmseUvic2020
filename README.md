@@ -1,4 +1,4 @@
-# EMSEUVic2020
+# EMSE UVic 2020
 
 ##### [Department of Computer Science - University of Victoria](http://www.csc.uvic.ca/)
 ##### [CSC 485A + SENG 480A + CSC578A](https://heat.csc.uvic.ca/coview/course/2020091/CSC578A), 2020, Fall Semester
@@ -12,7 +12,7 @@ The course will be held in a mostly synchronous fashion and students should be a
 The first part of the course will be more lecture based, establishing some foundations in the topics taught and explored in this course. 
 The second part of the course will be workshop based, with guest speakers and ample activities to drill into specific topics more deeply. The workshops will be on the following topics: code assessment techniques, knowledge sharing and collaboration, continuous software engineering, diversity and inclusion in software engineering, software engineering productivity, and ethics and reliability of empirical research in software engineering. 
 
-See [course requirements](requirements.md) and the [course ouline](https://heat.csc.uvic.ca/coview/course/2020091/CSC578A) for more details.
+See [course requirements](requirements.md) and the [course outline](https://heat.csc.uvic.ca/coview/course/2020091/CSC578A) for more details.
 
 ---
 
@@ -43,10 +43,10 @@ See [course requirements](requirements.md) and the [course ouline](https://heat.
 
 See the resources for each lecture in the schedule above for an extensive list of assigned materials and optional references. The following are some general books related to this topic (these are also available through the UVic library when you are logged in):
 
-- [Guide to Advanced Empirical Software Engineering](https://link.springer.com/book/10.1007/978-1-84800-044-5), by Forrest Shull, Janice Singer and Dag Sjøberg, Springer 2007,  [PDF link](https://link.springer.com/content/pdf/10.1007%2F978-1-84800-044-5.pdf)
-- [Contemporary Empirical Methods in Software Engineering](https://link.springer.com/book/10.1007/978-3-030-32489-6), Editors: Michael FeldererGuilherme Horta Travassos, Springer 2020. [PDF](https://link.springer.com/content/pdf/10.1007%2F978-3-030-32489-6.pdf)
+- [Guide to Advanced Empirical Software Engineering](https://link.springer.com/book/10.1007/978-1-84800-044-5), by Forrest Shull, Janice Singer and Dag Sjøberg, Springer 2007, [PDF link](https://link.springer.com/content/pdf/10.1007%2F978-1-84800-044-5.pdf)
+- [Contemporary Empirical Methods in Software Engineering](https://link.springer.com/book/10.1007/978-3-030-32489-6), Editors: Michael Felderer, Guilherme Horta Travassos, Springer 2020. [PDF link](https://link.springer.com/content/pdf/10.1007%2F978-3-030-32489-6.pdf)
 - [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/) by Titus Winters, Tom Manshreck, Hyrum Wright, Released March 2020, Publisher(s): O'Reilly Media, Inc.
-- [Research Methods in Human-Computer Interaction, 2nd Edition](https://www.elsevier.com/books/research-methods-in-human-computer-interaction/lazar/978-0-12-805390-4) by Paul Lazar, Elsevier, 2017. [uvic link](http://tinyurl.com/y2jtrkd2)
+- [Research Methods in Human-Computer Interaction, 2nd Edition](https://www.elsevier.com/books/research-methods-in-human-computer-interaction/lazar/978-0-12-805390-4) by Paul Lazar, Elsevier, 2017. [UVic link](http://tinyurl.com/y2jtrkd2)
 
 
 **Teaching Staff:**
