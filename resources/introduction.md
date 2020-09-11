@@ -16,7 +16,7 @@ Date: Sept 11, 2020
 
 **Optional readings/podcasts:**
 
-- Chapter 1 of [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/) By Titus Winters, Tom Manshreck and Hyrum Wright, O'Reilly Media [uvic link](http://tinyurl.com/yyybgzr6)
+- Chapter 1 of [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/) By Titus Winters, Tom Manshreck and Hyrum Wright, O'Reilly Media [UVic link](http://tinyurl.com/yyybgzr6)
 - [Exploding Software Engineering Myths](https://www.microsoft.com/en-us/research/blog/exploding-software-engineering-myths/)
 
 ## Activities
