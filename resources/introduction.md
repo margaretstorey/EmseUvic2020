@@ -12,7 +12,7 @@ Date: Sept 11, 2020
 
 ## Materials
 - Slides (To be posted)
-- [A History of Software Engineering by Grady Booch](https://www.youtube.com/watch?v=OdI7Ukf-Bf4) (watch during class time)
+- [A History of Software Engineering by Grady Booch](https://youtu.be/QUz10Z1AfLc?t=286) (watch during class time)
 
 **Optional readings/podcasts:**
 
