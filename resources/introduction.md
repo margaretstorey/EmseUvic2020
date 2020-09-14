@@ -11,8 +11,8 @@ Date: Sept 11, 2020
 - Learn about and reflect on the history of software engineering
 
 ## Materials
-- [Slides](resources/emse-uvic%202020%20week1.pdf)
-- [Mentimeter Results](resources/Week1-Menti-Results.pdf)
+- [Slides](emse-uvic%202020%20week1.pdf)
+- [Mentimeter Results](Week1-Menti-Results.pdf)
 - [A History of Software Engineering by Grady Booch](https://www.youtube.com/watch?v=OdI7Ukf-Bf4) (watch during class time)
 
 **Optional readings/podcasts:**
