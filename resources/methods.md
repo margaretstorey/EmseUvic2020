@@ -37,7 +37,7 @@ Date: Sept 25th, 2020
 
 **Required readings/podcasts/videos:**
 - [Selecting a research method by Easterbrook et al.](http://www.cs.utoronto.ca/~sme/papers/2007/SelectingEmpiricalMethods.pdf) 
-- [Methodology Matters by McGrath](https://www.sciencedirect.com/science/article/pii/B9780080515748500194) (log into UVic via VPN to access this article)
+- [Methodology Matters by McGrath](https://www.sciencedirect.com/science/article/pii/B9780080515748500194) (access through UVic library)
 - [Guidelines for conducting and reporting case study research in software engineering](https://link.springer.com/article/10.1007%2Fs10664-008-9102-8) by Per Runeson and Martin Höst, Empirical Software Engineering 14, 131 (2009). 
 - [Developing a grounded theory to explain the practices of self-organizing Agile teams.] Hoda, Rashina & Noble, James & Marshall, Stuart. (2012).  Empirical Software Engineering - ESE. 17. 1-31. 
 https://medium.com/bits-and-behavior/grand-challenges-in-program-comprehension-and-software-repository-mining-my-keynote-on-7bf2cfc182a5
@@ -50,6 +50,7 @@ https://medium.com/bits-and-behavior/grand-challenges-in-program-comprehension-a
 - [The Role of Ethnographic Studies in Empirical Software Engineering, by Helen Sharp et al.](http://oro.open.ac.uk/45166/), IEEE Transactions on Software Engineering, 42(8) pp. 786–804, 2016.
 - [Beyond a good story: from Hawthorne Effect to reactivity in health professions education research
 Elise Paradis and Gary Sutkin](https://pubmed.ncbi.nlm.nih.gov/27580703/) Med Educ. 2017 Jan;51(1):31-39. doi: 10.1111/medu.13122. Epub 2016 Aug 31.
+- [Action Research in Software Engineering](https://link.springer.com/chapter/10.1007/978-3-030-10801-4_4)
 
 ## Guests
 [Prof. Rashina Hoda, Monash University, Melbourne, Australia](https://research.monash.edu/en/persons/rashina-hoda)
