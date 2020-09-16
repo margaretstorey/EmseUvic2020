@@ -40,7 +40,7 @@ Date: Sept 25th, 2020
 - [Developing a grounded theory to explain the practices of self-organizing Agile teams](https://link.springer.com/article/10.1007/s10664-011-9161-0) by Hoda, Rashina & Noble, James & Marshall, Stuart. (2012).  Empirical Software Engineering - ESE. 17. 1-31. 
 - [Challenges in Program Comprehension nad Software Repository Mining, Talk by Amy Ko](https://medium.com/bits-and-behavior/grand-challenges-in-program-comprehension-and-software-repository-mining-my-keynote-on-7bf2cfc182a5)
 
-#### Optional readings/podcasts/videos:**
+#### Optional readings/podcasts/videos:
 - [Grounded theory for Geeks](https://www.researchgate.net/publication/263088251_Grounded_Theory_for_Geeks) by Rashina Hoda, James Noble, Stuart Marshall. ACM International Conference Proceeding Series. 2011.
 - [Case studies in Software Engineering](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118181034) by Per Runeson et al. [uvic link](http://tinyurl.com/y64b6gw5)
 - [Research Methods in Human-Computer Interaction, 2nd Edition](https://www.elsevier.com/books/research-methods-in-human-computer-interaction/lazar/978-0-12-805390-4) by Paul Lazar, Elsevier, 2017. [uvic link](http://tinyurl.com/y2jtrkd2)
