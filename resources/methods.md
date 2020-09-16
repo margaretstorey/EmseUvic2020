@@ -1,5 +1,4 @@
 # Week 3: Empirical Methods in Software Engineering
-**Note: In progress until linked from the schedule**
 
 Date: Sept 25th, 2020
 (See [Connex]( https://connex.csc.uvic.ca/portal/site/emse2020) for link to Zoom, you need to use your UVic ID to access Connex)
