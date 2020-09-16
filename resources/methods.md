@@ -37,7 +37,7 @@ Date: Sept 25th, 2020
 
 **Required readings/podcasts/videos:**
 - [Selecting a research method by Easterbrook et al.](http://www.cs.utoronto.ca/~sme/papers/2007/SelectingEmpiricalMethods.pdf) 
-- [Methodology Matters by McGrath](http://www.ufpa.br/cdesouza/teaching/es/2000-mcgrath.pdf)
+- [Methodology Matters by McGrath](https://www.sciencedirect.com/science/article/pii/B9780080515748500194) (log into UVic via VPN to access this article)
 - [Guidelines for conducting and reporting case study research in software engineering](https://link.springer.com/article/10.1007%2Fs10664-008-9102-8) by Per Runeson and Martin Höst, Empirical Software Engineering 14, 131 (2009). 
 - [Developing a grounded theory to explain the practices of self-organizing Agile teams.] Hoda, Rashina & Noble, James & Marshall, Stuart. (2012).  Empirical Software Engineering - ESE. 17. 1-31. 
 https://medium.com/bits-and-behavior/grand-challenges-in-program-comprehension-and-software-repository-mining-my-keynote-on-7bf2cfc182a5
