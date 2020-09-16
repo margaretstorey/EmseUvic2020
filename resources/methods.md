@@ -1,4 +1,5 @@
 # Week 3: Empirical Methods in Software Engineering
+**Note: In progress until linked from the schedule**
 
 Date: Sept 25th, 2020
 (See [Connex]( https://connex.csc.uvic.ca/portal/site/emse2020) for link to Zoom, you need to use your UVic ID to access Connex)
@@ -28,20 +29,30 @@ Date: Sept 25th, 2020
 ## Materials
 - Slides (To be posted)
 
-**Required readings: TBD**
-- https://link.springer.com/article/10.1007%2Fs10664-008-9102-8 ([link at uvic](http://tinyurl.com/y5vp9ews)
-- Grounded theory by Rashina Hoda
-- Ethnography in software engineering by Helen Sharp et al.
-- Designing surveys
+## Lecture Format
+- Lecture
+- Group Activity
+- Guest Speaker
 
-**Optional readings:**
-- Case study book, by Per Runeson et al.  [uvic link](http://tinyurl.com/y64b6gw5)
-- Grounded theory in agile teams: https://link.springer.com/article/10.1007%2Fs10664-020-09876-x
+
+**Required readings/podcasts/videos:**
+- [Selecting a research method by Easterbrook et al.](http://www.cs.utoronto.ca/~sme/papers/2007/SelectingEmpiricalMethods.pdf) 
+- [Methodology Matters by McGrath](http://www.ufpa.br/cdesouza/teaching/es/2000-mcgrath.pdf)
+- [Guidelines for conducting and reporting case study research in software engineering](https://link.springer.com/article/10.1007%2Fs10664-008-9102-8) by Per Runeson and Martin Höst, Empirical Software Engineering 14, 131 (2009). 
+- [Developing a grounded theory to explain the practices of self-organizing Agile teams.] Hoda, Rashina & Noble, James & Marshall, Stuart. (2012).  Empirical Software Engineering - ESE. 17. 1-31. 
+https://medium.com/bits-and-behavior/grand-challenges-in-program-comprehension-and-software-repository-mining-my-keynote-on-7bf2cfc182a5
+
+**Optional readings/podcasts/videos:**
+- [Grounded theory for Geeks](https://www.researchgate.net/publication/263088251_Grounded_Theory_for_Geeks) by Rashina Hoda, James Noble, Stuart Marshall. ACM International Conference Proceeding Series. 2011.
+- Case study book, by Per Runeson et al. [uvic link](http://tinyurl.com/y64b6gw5)
 - [Research Methods in Human-Computer Interaction, 2nd Edition](https://www.elsevier.com/books/research-methods-in-human-computer-interaction/lazar/978-0-12-805390-4) by Paul Lazar, Elsevier, 2017. [uvic link](http://tinyurl.com/y2jtrkd2)
 - [Tutorial on Surveys in Software Engineering](https://www.slideshare.net/mendezfe/surveys-in-software-engineering) 
-
+- [The Role of Ethnographic Studies in Empirical Software Engineering, by Helen Sharp et al.](http://oro.open.ac.uk/45166/), IEEE Transactions on Software Engineering, 42(8) pp. 786–804, 2016.
+- [Beyond a good story: from Hawthorne Effect to reactivity in health professions education research
+Elise Paradis and Gary Sutkin](https://pubmed.ncbi.nlm.nih.gov/27580703/) Med Educ. 2017 Jan;51(1):31-39. doi: 10.1111/medu.13122. Epub 2016 Aug 31.
 
 ## Guests
+[Prof. Rashina Hoda, Monash University, Melbourne, Australia](https://research.monash.edu/en/persons/rashina-hoda)
 
 ## Activities
-- Group Activity
+- Group Activity (Myths!)
