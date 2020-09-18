@@ -43,6 +43,7 @@ Date: Sept 25th, 2020
 #### Optional readings/podcasts/videos:
 - [Grounded theory for Geeks](https://www.researchgate.net/publication/263088251_Grounded_Theory_for_Geeks) by Rashina Hoda, James Noble, Stuart Marshall. ACM International Conference Proceeding Series. 2011.
 - [Case studies in Software Engineering](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118181034) by Per Runeson et al. [uvic link](http://tinyurl.com/y64b6gw5)
+- [Perspectives on Data Science for Software Engineering](https://www.elsevier.com/books/perspectives-on-data-science-for-software-engineering/menzies/978-0-12-804206-9?countrycode=US&format=print&utm_source=google_ads&utm_medium=paid_search&utm_campaign=canadashopping&gclid=CjwKCAjwkoz7BRBPEiwAeKw3q6IdWnBmgg4ZFIMpU6XMzITW4PFErv6VHHEqJ29NflbtSsG6WIFv5xoCrEIQAvD_BwE&gclsrc=aw.ds), 1st Edition, Editors: Tim Menzies Laurie Williams Thomas Zimmerman, Morgan Kaufmann, 2016. [UVic link](http://tinyurl.com/y5fgal9s)
 - [Research Methods in Human-Computer Interaction, 2nd Edition](https://www.elsevier.com/books/research-methods-in-human-computer-interaction/lazar/978-0-12-805390-4) by Paul Lazar, Elsevier, 2017. [uvic link](http://tinyurl.com/y2jtrkd2)
 - [Tutorial on Surveys in Software Engineering](https://www.slideshare.net/mendezfe/surveys-in-software-engineering) 
 - [The Role of Ethnographic Studies in Empirical Software Engineering, by Helen Sharp et al.](http://oro.open.ac.uk/45166/), IEEE Transactions on Software Engineering, 42(8) pp. 786–804, 2016.
