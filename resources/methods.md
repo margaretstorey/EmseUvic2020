@@ -50,6 +50,9 @@ Date: Sept 25th, 2020
 - [Action Research in Software Engineering](https://link.springer.com/chapter/10.1007/978-3-030-10801-4_4)
 - [Beyond a good story: from Hawthorne Effect to reactivity in health professions education research
 Elise Paradis and Gary Sutkin](https://pubmed.ncbi.nlm.nih.gov/27580703/) Med Educ. 2017 Jan;51(1):31-39. doi: 10.1111/medu.13122. Epub 2016 Aug 31.
+-  [Research design: Qualitative, quantitative, and mixed methods approaches](https://us.sagepub.com/en-us/nam/research-design/book255675), Creswell & Creswell. Sage publications, 5th edition.
+- [Qualitative data analysis: A methods sourcebook](https://us.sagepub.com/en-us/nam/qualitative-data-analysis/book246128) by Miles, Matthew B., A. Michael Huberman, and Johnny Saldana. 2014. 4th edition.
+
 
 ## Guests
 [Prof. Rashina Hoda, Monash University, Melbourne, Australia](https://research.monash.edu/en/persons/rashina-hoda)
