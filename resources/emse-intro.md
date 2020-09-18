@@ -32,7 +32,7 @@ by Greg Wilson, Jorge Aranda, American Scientist, Nov-Dec 2011.
 - [Sigsoft award for influential educator: Greg Wilson](https://third-bit.com/2020/07/09/acm-sigsoft-award.html)
 
 ## Guests
-- We are very lucky to have a conversation with [Greg Wilson](https://third-bit.com/), author of some of the assigned readings for this week:
+- We are very lucky to have a conversation with [Greg Wilson](https://third-bit.com/), author of some of the assigned readings for this week (see above).
 
 ## Activities
-- Group activity
+- Group activity 
