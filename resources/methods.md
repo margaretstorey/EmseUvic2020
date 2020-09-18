@@ -34,17 +34,16 @@ Date: Sept 25th, 2020
 - Guest Speaker
 
 ## Required readings/podcasts/videos:
-- [Selecting a research method by Easterbrook et al.](http://www.cs.utoronto.ca/~sme/papers/2007/SelectingEmpiricalMethods.pdf) 
-- [Methodology Matters by McGrath](https://www.sciencedirect.com/science/article/pii/B9780080515748500194) (access through UVic library)
-- [Guidelines for conducting and reporting case study research in software engineering](https://link.springer.com/article/10.1007%2Fs10664-008-9102-8) by Per Runeson and Martin Höst, Empirical Software Engineering 14, 131 (2009). 
-- [Developing a grounded theory to explain the practices of self-organizing Agile teams](https://link.springer.com/article/10.1007/s10664-011-9161-0) by Hoda, Rashina & Noble, James & Marshall, Stuart. (2012).  Empirical Software Engineering - ESE. 17. 1-31. 
+- [Selecting a research method by Easterbrook et al.](http://www.cs.utoronto.ca/~sme/papers/2007/SelectingEmpiricalMethods.pdf)
+- [Developing a grounded theory to explain the practices of self-organizing Agile teams](https://link.springer.com/article/10.1007/s10664-011-9161-0) by Hoda, Rashina & Noble, James & Marshall, Stuart. (2012).  Empirical Software Engineering - ESE. 17. 1-31.
+- [Methodology Matters by McGrath](https://www.sciencedirect.com/science/article/pii/B9780080515748500194) (access through UVic library) 
 - [Challenges in Program Comprehension and Software Repository Mining, Talk by Amy Ko](https://medium.com/bits-and-behavior/grand-challenges-in-program-comprehension-and-software-repository-mining-my-keynote-on-7bf2cfc182a5) (Video)
 - [The promises and perils of mining GitHub](https://dl.acm.org/doi/10.1145/2597073.2597074) by Eirini Kalliamvakou, Georgios Gousios, Kelly Blincoe, Leif Singer Daniel M Germán, Daniela E Damian, MSR 2014
  
 
 #### Optional readings/podcasts/videos:
 - [Grounded theory for Geeks](https://www.researchgate.net/publication/263088251_Grounded_Theory_for_Geeks) by Rashina Hoda, James Noble, Stuart Marshall. ACM International Conference Proceeding Series. 2011.
-- [Case studies in Software Engineering](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118181034) by Per Runeson et al. [uvic link](http://tinyurl.com/y64b6gw5)
+- [Guidelines for conducting and reporting case study research in software engineering](https://link.springer.com/article/10.1007%2Fs10664-008-9102-8) by Per Runeson and Martin Höst, Empirical Software Engineering 14, 131 (2009). 
 - [Perspectives on Data Science for Software Engineering](https://www.elsevier.com/books/perspectives-on-data-science-for-software-engineering/menzies/978-0-12-804206-9?countrycode=US&format=print&utm_source=google_ads&utm_medium=paid_search&utm_campaign=canadashopping&gclid=CjwKCAjwkoz7BRBPEiwAeKw3q6IdWnBmgg4ZFIMpU6XMzITW4PFErv6VHHEqJ29NflbtSsG6WIFv5xoCrEIQAvD_BwE&gclsrc=aw.ds), 1st Edition, Editors: Tim Menzies Laurie Williams Thomas Zimmerman, Morgan Kaufmann, 2016. [UVic link](http://tinyurl.com/y5fgal9s)
 - [Research Methods in Human-Computer Interaction, 2nd Edition](https://www.elsevier.com/books/research-methods-in-human-computer-interaction/lazar/978-0-12-805390-4) by Paul Lazar, Elsevier, 2017. [uvic link](http://tinyurl.com/y2jtrkd2)
 - [Tutorial on Surveys in Software Engineering](https://www.slideshare.net/mendezfe/surveys-in-software-engineering) 
