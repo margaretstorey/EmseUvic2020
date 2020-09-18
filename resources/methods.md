@@ -39,6 +39,8 @@ Date: Sept 25th, 2020
 - [Guidelines for conducting and reporting case study research in software engineering](https://link.springer.com/article/10.1007%2Fs10664-008-9102-8) by Per Runeson and Martin Höst, Empirical Software Engineering 14, 131 (2009). 
 - [Developing a grounded theory to explain the practices of self-organizing Agile teams](https://link.springer.com/article/10.1007/s10664-011-9161-0) by Hoda, Rashina & Noble, James & Marshall, Stuart. (2012).  Empirical Software Engineering - ESE. 17. 1-31. 
 - [Challenges in Program Comprehension and Software Repository Mining, Talk by Amy Ko](https://medium.com/bits-and-behavior/grand-challenges-in-program-comprehension-and-software-repository-mining-my-keynote-on-7bf2cfc182a5) (Video)
+- [The promises and perils of mining GitHub](https://dl.acm.org/doi/10.1145/2597073.2597074) by Eirini Kalliamvakou, Georgios Gousios, Kelly Blincoe, Leif Singer Daniel M Germán, Daniela E Damian, MSR 2014
+ 
 
 #### Optional readings/podcasts/videos:
 - [Grounded theory for Geeks](https://www.researchgate.net/publication/263088251_Grounded_Theory_for_Geeks) by Rashina Hoda, James Noble, Stuart Marshall. ACM International Conference Proceeding Series. 2011.
