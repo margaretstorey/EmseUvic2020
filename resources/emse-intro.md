@@ -35,4 +35,4 @@ by Greg Wilson, Jorge Aranda, American Scientist, Nov-Dec 2011.
 - We are very lucky to have a conversation with [Greg Wilson](https://third-bit.com/), author of some of the assigned readings for this week (see above).
 
 ## Activities
-- Group activity 
+- Group activity: Replicating the [Beliefs and Evidence in Software Engineering](https://www.microsoft.com/en-us/research/publication/belief-evidence-in-empirical-software-engineering/) Study by Devanbu et al., ICSE 2016.
