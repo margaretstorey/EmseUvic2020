@@ -60,4 +60,4 @@ Elise Paradis and Gary Sutkin](https://pubmed.ncbi.nlm.nih.gov/27580703/) Med Ed
 [Prof. Rashina Hoda, Monash University, Melbourne, Australia](https://research.monash.edu/en/persons/rashina-hoda)
 
 ## Activities
-- Group Activity (Myths!)
+- Group Activity (Coding data)
