@@ -31,7 +31,8 @@ Details will be posted here shortly. This literature review project will have a 
 
 **Project #2:** 
 
-This project will be completed in teams. 
+This project will be to replicate or redesign an empirical study in software engineering. 
+The project will be completed in teams. 
 Details will be posted here later in the term and discussed in class.
 Each team member is required to do the following:
 
