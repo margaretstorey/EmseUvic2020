@@ -47,6 +47,7 @@ Date: Sept 25th, 2020
 - [Perspectives on Data Science for Software Engineering](https://www.elsevier.com/books/perspectives-on-data-science-for-software-engineering/menzies/978-0-12-804206-9?countrycode=US&format=print&utm_source=google_ads&utm_medium=paid_search&utm_campaign=canadashopping&gclid=CjwKCAjwkoz7BRBPEiwAeKw3q6IdWnBmgg4ZFIMpU6XMzITW4PFErv6VHHEqJ29NflbtSsG6WIFv5xoCrEIQAvD_BwE&gclsrc=aw.ds), 1st Edition, Editors: Tim Menzies Laurie Williams Thomas Zimmerman, Morgan Kaufmann, 2016. [UVic link](http://tinyurl.com/y5fgal9s)
 - [Research Methods in Human-Computer Interaction, 2nd Edition](https://www.elsevier.com/books/research-methods-in-human-computer-interaction/lazar/978-0-12-805390-4) by Paul Lazar, Elsevier, 2017. [uvic link](http://tinyurl.com/y2jtrkd2)
 - [Tutorial on Surveys in Software Engineering](https://www.slideshare.net/mendezfe/surveys-in-software-engineering) 
+- [Qualitative methods in empirical studies of software engineering](https://ieeexplore.ieee.org/document/799955) by C. B. Seaman, IEEE Transactions on Software Engineering, vol. 25, no. 4, pp. 557-572, July-Aug. 1999. 
 - [The Role of Ethnographic Studies in Empirical Software Engineering, by Helen Sharp et al.](http://oro.open.ac.uk/45166/), IEEE Transactions on Software Engineering, 42(8) pp. 786–804, 2016.
 - [Action Research in Software Engineering](https://link.springer.com/chapter/10.1007/978-3-030-10801-4_4)
 - [Beyond a good story: from Hawthorne Effect to reactivity in health professions education research
