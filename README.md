@@ -25,7 +25,7 @@ See [course requirements](requirements.md) and the [course outline](https://heat
 | 1 | 11/09/2020 | [Course Introduction and <br> History of Software Engineering](resources/introduction.md)| | Introductions/Activity | 
 | 2 | 18/09/2020 | [Introduction to Empirical Software Engineering](resources/emse-intro.md) | Greg Wilson, RStudio | Group Activity | 
 | 3 | 25/09/2020 | [Research Methods for SE](resources/methods.md) | Rashina Hoda, Monash University | Group Activity | 
-| 4 | 02/10/2020 | Synthesizing Research | Elise Paradis | Group Activity | 
+| 4 | 02/10/2020 | Synthesizing Research | Elise Paradis, UofT/UVic | Group Activity | 
 | 5 | 09/10/2020 | Work on Project #1 | Neil Ernst, UVic | Project #1 started |
 | 6 | 16/10/2020 | Workshop #1: Continuous Software Engineering | Nicole Forsgren, Github; Chandra Madilla, Microsoft; ... | Blogpost #1 |
 | 7 | 23/10/2020 | Workshop #2: Code Review and Assessment | | Blogpost #2 |
