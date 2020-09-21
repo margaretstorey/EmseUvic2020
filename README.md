@@ -29,7 +29,7 @@ See [course requirements](requirements.md) and the [course outline](https://heat
 | 5 | 09/10/2020 | Work on Project #1 | Neil Ernst | Project #1 started |
 | 6 | 16/10/2020 | Workshop #1: Continuous Software Engineering | Nicole Forsgren, Github; Chandra Madilla, Microsoft; ... | Blogpost #1 |
 | 7 | 23/10/2020 | Workshop #2: Code Review and Assessment | | Blogpost #2 |
-| 8 | 30/10/2020 | Workshop #3: | Diversity and Inclusion in Software Engineering| Blogpost #3 |
+| 8 | 30/10/2020 | Workshop #3: Diversity and Inclusion in Software Engineering| | Blogpost #3 |
 | 9 | 06/11/2020 | Alignment for Project #1 | Neil Ernst | Project #1 due | 
 | 10 | 13/11/2020 | Workshop #4: Collaboration, Communication and Knowledge Flow in Software Engineering | | Blogpost #4 |
 | 11 | 20/11/2020 | Workshop #5: Developer and Team Productivity | | Blogpost #5 |
