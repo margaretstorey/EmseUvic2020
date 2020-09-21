@@ -33,7 +33,7 @@ See [course requirements](requirements.md) and the [course outline](https://heat
 | 9 | 06/11/2020 | Alignment for Project #1 | Neil Ernst, UVic | Project #1 due | 
 | 10 | 13/11/2020 | Workshop #4: Collaboration, Communication and Knowledge Flow in Software Engineering | | Blogpost #4 |
 | 11 | 20/11/2020 | Workshop #5: Developer and Team Productivity | | Blogpost #5 |
-| 12 | 27/11/2020 | Workshop #6: Bridging the Gap Between Research and Practice | | Blogpost #6 |
+| 12 | 27/11/2020 | Workshop #6: Bridging Gaps | | Blogpost #6 |
 | 13 | 04/12/2020 | Project #2 presentations | | Project #2, videos due | 
 | 14 | 11/12/2020 | No class | | Project #2, final reports due | 
 
