@@ -38,3 +38,5 @@ by Greg Wilson, Jorge Aranda, American Scientist, Nov-Dec 2011.
 
 ## Activities
 - Group activity: Replicating the [Beliefs and Evidence in Software Engineering](https://www.microsoft.com/en-us/research/publication/belief-evidence-in-empirical-software-engineering/) Study by Devanbu et al., ICSE 2016.
+- [Survey results from the study replication](Week2ActivityBeliefs.pdf)
+- [Results from the activity: visualization](https://colab.research.google.com/drive/1crG2LZ6hpUaJvIrVP4WK60ouZ0q0-DLS?usp=sharing#scrollTo=ACG1a4p_jpfi)
