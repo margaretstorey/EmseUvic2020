@@ -17,7 +17,9 @@ Date: Sept 18, 2020
 - Be able to think more critically about research findings and results
 
 ## Materials 
-- Slides (To be posted)
+- [Slides: Part 1, Adminsitrivia and Agenda](Week2AdministriviaAgenda.pdf)
+- [Slides: Part 2, Beliefs and Evidence](Week2BeliefsEvidence)
+- [Slides: Part 3, Design Science](Week2DesignScience.pdf)
 
 **Assigned Readings/Podcasts:**. 
 - [Empirical Software Engineering](https://www.americanscientist.org/article/empirical-software-engineering) 
