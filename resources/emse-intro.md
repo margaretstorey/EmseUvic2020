@@ -18,7 +18,7 @@ Date: Sept 18, 2020
 
 ## Materials 
 - [Slides: Part 1, Adminsitrivia and Agenda](Week2AdministriviaAgenda.pdf)
-- [Slides: Part 2, Beliefs and Evidence](Week2BeliefsEvidence)
+- [Slides: Part 2, Beliefs and Evidence](Week2BeliefsEvidence.pdf)
 - [Slides: Part 3, Design Science](Week2DesignScience.pdf)
 
 **Assigned Readings/Podcasts:**. 
