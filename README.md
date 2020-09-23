@@ -28,12 +28,12 @@ See [course requirements](requirements.md) and the [course outline](https://heat
 | 4 | 02/10/2020 | Synthesizing Research | Elise Paradis, UofT/UVic | Group Activity | 
 | 5 | 09/10/2020 | Work on Project #1 | Neil Ernst, UVic | Project #1 started |
 | 6 | 16/10/2020 | Workshop #1: Continuous Software Engineering | Nicole Forsgren, Github; Chandra Madilla, Microsoft; ... | Blogpost #1 |
-| 7 | 23/10/2020 | Workshop #2: Code Review and Assessment | | Blogpost #2 |
-| 8 | 30/10/2020 | Workshop #3: Diversity and Inclusion in Software Engineering| | Blogpost #3 |
+| 7 | 23/10/2020 | Workshop #2: Code Review and Assessment | Chris Bird, Microsoft Research; Brian Houck, Microsoft; Ali Mesbah, UBC, Michaela Greiler, Code Review Consultant; Jorge Aranda, Workday| Blogpost #2 |
+| 8 | 30/10/2020 | Workshop #3: Diversity and Inclusion in Software Engineering| Andy Begel, Microsoft Research; Alexander Serebrenik, Eindhoven University of Technology; Emerson Murphy-Hill, Google Research; Anita Sarma, Oregon State University | Blogpost #3 |
 | 9 | 06/11/2020 | Alignment for Project #1 | Neil Ernst, UVic | Project #1 due | 
-| 10 | 13/11/2020 | Workshop #4: Collaboration, Communication and Knowledge Flow in Software Engineering | | Blogpost #4 |
-| 11 | 20/11/2020 | Workshop #5: Developer and Team Productivity | | Blogpost #5 |
-| 12 | 27/11/2020 | Workshop #6: Bridging Gaps | | Blogpost #6 |
+| 10 | 13/11/2020 | Workshop #4: Collaboration, Communication and Knowledge Flow in Software Engineering | Anna Fillipova, GitHub; Christoph Treude, Adelaide University; Jim Herbsleb, Carnegie Mellon University; Carolyn Seaman, University of Maryland Baltimore County. | Blogpost #4 |
+| 11 | 20/11/2020 | Workshop #5: Developer and Team Productivity | Tom Zimmermann, Microsoft Research; Jenna Burke, Microsoft; Courtney Miller, New College of Florida| Blogpost #5 |
+| 12 | 27/11/2020 | Workshop #6: Bridging Gaps | Michael Hilton, Carnegie Mellon University; Daniel German, University of Victoria, ... | Blogpost #6 |
 | 13 | 04/12/2020 | Project #2 presentations | | Project #2, videos due | 
 | 14 | 11/12/2020 | No class | | Project #2, final reports due | 
 
