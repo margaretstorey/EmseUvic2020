@@ -6,6 +6,7 @@ Date: Oct 2nd, 2020
 ## Lecture Objectives
 - Learn how to develop and assess knowledge and theories from empirical software engineering research
 - Learn how and why to do literature reviews in software engineering
+- Learn how to assess knowledge in systematic literature reviews
 
 ## Materials
 - Slides (To be posted)
