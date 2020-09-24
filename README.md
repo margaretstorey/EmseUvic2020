@@ -27,7 +27,7 @@ See [course requirements](requirements.md) and the [course outline](https://heat
 | 3 | 25/09/2020 | [Research Methods for SE](resources/methods.md) | Rashina Hoda, Monash University | Group Activity | 
 | 4 | 02/10/2020 | [Synthesizing Research Knowledge and Developing Theories](resources/literature.md) | Elise Paradis, UofT/UVic | Group Activity | 
 | 5 | 09/10/2020 | Work on Project #1 | Neil Ernst, UVic | Project #1 started |
-| 6 | 16/10/2020 | Workshop #1: Continuous Software Engineering | Nicole Forsgren, Github; <br> Chandra Madilla, Microsoft; <br> ... | Blogpost #1 |
+| 6 | 16/10/2020 | Workshop #1: Continuous Software Engineering | Nicole Forsgren, Github; <br> Chandra Madilla, Microsoft; <br> Laurie Williams, NC State | Blogpost #1 |
 | 7 | 23/10/2020 | Workshop #2: Code Review and Assessment | Chris Bird, Microsoft Research; <br> Brian Houck, Microsoft; <br> Ali Mesbah, UBC, <br> Michaela Greiler, Code Review Consultant; <br> Jorge Aranda, Workday| Blogpost #2 |
 | 8 | 30/10/2020 | Workshop #3: Diversity and Inclusion in Software Engineering| Andy Begel, Microsoft Research; <br> Alexander Serebrenik, Eindhoven University of Technology; <br> Emerson Murphy-Hill, Google Research; <br> Anita Sarma, Oregon State University | Blogpost #3 |
 | 9 | 06/11/2020 | Alignment for Project #1 | Neil Ernst, UVic | Project #1 due | 
