@@ -4,8 +4,8 @@ Date: Oct 2nd, 2020
 (See [Connex]( https://connex.csc.uvic.ca/portal/site/emse2020) for link to Zoom, you need to use your UVic ID to access Connex)
 
 ## Lecture Objectives
+- Learn how to develop and assess knowledge and theories from empirical software engineering research
 - Learn how and why to do literature reviews in software engineering
-- Understand how to assess and create different kinds of knowledge and theories from empirical software engineering research
 
 ## Materials
 - Slides (To be posted)
