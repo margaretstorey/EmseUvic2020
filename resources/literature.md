@@ -21,6 +21,7 @@ Date: Oct 2nd, 2020
 - [Guidelines for performing Systematic Literature Reviews in
 Software Engineering](https://www.elsevier.com/__data/promis_misc/525444systematicreviewsguide.pdf), Version 2.3, EBSE Technical Report 2007, 
 Software Engineering Group, School of Computer Science and Mathematics, Keele University. 
+- [Benefitting from the Grey Literature in Software Engineering Research](https://link.springer.com/chapter/10.1007/978-3-030-32489-6_14) by Vahid Garousi, Michael FeldererMika V. Mäntylä, Austen Rainer, Contemporary Empirical Methods in Software Engineering pp 385-413, 2020.
 
 ## Guests
 - [Elise Paradis](https://www.whatiscollaboration.org/), UofT (currently visiting UVic)
