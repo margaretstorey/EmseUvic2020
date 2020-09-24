@@ -15,7 +15,7 @@ Date: XXXX, 2020
 To be posted.
 
 ## Guests
-- Elise Paradis, UofT and UVic
+- [Elise Paradis](https://www.whatiscollaboration.org/), UofT (currently visiting UVic)
 
 ## Activities
 - To be posted.
