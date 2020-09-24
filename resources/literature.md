@@ -5,8 +5,8 @@ Date: Oct 2nd, 2020
 
 ## Lecture Objectives
 - Learn how to develop and assess knowledge and theories from empirical software engineering research
-- Learn how and why to do literature reviews in software engineering
-- Learn how to assess knowledge in systematic literature reviews
+- Learn when, how and why to do literature reviews in software engineering
+- Learn how to assess knowledge that is synthesized from systematic literature reviews
 
 ## Materials
 - Slides (To be posted)
@@ -30,4 +30,5 @@ Software Engineering Group, School of Computer Science and Mathematics, Keele Un
 - [Elise Paradis](https://www.whatiscollaboration.org/), UofT (currently visiting UVic)
 
 ## Activity 
+- Theorizing about theories
 - A critique of systematic literature reviews.
