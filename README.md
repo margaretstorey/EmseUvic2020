@@ -33,7 +33,7 @@ See [course requirements](requirements.md) and the [course outline](https://heat
 | 9 | 06/11/2020 | Alignment for Project #1 | Neil Ernst, UVic | Project #1 due | 
 | 10 | 13/11/2020 | Workshop #4: Collaboration, Communication and Knowledge Flow in Software Engineering | Anna Fillipova, GitHub; <br> Christoph Treude, Adelaide University; <br> Jim Herbsleb, Carnegie Mellon University; <br> Carolyn Seaman, University of Maryland Baltimore County. | Blogpost #4 |
 | 11 | 20/11/2020 | Workshop #5: Developer and Team Productivity | Tom Zimmermann, Microsoft Research; <br> Jenna Burke, Microsoft; <br> Courtney Miller, New College of Florida; <br> Ciera Jaspan, Google | Blogpost #5 |
-| 12 | 27/11/2020 | Workshop #6: Bridging Gaps | Michael Hilton, Carnegie Mellon University; <br> Daniel German, University of Victoria, <br> ... | Blogpost #6 |
+| 12 | 27/11/2020 | Workshop #6: Bridging Gaps | Michael Hilton, Carnegie Mellon University; <br> Daniel German, University of Victoria, <br> Jacek Czerwonka, Microsoft; <br> ... | Blogpost #6 |
 | 13 | 04/12/2020 | Project #2 presentations | | Project #2, videos due | 
 | 14 | 11/12/2020 | No class | | Project #2, final reports due | 
 
