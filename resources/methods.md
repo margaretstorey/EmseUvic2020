@@ -41,7 +41,7 @@ Date: Sept 25th, 2020
 - [The promises and perils of mining GitHub](https://dl.acm.org/doi/10.1145/2597073.2597074) by Eirini Kalliamvakou, Georgios Gousios, Kelly Blincoe, Leif Singer Daniel M Germán, Daniela E Damian, MSR 2014
  
 
-## Optional readings/podcasts/videos:
+## Addional readings/podcasts/videos:
 
 #### General resources: 
 - [Research Methods in Human-Computer Interaction, 2nd Edition](https://www.elsevier.com/books/research-methods-in-human-computer-interaction/lazar/978-0-12-805390-4) by Paul Lazar, Elsevier, 2017. [uvic link](http://tinyurl.com/y2jtrkd2)
