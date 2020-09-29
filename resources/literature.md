@@ -29,6 +29,7 @@ Software Engineering Group, School of Computer Science and Mathematics, Keele Un
 - [A systematic review of systematic review process research in software engineering](https://www.sciencedirect.com/science/article/pii/S0950584913001560?casa_token=DmP0XP_UAfwAAAAA:hy0GIIiSF463LBaBJclDbON6O8_ZziC0vBjjh3fSk5ANIts9n27pqlwRF1EBMYveKKX7uVn5) by Barbara Kitchenham and Pearl Brereton, Information and Software Technology, Volume 55, Issue 12, December 2013, Pages 2049-2075. 
 - [Systematic literature reviews in software engineering – A tertiary study](https://www.sciencedirect.com/science/article/abs/pii/S0950584910000467) by Barbara Kitchenham et al., Information and Software Technology, Volume 52, Issue 8, August 2010, Pages 792-805.
 - [Guidelines for conducting systematic mapping studies in software engineering: An update](https://www.sciencedirect.com/science/article/abs/pii/S0950584915000646?casa_token=1NlNiXiuApIAAAAA:b-fpb6OC_wS53TAxSfrd3FN389IhBiUb1nyjtgooz4V0tqqO9hJVPjmBYuRaXJOXqbP9Kgn0), by Kai Petersen, Sairam Vakkalanka, Ludwik Kuzniarz, Information and Software Technology, Volume 64, 2015.
+- [A Guide to SLRs in Software Engineering](https://research-seminar.github.io/slides/EiriniKalliamvakou_SystematicLiteratureReviews.pdf) presented by Eirini Kalliamvakou, University of Victoria. 
 
 #### Theory papers: 
 - [Theory-oriented software engineering](https://www.sciencedirect.com/science/article/pii/S0167642314005425) by Klas-JanStol and Brian Fitzgerald, Science of Computer Programming, Volume 101, 1 April 2015, Pages 79-98.
