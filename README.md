@@ -23,7 +23,7 @@ See [course requirements](requirements.md) and the [course outline](https://heat
 | | Date | Meeting agenda | Guests | Deliverable | 
 | ---:| ---------- | ------------------- | --------------------------------- |  ----------- | 
 | 1 | 11/09/2020 | [Course Introduction and <br> History of Software Engineering](resources/introduction.md)| | Introductions/Activity | 
-| 2 | 18/09/2020 | [Introduction to Empirical Software Engineering](resources/emse-intro.md) | <ul><li>**Greg Wilson**, RStudio ("[podcast](https://www.youtube.com/watch?v=Orghyn91ZMo&feature=youtu.be)")</li></ul> | Group Activity | 
+| 2 | 18/09/2020 | [Introduction to Empirical Software Engineering](resources/emse-intro.md) | <ul><li>**Greg Wilson**, RStudio. [podcast](https://www.youtube.com/watch?v=Orghyn91ZMo&feature=youtu.be)</li></ul> | Group Activity | 
 | 3 | 25/09/2020 | [Research Methods for SE](resources/methods.md) | <ul><li>**Rashina Hoda**, Monash University</li></ul> | Group Activity | 
 | 4 | 02/10/2020 | [Synthesizing Research Knowledge and Developing Theories](resources/literature.md) | <ul><li>**Elise Paradis**, UofT/UVic</li></ul> | Group Activity | 
 | 5 | 09/10/2020 | Work on Project #1 | Neil Ernst, UVic | Project #1 started |
