@@ -24,11 +24,10 @@ Date: Oct 2nd, 2020
 #### Literature review related papers: 
 
 - [Benefitting from the Grey Literature in Software Engineering Research](https://link.springer.com/chapter/10.1007/978-3-030-32489-6_14) by Vahid Garousi, Michael FeldererMika V. Mäntylä, Austen Rainer, Contemporary Empirical Methods in Software Engineering pp 385-413, 2020.
--[Guidelines for performing Systematic Literature Reviews in
-Software Engineering](https://www.elsevier.com/__data/promis_misc/525444systematicreviewsguide.pdf), Version 2.3, EBSE Technical Report 2007, 
+- [Guidelines for performing Systematic Literature Reviews in Software Engineering](https://www.elsevier.com/__data/promis_misc/525444systematicreviewsguide.pdf), Version 2.3, EBSE Technical Report 2007, 
 Software Engineering Group, School of Computer Science and Mathematics, Keele University. 
--[A systematic review of systematic review process research in software engineering](https://www.sciencedirect.com/science/article/pii/S0950584913001560?casa_token=DmP0XP_UAfwAAAAA:hy0GIIiSF463LBaBJclDbON6O8_ZziC0vBjjh3fSk5ANIts9n27pqlwRF1EBMYveKKX7uVn5) by Barbara Kitchenham and Pearl Brereton, Information and Software Technology, Volume 55, Issue 12, December 2013, Pages 2049-2075. 
--[Systematic literature reviews in software engineering – A tertiary study](https://www.sciencedirect.com/science/article/abs/pii/S0950584910000467) by Barbara Kitchenham et al., Information and Software Technology, Volume 52, Issue 8, August 2010, Pages 792-805.
+- [A systematic review of systematic review process research in software engineering](https://www.sciencedirect.com/science/article/pii/S0950584913001560?casa_token=DmP0XP_UAfwAAAAA:hy0GIIiSF463LBaBJclDbON6O8_ZziC0vBjjh3fSk5ANIts9n27pqlwRF1EBMYveKKX7uVn5) by Barbara Kitchenham and Pearl Brereton, Information and Software Technology, Volume 55, Issue 12, December 2013, Pages 2049-2075. 
+- [Systematic literature reviews in software engineering – A tertiary study](https://www.sciencedirect.com/science/article/abs/pii/S0950584910000467) by Barbara Kitchenham et al., Information and Software Technology, Volume 52, Issue 8, August 2010, Pages 792-805.
 
 #### Theory papers: 
 - [Theory-oriented software engineering](https://www.sciencedirect.com/science/article/pii/S0167642314005425) by Klas-JanStol and Brian Fitzgerald, Science of Computer Programming, Volume 101, 1 April 2015, Pages 79-98.
