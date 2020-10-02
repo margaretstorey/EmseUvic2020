@@ -10,6 +10,7 @@ Date: October 16th, 2020
 - Laurie Williams, NC State
 
 ## Pre Workshop Reading/Watching Materials
+- Video: [Continuously Deploying Security](https://www.agilealliance.org/resources/videos/continuously-deploying-security-laurie-williams-xp-2018/) by Laurie Williams, 2018.
 - Podcast: [Can we make better software by using ML and AI techniques?](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/articles/podcast-can-we-make-better-software-by-using-ml-and-ai-techniques-with-chandra-madilla-and-chetan-bansal/) With Chandra Maddila and Chetan Bansal, August 2020.
 - Video: [The Key to High Performance: What the Data Says](https://www.youtube.com/watch?v=RBuPlMTXuFc) by  Nicole Forsgren, GitHub or Podcast: [Feedback Loops — Company Culture, Change, and DevOps](https://a16z.com/2018/03/28/devops-org-change-software-performance/) by Nicole Forsgren, Jez Humble, and Sonal Chokshi
 - Reading: [Chapter 2 of Taming Information Technology: Lessons from Studies of System Administrators (uvic internal link)](https://oxford-universitypressscholarship-com.ezproxy.library.uvic.ca/view/10.1093/acprof:oso/9780195374124.001.0001/acprof-9780195374124-chapter-2), by Eser Kandogan, Paul P. Maglio, Eben M. Haber and John Bailey, Oxford Press, 2012.
