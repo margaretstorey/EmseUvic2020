@@ -34,6 +34,6 @@ See Slack for information on the blogpost tool.
 
 Your blogpost should synthesize information from all of the assigned pre workshop materials and it
 should include at least one discussion question from all of the assigned materials. 
-You may (and encouraged to) update your blogpost after the workshop. 
+You may (and encouraged to) update your blogpost after the workshop (in a separate section of the post). 
 The final version of your blogpost is due by the following Monday at 5pm.
 
