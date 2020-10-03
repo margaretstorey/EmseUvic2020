@@ -24,7 +24,7 @@ See [course requirements](requirements.md) and the [course outline](https://heat
 | ---:| ---------- | ------------------- | --------------------------------- |  ----------- | 
 | 1 | 11/09/2020 | [Course Introduction and <br> History of Software Engineering](resources/introduction.md)| | Introductions/Activity | 
 | 2 | 18/09/2020 | [Introduction to Empirical Software Engineering](resources/emse-intro.md) | <ul><li>**Greg Wilson**, RStudio. [podcast](https://www.youtube.com/watch?v=Orghyn91ZMo&feature=youtu.be)</li></ul> | Group Activity | 
-| 3 | 25/09/2020 | [Research Methods for SE](resources/methods.md) | <ul><li>**Rashina Hoda**, Monash University</li></ul> [Talk and Q&A](https://youtu.be/z-Yr27qtePM) | Group Activity | 
+| 3 | 25/09/2020 | [Research Methods for SE](resources/methods.md) | <ul><li>**Rashina Hoda**, Monash University [Talk and Q&A](https://youtu.be/z-Yr27qtePM) </li></ul> | Group Activity | 
 | 4 | 02/10/2020 | [Theories, Theoretical Frameworks and Conceptual Frameworks in Software Engineering Research](resources/theories.md) | <ul><li>**Elise Paradis**, UofT/UVic</li></ul> | Group Activity | 
 | 5 | 09/10/2020 | [Literature reviews for Software Engineering Research](resources/literature2.md), Work on Project #1 |  | Project #1 started |
 | 6 | 16/10/2020 | Workshop #1: Continuous Software Engineering | <ul><li>**Nicole Forsgren**, Github</li> <li>**Chandra Madilla**, Microsoft</li> <li>**Laurie Williams**, NC State </li> <li>**Eben Haber**, Couchbase</li></ul> | Blogpost #1 |
