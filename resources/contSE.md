@@ -6,7 +6,7 @@ Date: October 16th, 2020
 ## Guests
 - Nicole Forsgren, GitHub
 - Eben Haber, Couchbase
-- Chandra Madilla, Microsoft
+- Chandra Maddila, Microsoft
 - Laurie Williams, NC State
 
 ## Pre Workshop Reading/Watching Materials
