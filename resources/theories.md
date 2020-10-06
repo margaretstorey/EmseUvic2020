@@ -10,6 +10,7 @@ Date: Oct 2nd, 2020
 
 ## Materials
 - [Slides: Theories in Software Engineering](resources/emse-uvic-2020-week4-theory.pdf)
+- [Slides: Theories, Theoretical Frameworks and Conceptual Frameworks by Elise Paradis](resources/TheoriesFrameworks.pdf)
 - Video will be posted soon of our guest Elise Paradis presenting on Theories, Theoretical Frameworks and Conceptual Frameworks
 
 ## Required Readings:
