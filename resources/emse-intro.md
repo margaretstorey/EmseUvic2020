@@ -34,7 +34,7 @@ by Greg Wilson, Jorge Aranda, American Scientist, Nov-Dec 2011.
 - [Sigsoft award for influential educator: Greg Wilson](https://third-bit.com/2020/07/09/acm-sigsoft-award.html)
 
 ## Guests
-- We are very lucky to have a conversation with [Greg Wilson](https://third-bit.com/), author of some of the assigned readings for this week (see above).
+- We are very lucky to have a conversation with [Greg Wilson](https://third-bit.com/), author of some of the assigned readings for this week (see above).  Here is a link to a [podcast](https://youtu.be/Orghyn91ZMo) style Q&A with Greg where we discussed his views on empirical software engineering (past and present), research methods, research evidence and relevance to industry. We also inquired about his views on pair programming, UML, security, accreditation, and what students need to know for jobs in industry.
 
 ## Activities
 - Group activity: Replicating the [Beliefs and Evidence in Software Engineering](https://www.microsoft.com/en-us/research/publication/belief-evidence-in-empirical-software-engineering/) Study by Devanbu et al., ICSE 2016.

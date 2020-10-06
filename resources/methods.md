@@ -26,7 +26,7 @@ Date: Sept 25th, 2020
 - Learn how to critique research designs and understand limitations of research studies
 
 ## Materials
-- [Slides Lecture Administrivia and Introduction](emse-uvic2020week2part1.pdf)
+- [Slides Lecture Administrivia and Introduction](emse-uvic2020week3part1.pdf)
 - [Slides on Research Strategies and Selecting Research Methods](emse-uvic2020week3part2.pdf)
 
 ## Lecture Format

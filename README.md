@@ -21,19 +21,19 @@ See [course requirements](requirements.md) and the [course outline](https://heat
 
 
 | | Date | Meeting agenda | Guests | Deliverable | 
-| ---:| ---------- | ------------------- | --------------------------- |  ----------- | 
+| ---:| ---------- | ------------------- | --------------------------------- |  ----------- | 
 | 1 | 11/09/2020 | [Course Introduction and <br> History of Software Engineering](resources/introduction.md)| | Introductions/Activity | 
-| 2 | 18/09/2020 | [Introduction to Empirical Software Engineering](resources/emse-intro.md) | Greg Wilson, RStudio | Group Activity | 
-| 3 | 25/09/2020 | [Research Methods for SE](resources/methods.md) | Rashina Hoda, Monash University | Group Activity | 
-| 4 | 02/10/2020 | [Synthesizing Research Knowledge and Developing Theories](resources/literature.md) | Elise Paradis, UofT/UVic | Group Activity | 
-| 5 | 09/10/2020 | Work on Project #1 | Neil Ernst, UVic | Project #1 started |
-| 6 | 16/10/2020 | Workshop #1: Continuous Software Engineering | Nicole Forsgren, Github; <br> Chandra Madilla, Microsoft; <br> Laurie Williams, NC State; <br> Eben Haber, Couchbase | Blogpost #1 |
-| 7 | 23/10/2020 | Workshop #2: Code Review and Assessment | Chris Bird, Microsoft Research; <br> Brian Houck, Microsoft; <br> Ali Mesbah, UBC, <br> Michaela Greiler, Code Review Consultant; <br> Jorge Aranda, Workday| Blogpost #2 |
-| 8 | 30/10/2020 | Workshop #3: Diversity and Inclusion in Software Engineering| Andy Begel, Microsoft Research; <br> Alexander Serebrenik, Eindhoven University of Technology; <br> Emerson Murphy-Hill, Google Research; <br> Anita Sarma, Oregon State University | Blogpost #3 |
-| 9 | 06/11/2020 | Alignment for Project #1 | Neil Ernst, UVic | Project #1 due | 
-| 10 | 13/11/2020 | Workshop #4: Collaboration, Communication and Knowledge Flow in Software Engineering | Anna Fillipova, GitHub; <br> Christoph Treude, Adelaide University; <br> Jim Herbsleb, Carnegie Mellon University; <br> Carolyn Seaman, University of Maryland Baltimore County. | Blogpost #4 |
-| 11 | 20/11/2020 | Workshop #5: Developer and Team Productivity | Tom Zimmermann, Microsoft Research; <br> Jenna Burke, Microsoft; <br> Courtney Miller, New College of Florida; <br> Ciera Jaspan, Google | Blogpost #5 |
-| 12 | 27/11/2020 | Workshop #6: Bridging Gaps | Michael Hilton, Carnegie Mellon University; <br> Daniel German, University of Victoria, <br> Jacek Czerwonka, Microsoft; <br> ... | Blogpost #6 |
+| 2 | 18/09/2020 | [Introduction to Empirical Software Engineering](resources/emse-intro.md) | <ul><li>**Greg Wilson**, RStudio. [Recorded Interview](https://www.youtube.com/watch?v=Orghyn91ZMo&feature=youtu.be)</li></ul> | Group Activity | 
+| 3 | 25/09/2020 | [Research Methods for SE](resources/methods.md) | <ul><li>**Rashina Hoda**, Monash University [Recorded Talk and Q&A](https://youtu.be/z-Yr27qtePM) </li></ul> | Group Activity | 
+| 4 | 02/10/2020 | [Theories, Theoretical Frameworks and Conceptual Frameworks in Software Engineering Research](resources/theories.md) | <ul><li>**Elise Paradis**, UofT/UVic</li></ul> | Group Activity | 
+| 5 | 09/10/2020 | [Literature reviews for Software Engineering Research](resources/literature2.md), Work on Project #1 |  | Project #1 started |
+| 6 | 16/10/2020 | Workshop #1: [Continuous Software Engineering](resources/contSE.md) | <ul><li>**Nicole Forsgren**, Github</li> <li>**Chandra Maddila**, Microsoft Research</li> <li>**Laurie Williams**, NC State </li> <li>**Eben Haber**, Couchbase</li></ul> | Blogpost #1 |
+| 7 | 23/10/2020 | Workshop #2: Code Review and Assessment | <ul><li>**Chris Bird**, Microsoft Research</li> <li> **Brian Houck**, Microsoft</li> <li> **Ali Mesbah**, UBC</li> <li>**Michaela Greiler**, Consultant</li> <li>**Jorge Aranda**, Workday| Blogpost #2 |
+| 8 | 30/10/2020 | Workshop #3: Diversity and Inclusion in Software Engineering| <ul><li>**Andy Begel**, Microsoft Research</li> <li>**Alexander Serebrenik**, Eindhoven University of Technology</li> <li>**Emerson Murphy-Hill**, Google Research</li> <li>**Anita Sarma**, Oregon State University</li></ul> | Blogpost #3 |
+  | 9 | 06/11/2020 | Alignment for Project #1 | <ul><li>**Neil Ernst, UVic**</li></ul> | Project #1 due | 
+| 10 | 13/11/2020 | Workshop #4: Collaboration, Communication and Knowledge Flow in Software Engineering | <ul><li>**Anna Fillipova**, GitHub</li> <li>**Christoph Treude**, Adelaide University</li> <li>**Jim Herbsleb**, Carnegie Mellon University</li> <li>**Carolyn Seaman**, University of Maryland Baltimore County</li></ul> | Blogpost #4 |
+| 11 | 20/11/2020 | Workshop #5: Developer and Team Productivity | <ul><li>**Tom Zimmermann**, Microsoft Research</li> <li>**Jenna Butler**, Microsoft</li> <li> **Courtney Miller**, New College of Florida</li> <li>**Ciera Jaspan**, Google </li></ul>| Blogpost #5 |
+| 12 | 27/11/2020 | Workshop #6: Bridging Gaps | <ul><li>**Michael Hilton**, Carnegie Mellon University</li> <li>**Daniel German**, University of Victoria</li> <li> **Jacek Czerwonka**, Microsoft</li><li>**Kate Stewart**, Linux Foundation</li></ul> | Blogpost #6 |
 | 13 | 04/12/2020 | Project #2 presentations | | Project #2, videos due | 
 | 14 | 11/12/2020 | No class | | Project #2, final reports due | 
 
