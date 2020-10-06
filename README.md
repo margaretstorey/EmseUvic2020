@@ -23,7 +23,7 @@ See [course requirements](requirements.md) and the [course outline](https://heat
 | | Date | Meeting agenda | Guests | Deliverable | 
 | ---:| ---------- | ------------------- | --------------------------------- |  ----------- | 
 | 1 | 11/09/2020 | [Course Introduction and <br> History of Software Engineering](resources/introduction.md)| | Introductions/Activity | 
-| 2 | 18/09/2020 | [Introduction to Empirical Software Engineering](resources/emse-intro.md) | <ul><li>**Greg Wilson**, RStudio. [Recorded Interview](https://www.youtube.com/watch?v=Orghyn91ZMo&feature=youtu.be)</li></ul> | Group Activity | 
+| 2 | 18/09/2020 | [Introduction to Empirical Software Engineering](resources/emse-intro.md) | <ul><li>**Greg Wilson**, RStudio. [Interview Video](https://www.youtube.com/watch?v=Orghyn91ZMo&feature=youtu.be) [Interview Audio](https://anchor.fm/margaret-anne-d-storey/episodes/A-QA-with-Greg-Wilson-on-Empirical-Software-Engineering-eklhkc)</li></ul> | Group Activity | 
 | 3 | 25/09/2020 | [Research Methods for SE](resources/methods.md) | <ul><li>**Rashina Hoda**, Monash University [Recorded Talk and Q&A](https://youtu.be/z-Yr27qtePM) </li></ul> | Group Activity | 
 | 4 | 02/10/2020 | [Theories, Theoretical Frameworks and Conceptual Frameworks in Software Engineering Research](resources/theories.md) | <ul><li>**Elise Paradis**, UofT/UVic</li></ul> | Group Activity | 
 | 5 | 09/10/2020 | [Literature reviews for Software Engineering Research](resources/literature2.md), Work on Project #1 |  | Project #1 started |
