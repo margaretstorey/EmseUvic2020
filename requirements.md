@@ -22,19 +22,43 @@ There will be ample group activities throughout the term and opportunities to co
 
 **Blogposts:**
 
-Details will be posted here shortly. See the course schedule for tentative due dates for the six posts.  
-Blogposts will be based on assigned readings/videos/podcasts and material presented during the respective workshops.
+For each of our workshops, you will need to write a short blogpost of 3-4 paragraphs based on your reflections of the assigned materials for that workshop. 
+Note, this post should not be a summary but should demonstrate you've read these materials, and that you have considered how to relate these materials to the earlir materials assigned for reading/watching/listening earlier in the term. 
+
+In addition, each blogpost should list 1 question per assigned material/guest. 
+
+The blogposts are due the day before the workshop by 5pm. 
+You may however update them with additional thoughts and reflections during the workshop and submit it by the following Monday at 5pm.
+
 
 **Project #1:**
 
-Details will be posted here shortly. This literature review project will have a main individual component worth 80% of the project #1 grade (with interim milestones), and a collaborative alignment step completed during class time on Nov 6th (the alignment part is worth 20% of your project #1 grade). 
+This "literature review" project will have a main individual component worth 80% of the project #1 grade (with interim milestones), and a collaborative alignment step completed during class time on Nov 6th (the alignment part is worth 20% of your project #1 grade). 
+Meeting the milestones is important so that we can give you feedback along the way if we notice some misunderstanding about the project requirements. 
+
+We will assign to you papers (from the ICSE 2020 technical track) to study and answer a set of questions for each of the papers. 
+To submit your answers, please use this form: https://www.surveymonkey.ca/r/emseuvic for each of your assigned papers. 
+Make sure you fill out the form for the correct paper. 
+
+#### Project #1 Milestones:
+
+| Date | Graduate Students | Undergraduate Students| 
+| --------- | ---------------- | ---------------- |
+| Oct 14, 5pm | 3 papers | 2 papers |
+| Oct 21, 5pm | 3 papers | 2 papers |
+| Oct 28, 5pm | 3 papers | 2 papers |
+| Nov 3, 5pm | 2 papers | 1 paper |
+| Nov 6, due by 5pm | Prepare/for do alignment | Prepare/for do alignment |
+
+
+
+
 
 **Project #2:** 
 
-This project will be to replicate or redesign an empirical study in software engineering. 
-The project will be completed in teams. 
-Details will be posted here later in the term and discussed in class.
-Each team member is required to do the following:
+This project will be to replicate or redesign an empirical study (of your choice) in software engineering. 
+The project will be ideally completed in teams, but students can complete it alone if they wish. 
+Each student/team member is required to do the following:
 
 1. Follow any updates on this site and meet all of the established interim milestones.
 2. Attend all the lectures during the semester, as these will prepare you to succeed in this project.
@@ -45,3 +69,11 @@ Each team member is required to do the following:
     - 70% of your grade will be based on the final report and meeting milestones throughout the term
     - Several milestones will be established for early versions of the report and project ideas.
     - Extra points may be given for: challenging projects, original ideas, collaboration with external organizations.
+    
+#### Project #2 Miletones:
+
+| Date | Milestone |
+| ------------ | ------------------------------------- | 
+
+
+
