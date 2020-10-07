@@ -16,7 +16,7 @@ See [course requirements](requirements.md) and the [course outline](https://heat
 
 ---
 
-**Classes will be on Fridays 1:30-4:20 online (via Zoom -- see [Connex](https://connex.csc.uvic.ca/portal/site/emse2020) for the link to Zoom and invitation to Slack.)**  
+**Classes will be on Fridays 1:30-4:20 online (via Zoom -- see [Connex](https://connex.csc.uvic.ca/portal/site/emse2020) for the link to Zoom and invitation to Slack and and the [Wordpress blog](https://emseuvic2020.wordpress.com).)**  
 (*Tentative schedule, slides and other materials will be posted throughout the term and linked in the table below*)
 
 
