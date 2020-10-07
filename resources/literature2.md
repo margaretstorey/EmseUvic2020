@@ -30,6 +30,14 @@ Software Engineering Group, School of Computer Science and Mathematics, Keele Un
 - [Guidelines for conducting systematic mapping studies in software engineering: An update](https://www.sciencedirect.com/science/article/abs/pii/S0950584915000646?casa_token=1NlNiXiuApIAAAAA:b-fpb6OC_wS53TAxSfrd3FN389IhBiUb1nyjtgooz4V0tqqO9hJVPjmBYuRaXJOXqbP9Kgn0), by Kai Petersen, Sairam Vakkalanka, Ludwik Kuzniarz, Information and Software Technology, Volume 64, 2015.
 - [A Guide to SLRs in Software Engineering](https://research-seminar.github.io/slides/EiriniKalliamvakou_SystematicLiteratureReviews.pdf) presented by Eirini Kalliamvakou, University of Victoria. 
 
+#### Example literature reviews in software engineering (related to Activity)
+
+- [A systematic review on regression test selection techniques](https://portal.research.lu.se/portal/files/4288476/3738217.pdf) by Engstrom et al., IST 2010.
+- Motivation in Software Engineering: A systematic literature review]
+- [Motivation in_oftware_engineering_A_systematic_review_update](https://www.researchgate.net/publication/260734375_Motivation_in_software_engineering_A_systematic_review_update/link/02e7e53c143b195ba1000000/download)  by Beecham et al., IST 2008.
+- [Behavioral software engineering: A definition and systematic literature review](https://www.sciencedirect.com/science/article/abs/pii/S0164121215000989) by Per Lenberg et al., JSS 2015.
+- [Defining and Classifying Software Bots: A Faceted Taxonomy](https://alexeyza.com/pdf/botse2019invited.pdf) by Lebeuf et al., ICSE/BotSE 2019.
+
 ## Activity 
 - Spot the review type! (Don't judge a book by its cover!)
 - Start on Project #1
