@@ -96,4 +96,40 @@ Each student/team member is required to do the following:
 | Dec 11, 5pm | Final report | 50% \
 
 
+#### Project proposal
+
+Format:  PDF document, submitted via Connex. 1-2 pages.
+
+This should describe the study you wish to replicate or new study you wish to design with the following information:
+- Team members (if any)
+- Motivation
+- Research goal or question
+- Research Strategies
+- Potential Limitations
+- Expected Results 
+- Core References
+
+#### Project interim reports 
+
+Format: PDF document, submitted via Connex. This will be in the 3-4 page range. 
+
+The interim project report should be a stand-alone document describing your progress so far on the project. Consider it as an early (but incomplete) preliminary version of your final report (see below). It should include early versions of most sections of the anticipated final report. 
+
+### Project video
+- 5 min video describing your project (motivation, methods, what you learned, what's next)
+
+#### Project final report
+
+- Introduction
+   - Motivation for this research, to whom is it relevant and why
+- Related work (this may come later in your paper!)
+   - Brief literature review on this topic
+- Research questions and methodology
+- Results or Findings
+- Discussion
+- Limitations
+- Conclusion/Future work
+- References
+
+
 
