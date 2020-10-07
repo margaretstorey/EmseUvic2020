@@ -33,8 +33,7 @@ Software Engineering Group, School of Computer Science and Mathematics, Keele Un
 #### Example literature reviews in software engineering (related to Activity)
 
 - [A systematic review on regression test selection techniques](https://portal.research.lu.se/portal/files/4288476/3738217.pdf) by Engstrom et al., IST 2010.
-- Motivation in Software Engineering: A systematic literature review]
-- [Motivation in_oftware_engineering_A_systematic_review_update](https://www.researchgate.net/publication/260734375_Motivation_in_software_engineering_A_systematic_review_update/link/02e7e53c143b195ba1000000/download)  by Beecham et al., IST 2008.
+- [Motivation in Software_engineering: A_systematic review update](https://www.researchgate.net/publication/260734375_Motivation_in_software_engineering_A_systematic_review_update) by Beecham et al., IST 2008.
 - [Behavioral software engineering: A definition and systematic literature review](https://www.sciencedirect.com/science/article/abs/pii/S0164121215000989) by Per Lenberg et al., JSS 2015.
 - [Defining and Classifying Software Bots: A Faceted Taxonomy](https://alexeyza.com/pdf/botse2019invited.pdf) by Lebeuf et al., ICSE/BotSE 2019.
 
