@@ -1,4 +1,4 @@
-# Requirements
+# Prereqs and Requirements
 
 **Prerequisites:**
 
@@ -16,11 +16,11 @@
 - See the [course outlines](https://heat.csc.uvic.ca/coview/course/2020091/CSC578A) for other expectations, course policies, and official grade breakdown.
 - Monitor messages on Slack for any changes in course delivery methods, tools used, project requirements and due dates.
 
-## Course participation:
+# Course participation:
 
 There will be ample group activities throughout the term and opportunities to contribute to the course material and class discussions. 
 
-## Blogposts:
+# Blogposts:
 
 For each of our workshops, you will write a short blogpost of approx. 3-4 paragraphs based on your reflections of the assigned materials (readings/videos/podcasts) for that workshop. 
 Note, this post should not be merely a summary of the readings but your personal reflection of how these relate to your own experience and knowledge,  and the content discussed earlier in the course.  Your post should make it clear though that you've read and thought about these materials in preparation for the workshop. 
@@ -32,7 +32,7 @@ You may update your posts with additional thoughts and reflections during the wo
 Please make any changes by the following Monday at 5pm and make sure we can easily identify the changed content.
 
 
-## Project #1:
+# Project #1:
 
 For this project we will conduct a review of papers published at the flagship conference in software engineering in 2020.
 
@@ -71,7 +71,7 @@ The individual work of this assignment is worth 80% of the project #1 grade (int
 The collaborative alignment phase completed during class time on Nov 6th is worth 20% of your project #1 grade.  You should prepare before class for this alignment activity.
 
 
-## Project #2: 
+# Project #2: 
 
 For this project, you will conduct a replication of an existing study published in a software engineering research venue, or you may wish to design a novel study. 
 The project should ideally be completed in teams of 3-4 students, but students can complete it alone or in pairs if they wish.
@@ -112,7 +112,7 @@ Format: PDF document, submitted via Connex. This will be in the 3-4 page range u
 
 The interim project report should be a stand-alone document describing your progress so far on the project. Consider it as an early (but incomplete) preliminary version of your final report (see below). It should include early versions of most sections of the anticipated final report. 
 
-### Project video
+#### Project video
 - Approx. 5 min video describing your project (motivation, methods, what you learned, what's next).  You may wish to host this on YouTube (or Vimeo) and submit the link via Connex. 
 
 #### Project final report
