@@ -41,18 +41,20 @@ but rather our goal is (as a class) to determine answers to the following questi
 - who are the **beneficiaries** of the reported research (see the WWH framework); 
 - what kinds of **knowledge** are captured in these papers in terms of descriptive or prescriptive knowledge (see our reading on Design Science); 
 - which empirical **research methods** (if any) are used in the papers and how do the methods used meet the quality criteria of **generalizability, control, precision and realism** (see readings by McGrath and the WWH framework) 
-- which **software engineering topics** do these papers cover (according to the topics specified by Swebok and used in the Lenberg paper systematic mapping paper); 
+- which **software engineering topics** do these papers cover (according to the topics specified by Swebok and used in the Lenberg systematic mapping paper we discussed); 
 - for the empirical papers, how do the authors convince the readers that their research and findings are **novel, rigorous, and relevant** to others (see Design science paper); 
-- what is your personal opinion of the **importance** of this research (using similar criteria suggested by the David Lo paper). 
+- what is your personal opinion of the **importance** of this research (using similar criteria suggested by this David Lo paper). 
 
-You will each be assigned a set of papers from the [ICSE 2020 technical track](https://conf.researchr.org/track/icse-2020/icse-2020-papers?track=ICSE%20Technical%20Papers#event-overview). Your task is to read each of these papers, and answer the above set of questions for each of them. 
+You will each be assigned a set of papers from the [ICSE 2020 technical track](https://conf.researchr.org/track/icse-2020/icse-2020-papers?track=ICSE%20Technical%20Papers#event-overview). Your task is to read and think critically about each of these papers, and answer the above set of questions for each of them (there are also some bonus questions!). 
 Graduate students will be assigned 11 papers; undergraduate students will be assigned 7 papers. 
+Note that several of the questions ask you to elaborate on your decisions for type of paper etc, for many of these you can copy/paste quotes directly from the papers you are reading.
+To submit your individual answers for each paper, please use this form: https://www.surveymonkey.ca/r/emseuvic for each of your assigned papers. 
+Make sure you fill out the form for the correct paper (select the paper carefully in the survey pulldown box). 
+Meeting the milestones (you will review some papers each week) is important so that we can give you feedback along the way if we notice some misunderstanding about the project requirements. 
 
 Each paper will have two "reviewers".  In the second phase, your task with be to "align" your answers with the other reviewer.
-To submit your answers for each paper, please use this form: https://www.surveymonkey.ca/r/emseuvic for each of your assigned papers. 
-Make sure you fill out the form for the correct paper (select the paper carefully in the survey pulldown box). 
-
-Later we will use a giant google spreadsheet to carry out our alignment activity and we will visualize the results! 
+This may not always be easy, so make sure you have a solid justification for your choices to some of the questions.
+For this phase, we will use a giant google spreadsheet to record our alignment activity (when you disagree with the other reviewer, you will need to say why you disagree) and we will finally visualize the results as a class! 
 
 
 #### Project #1 Milestones and Grading
@@ -65,26 +67,15 @@ Later we will use a giant google spreadsheet to carry out our alignment activity
 | Nov 3, 5pm | 2 papers | 1 paper |
 | Nov 6, due by 5pm | Prepare for/do alignment | Prepare for/do alignment |
 
-The individual work of this assignment is worth 80% of the project #1 grade (assuming the interim milestones were followed), 
-and a collaborative alignment step completed during class time on Nov 6th (the alignment part is worth 20% of your project #1 grade). 
-Meeting the milestones is important so that we can give you feedback along the way if we notice some misunderstanding about the project requirements. 
+The individual work of this assignment is worth 80% of the project #1 grade (interim milestones must be followed). 
+The collaborative alignment phase completed during class time on Nov 6th is worth 20% of your project #1 grade.  You should prepare before class for this alignment activity.
 
 
 ## Project #2: 
 
-This project will be to replicate or redesign an empirical study (of your choice) in software engineering. 
+For this project, you will conduct a replication of an existing study published in software engineering research, or you may wish to design a novel study. 
 The project will be ideally completed in teams, but students can complete it alone if they wish. 
-Each student/team member is required to do the following:
 
-1. Follow any updates on this site and meet all of the established interim milestones.
-2. Attend all the lectures during the semester, as these will prepare you to succeed in this project.
-3. Together with your team mates, choose a topic for your project (details to follow).
-4. Contribute equitably throughout the term to the team project in terms of research, video and paper writing.
-5. Grade will be determined on a combination of the following:
-    - 30% of your grade for this project component will be given for presentation in class (prepared video)
-    - 70% of your grade will be based on the final report and meeting milestones throughout the term
-    - Several milestones will be established for early versions of the report and project ideas.
-    - Extra points may be given for: challenging projects, original ideas, collaboration with external organizations.
     
 #### Project #2 Miletones and Grading
 
@@ -131,5 +122,16 @@ The interim project report should be a stand-alone document describing your prog
 - Conclusion/Future work
 - References
 
+#### Project #2 Advice
+Each student/team member is required to do the following:
+
+1. Follow any updates on this site and meet all of the established interim milestones.
+2. Attend all the lectures during the semester, as these will prepare you to succeed in this project.
+3. Together with your team mates (if any), choose a topic for your project (details to follow).
+4. Contribute equitably throughout the term to the team project in terms of research, video and paper writing.
+5. Grade will be determined on a combination of the following:
+    - 20% of your grade for this project component will be given for presentation in class (prepared video)
+    - 80% of your grade will be based on the final report and meeting milestones throughout the term
+    - Extra points may be given for: challenging projects, original ideas, collaboration with external organizations.
 
 
