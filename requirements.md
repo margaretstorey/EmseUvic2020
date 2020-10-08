@@ -41,7 +41,7 @@ but rather our goal is (as a class) to determine answers to the following questi
 - who are the **beneficiaries** of the reported research (see the WWH framework); 
 - what kinds of **knowledge** are captured in these papers in terms of descriptive or prescriptive knowledge (see our reading on Design Science); 
 - which empirical **research methods** (if any) are used in the papers and how do the methods used meet the quality criteria of **generalizability, control, precision and realism** (see readings by McGrath and the WWH framework) 
-- which **software engineering topics** do these papers cover (according to the topics specified by Swebok and used in the Lenberg systematic mapping paper we discussed); 
+- which **software engineering topics** do these papers cover (according to the topics specified by [Swebok](https://cs.fit.edu/~kgallagher/Schtick/Serious/SWEBOKv3.pdf) and used in the Lenberg systematic mapping paper we discussed); 
 - for the empirical papers, how do the authors convince the readers that their research and findings are **novel, rigorous, and relevant** to others (see Design science paper); 
 - what is your personal opinion of the **importance** of this research (using similar criteria suggested by this David Lo paper). 
 
