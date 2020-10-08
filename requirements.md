@@ -32,7 +32,7 @@ You may update your posts with additional thoughts and reflections during the wo
 Please make any changes by the following Monday at 5pm and make sure we can easily identify the changed content.
 
 
-# Project #1:
+# [Project #1](#project1)
 
 For this project we will conduct a review of papers published at the flagship conference in software engineering in 2020.
 
