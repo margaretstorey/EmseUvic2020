@@ -76,10 +76,10 @@ The collaborative alignment phase completed during class time on Nov 6th is wort
 For this project, you will conduct a replication of an existing study published in a software engineering research venue, or you may wish to design a novel study. 
 The project should ideally be completed in teams of 3-4 students, but students can complete it alone or in pairs if they wish.
 
-If your project will involve a study with the direct participation of human subjects (e.g., lab experiment, observations, focus group, interviews, surveys), you will need to submit a brief application for ethics approval.  We will post details on this process here shortly.  We will guide you this process (you cannot change your mind on this aspect after Nov 16th). 
+If your project will involve a study with the direct participation of human subjects (e.g., developers or students or other stakeholders participating in a lab experiment, observations, focus group, interviews, surveys), you will need to submit a brief application for ethics approval.  We will post details on this process here shortly.  We will guide you this process (you cannot change your mind on this aspect after Nov 16th). Note you cannot use deception as part of this study.
 
 For some ideas of projects you can replicate that are based on data traces only, you may get some ideas from this book: http://www.knosof.co.uk/ESEUR/ (see also  
-https://github.com/Derek-Jones/ESEUR-book). 
+https://github.com/Derek-Jones/ESEUR-book).  Or you may wish to replicate a study from an existing paper that has replication materials available. GHTorrent is another possibility but pay attention to the Perils paper we read by Kalliamvakou et al.!
 
 
     
