@@ -12,7 +12,7 @@
 - Attendance in all class meetings (lectures, project #1 alignment session, and workshops) during the scheduled timeslot is **mandatory**. If you have to miss a class, please let the instructor know ahead of time.  Some classes may start or end early depending on the nature of the topic covered and available materials to be viewed offline.  Details will be posted on Slack in advance of the lecture (you should assume the lecture will consume the entire scheduled class time unless you hear otherwise).
 - Readings/videos/podcasts will be assigned weekly and should be read/viewed/listened to in **advance** of the lectures and workshops.
 - Blogposts must be finalized and submitted by 6pm on their due dates.
-- There are no extensions for project deliverables. Watch below for information on how to submit the project deliverables.
+- There are no extensions for project deliverables. See below for information on how to submit the project deliverables.
 - See the [course outlines](https://heat.csc.uvic.ca/coview/course/2020091/CSC578A) for other expectations, course policies, and official grade breakdown.
 - Monitor messages on Slack for any changes in course delivery methods, tools used, project requirements and due dates.
 
@@ -27,14 +27,14 @@ Note, this post should not be merely a summary of the readings but your personal
 
 In addition, each blogpost should list at most one clearly stated question per assigned material/guest. 
 
-The blogposts are due the day before (Thursday) each workshop by 5pm. 
+The blogposts are due by 6pm the day before each workshop (Thursday).
 You may update your posts with additional thoughts and reflections during the workshop (e.g., how your question was answered explicitly or indirectly). 
-Please make any changes by the following Monday at 5pm and make sure it is clear what you added that is new.
+Please make any changes by the following Monday at 5pm and make sure we can easily identify the changed content.
 
 
 ## Project #1:
 
-This project is a "class" project that will conduct a review of papers published at the flagship conference in software engineering in 2020.
+For this project we will conduct a review of papers published at the flagship conference in software engineering in 2020.
 
 This isn't a traditional review of the papers that authors would receive for their papers when submitted to a conference, 
 but rather our goal is (as a class) to determine answers to the following questions about these papers:
@@ -73,8 +73,14 @@ The collaborative alignment phase completed during class time on Nov 6th is wort
 
 ## Project #2: 
 
-For this project, you will conduct a replication of an existing study published in software engineering research, or you may wish to design a novel study. 
-The project will be ideally completed in teams, but students can complete it alone if they wish. 
+For this project, you will conduct a replication of an existing study published in a software engineering research venue, or you may wish to design a novel study. 
+The project should ideally be completed in teams of 3-4 students, but students can complete it alone or in pairs if they wish.
+
+If your project will involve a study with the direct participation of human subjects (e.g., lab experiment, observations, focus group, interviews, surveys), you will need to submit a brief application for ethics approval.  We will post details on this process here shortly. 
+
+For some ideas of projects you can replicate that are based on data traces only, you may get some ideas from this book: http://www.knosof.co.uk/ESEUR/ (see also  
+https://github.com/Derek-Jones/ESEUR-book). 
+
 
     
 #### Project #2 Miletones and Grading
@@ -102,15 +108,18 @@ This should describe the study you wish to replicate or new study you wish to de
 
 #### Project interim reports 
 
-Format: PDF document, submitted via Connex. This will be in the 3-4 page range. 
+Format: PDF document, submitted via Connex. This will be in the 3-4 page range using the ACM format described here: https://www.acm.org/publications/proceedings-template
 
 The interim project report should be a stand-alone document describing your progress so far on the project. Consider it as an early (but incomplete) preliminary version of your final report (see below). It should include early versions of most sections of the anticipated final report. 
 
 ### Project video
-- 5 min video describing your project (motivation, methods, what you learned, what's next)
+- Approx. 5 min video describing your project (motivation, methods, what you learned, what's next).  You may wish to host this on YouTube (or Vimeo) and submit the link via Connex. 
 
 #### Project final report
 
+Format: PDF document, submitted via Connex. This will be in the 8-12 page range (not including appendices). Use the format described at this page: https://www.acm.org/publications/proceedings-template
+
+The following shows a typical outline, but your project may require a different outline.  Check with the course staff if you are unsure!
 - Introduction
    - Motivation for this research, to whom is it relevant and why
 - Related work (this may come later in your paper!)
@@ -121,6 +130,8 @@ The interim project report should be a stand-alone document describing your prog
 - Limitations
 - Conclusion/Future work
 - References
+- Appendix A: describe and provide links to any supplementary materials or replication package.
+- Appendix B: if this was does as a team, please include a description of how the team members contributed to the project.
 
 #### Project #2 Advice
 Each student/team member is required to do the following:
