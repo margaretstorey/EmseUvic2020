@@ -73,7 +73,7 @@ The collaborative alignment phase completed during class time on Nov 6th is wort
 
 #### Project #1 Reference papers
 
-- [The who, what, how of software engineering research: a socio-technical framework.](https://link.springer.com/article/10.1007%2Fs10664-020-09858-z) Storey, M., Ernst, N.A., Williams, C. et al.  Empir Software Eng 25, 4097–4129 (2020).
+- [The who, what, how of software engineering research: a socio-technical framework.](https://link.springer.com/article/10.1007%2Fs10664-020-09858-z) Storey, M., Ernst, N.A., Williams, C.,  Empir Software Eng 25, 4097–4129 (2020).
 - [How software engineering research aligns with design science: a review](https://link.springer.com/article/10.1007/s10664-020-09818-7) by Emelie Engström, Margaret-Anne Storey, Per Runeson, Martin Höst & Maria Teresa Baldassarre, Empirical Software Engineering volume 25, pages 2630–2660, 2020.
 - [Methodology Matters by McGrath](https://www.sciencedirect.com/science/article/pii/B9780080515748500194) (access through UVic library) 
 - [The Distinctions Between Theory, Theoretical Framework, and Conceptual Framework](https://www.researchgate.net/profile/Harasit_Paul4/post/what_is_the_difference_between_theoretical_framework_and_conceptual_framework/attachment/5ed558e7152fe900010c39cc/AS%3A897701948448768%401591040231038/download/varpio2019.pdf) by Lara Varpio, Elise Paradis, Sebastian Uijtdehaage, Meredith Young, Academic Medicine: Journal of the Association of American Medical Colleges, 2019. 
