@@ -39,4 +39,4 @@ Software Engineering Group, School of Computer Science and Mathematics, Keele Un
 
 ## Activity 
 - Spot the review type! (Don't judge a book by its cover!)
-- Start on Project #1
+- Start on [Project #1](requirements.md#project1)
