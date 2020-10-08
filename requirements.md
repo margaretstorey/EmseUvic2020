@@ -78,7 +78,7 @@ The collaborative alignment phase completed during class time on Nov 6th is wort
 - [Methodology Matters by McGrath](https://www.sciencedirect.com/science/article/pii/B9780080515748500194) (access through UVic library) 
 - [The Distinctions Between Theory, Theoretical Framework, and Conceptual Framework](https://www.researchgate.net/profile/Harasit_Paul4/post/what_is_the_difference_between_theoretical_framework_and_conceptual_framework/attachment/5ed558e7152fe900010c39cc/AS%3A897701948448768%401591040231038/download/varpio2019.pdf) by Lara Varpio, Elise Paradis, Sebastian Uijtdehaage, Meredith Young, Academic Medicine: Journal of the Association of American Medical Colleges, 2019. 
 - [Behavioral software engineering: A definition and systematic literature review](https://www.sciencedirect.com/science/article/abs/pii/S0164121215000989) by Per Lenberg et al., JSS 2015.
-- [How Practitioners Perceive the Relevance of Software Engineering Research](http://thomas-zimmermann.com/publications/files/lo-esecfse-2015.pdf) by D. Lo, N. Cagappan, T. Zimmermann, ESEC/FSE 2015.
+- [How Practitioners Perceive the Relevance of Software Engineering Research](http://thomas-zimmermann.com/publications/files/lo-esecfse-2015.pdf) by D. Lo, N. Nagappan, T. Zimmermann, ESEC/FSE 2015.
 
 
 # [Project #2](#project2)
