@@ -29,7 +29,7 @@ In addition, each blogpost should list at most one clearly stated question per a
 
 The blogposts are due by 6pm the day before each workshop (Thursday).
 You may update your posts with additional thoughts and reflections during the workshop (e.g., how your question was answered explicitly or indirectly). 
-Please make any changes by the following Monday at 5pm and make sure we can easily identify the changed content.
+Please make any changes by the following Monday at 6pm and make sure we can easily identify the changed content.
 
 
 # [Project #1](#project1)
