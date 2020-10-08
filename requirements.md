@@ -20,7 +20,7 @@
 
 There will be ample group activities throughout the term and opportunities to contribute to the course material and class discussions. 
 
-# Blogposts:
+# [Blogposts](#workshops)
 
 For each of our workshops, you will write a short blogpost of approx. 3-4 paragraphs based on your reflections of the assigned materials (readings/videos/podcasts) for that workshop. 
 Note, this post should not be merely a summary of the readings but your personal reflection of how these relate to your own experience and knowledge,  and the content discussed earlier in the course.  Your post should make it clear though that you've read and thought about these materials in preparation for the workshop. 
@@ -71,7 +71,7 @@ The individual work of this assignment is worth 80% of the project #1 grade (int
 The collaborative alignment phase completed during class time on Nov 6th is worth 20% of your project #1 grade.  You should prepare before class for this alignment activity.
 
 
-# Project #2: 
+# [Project #2](#project2)
 
 For this project, you will conduct a replication of an existing study published in a software engineering research venue, or you may wish to design a novel study. 
 The project should ideally be completed in teams of 3-4 students, but students can complete it alone or in pairs if they wish.
