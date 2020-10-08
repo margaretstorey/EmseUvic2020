@@ -61,11 +61,11 @@ For this phase, we will use a giant google spreadsheet to record our alignment a
 
 | Date | Graduate Students | Undergraduate Students| 
 | --------- | ---------------- | ---------------- |
-| Oct 14, 5pm | 3 papers | 2 papers |
-| Oct 21, 5pm | 3 papers | 2 papers |
-| Oct 28, 5pm | 3 papers | 2 papers |
-| Nov 3, 5pm | 2 papers | 1 paper |
-| Nov 6, due by 5pm | Prepare for/do alignment | Prepare for/do alignment |
+| Oct 14, 6pm | 3 papers | 2 papers |
+| Oct 21, 6pm | 3 papers | 2 papers |
+| Oct 28, 6pm | 3 papers | 2 papers |
+| Nov 3, 6pm | 2 papers | 1 paper |
+| Nov 6, due by 6pm | Prepare for/do alignment | Prepare for/do alignment |
 
 The individual work of this assignment is worth 80% of the project #1 grade (interim milestones must be followed). 
 The collaborative alignment phase completed during class time on Nov 6th is worth 20% of your project #1 grade.  You should prepare before class for this alignment activity.
@@ -76,7 +76,7 @@ The collaborative alignment phase completed during class time on Nov 6th is wort
 For this project, you will conduct a replication of an existing study published in a software engineering research venue, or you may wish to design a novel study. 
 The project should ideally be completed in teams of 3-4 students, but students can complete it alone or in pairs if they wish.
 
-If your project will involve a study with the direct participation of human subjects (e.g., lab experiment, observations, focus group, interviews, surveys), you will need to submit a brief application for ethics approval.  We will post details on this process here shortly. 
+If your project will involve a study with the direct participation of human subjects (e.g., lab experiment, observations, focus group, interviews, surveys), you will need to submit a brief application for ethics approval.  We will post details on this process here shortly.  We will guide you this process (you cannot change your mind on this aspect after Nov 16th). 
 
 For some ideas of projects you can replicate that are based on data traces only, you may get some ideas from this book: http://www.knosof.co.uk/ESEUR/ (see also  
 https://github.com/Derek-Jones/ESEUR-book). 
@@ -86,11 +86,11 @@ https://github.com/Derek-Jones/ESEUR-book).
 #### Project #2 Miletones and Grading
 
 | Date | Milestone | % of Project Grade |
-| ------------ | ------------------------------------- | 
-| Nov 16, 5pm | Project proposal | 10% | 
-| Nov 30, 5pm | Interim report | 20% | 
+| ------------ | ----------------| --------------------- | 
+| Nov 16, 6pm | Project proposal | 10% | 
+| Nov 30, 6pm | Interim report | 20% | 
 | Dec 4, 9am | Video presentation | 20% | 
-| Dec 11, 5pm | Final report | 50% \
+| Dec 11, 6pm | Final report | 50% |
 
 
 #### Project proposal
