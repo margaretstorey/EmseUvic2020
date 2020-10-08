@@ -16,7 +16,7 @@
 - See the [course outlines](https://heat.csc.uvic.ca/coview/course/2020091/CSC578A) for other expectations, course policies, and official grade breakdown.
 - Monitor messages on Slack for any changes in course delivery methods, tools used, project requirements and due dates.
 
-# Course participation:
+#### Course participation:
 
 There will be ample group activities throughout the term and opportunities to contribute to the course material and class discussions. 
 
