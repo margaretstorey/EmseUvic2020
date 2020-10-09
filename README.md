@@ -8,34 +8,34 @@ Empirical software engineering is a research area concerned with the study of so
 
 This course will prepare students for advanced research in industrial and academic settings by examining how to plan, conduct and report on empirical investigations of software engineering phenomena. The course will cover techniques applicable to each of the steps of an empirical software engineering research project, including formulating and identifying relevant research questions, data analysis (using both qualitative and quantitative methods), building evidence, developing new and refining existing theories, assessing validity and novelty of the research methods and outcomes, and publishing and presenting findings to different audiences. The course will emphasize research methods that are used to study human interactions with software engineering methods and tools: controlled experiments, user studies, field studies, surveys, archival data analysis methods, action research and ethnographies. We will explore, understand and critique the methods used in several examples of studies of software engineering methodologies and tools used in industry, and through academic peer reviewed articles published in empirical software engineering venues.
 
-The course will be held in a mostly synchronous fashion and students should be available to attend the full lectures each week. 
-The first part of the course will be more lecture based, establishing some foundations in the topics taught and explored in this course. 
-The second part of the course will be workshop based, with guest speakers and ample activities to drill into specific topics more deeply. The workshops will be on the following topics: code assessment techniques, knowledge sharing and collaboration, continuous software engineering, diversity and inclusion in software engineering, software engineering productivity, and ethics and reliability of empirical research in software engineering. 
+The course will be held in a mostly synchronous fashion and students should be available to attend the full lectures each week.
+The first part of the course will be more lecture based, establishing some foundations in the topics taught and explored in this course.
+The second part of the course will be workshop based, with guest speakers and ample activities to drill into specific topics more deeply. The workshops will be on the following topics: code assessment techniques, knowledge sharing and collaboration, continuous software engineering, diversity and inclusion in software engineering, software engineering productivity, and ethics and reliability of empirical research in software engineering.
 
 See [course requirements](requirements.md) and the [course outline](https://heat.csc.uvic.ca/coview/course/2020091/CSC578A) for more details.
 
 ---
 
-**Classes will be on Fridays 1:30-4:20 online (via Zoom -- see [Connex](https://connex.csc.uvic.ca/portal/site/emse2020) for the link to Zoom and invitation to Slack and and the [Wordpress blog](https://emseuvic2020.wordpress.com).)**  
+**Classes will be on Fridays 1:30-4:20 online (via Zoom -- see [Connex](https://connex.csc.uvic.ca/portal/site/emse2020) for the link to Zoom, invitation to Slack, and the Wordpress blog.)**
 (*Tentative schedule, slides and other materials will be posted throughout the term and linked in the table below*)
 
 
-| | Date | Meeting agenda | Guests | Deliverable | 
-| ---:| ---------- | ------------------- | --------------------------------- |  ----------- | 
-| 1 | 11/09/2020 | [Course Introduction and <br> History of Software Engineering](resources/introduction.md)| | Introductions/Activity | 
-| 2 | 18/09/2020 | [Introduction to Empirical Software Engineering](resources/emse-intro.md) | <ul><li>**Greg Wilson**, RStudio. [Interview Video](https://www.youtube.com/watch?v=Orghyn91ZMo&feature=youtu.be);  [Interview Audio](https://anchor.fm/margaret-anne-d-storey/episodes/A-QA-with-Greg-Wilson-on-Empirical-Software-Engineering-eklhkc)</li></ul> | Group Activity | 
-| 3 | 25/09/2020 | [Research Methods for SE](resources/methods.md) | <ul><li>**Rashina Hoda**, Monash University [Recorded Talk and Q&A](https://youtu.be/z-Yr27qtePM) </li></ul> | Group Activity | 
-| 4 | 02/10/2020 | [Theories, Theoretical Frameworks and Conceptual Frameworks in Software Engineering Research](resources/theories.md) | <ul><li>**Elise Paradis**, UofT/UVic [Talk and Q&A Video](https://youtu.be/_8aPAGD6tdA)</li></ul>  | Group Activity | 
+| | Date | Meeting agenda | Guests | Deliverable |
+| ---:| ---------- | ------------------- | --------------------------------- |  ----------- |
+| 1 | 11/09/2020 | [Course Introduction and <br> History of Software Engineering](resources/introduction.md)| | Introductions/Activity |
+| 2 | 18/09/2020 | [Introduction to Empirical Software Engineering](resources/emse-intro.md) | <ul><li>**Greg Wilson**, RStudio. [Interview Video](https://www.youtube.com/watch?v=Orghyn91ZMo&feature=youtu.be);  [Interview Audio](https://anchor.fm/margaret-anne-d-storey/episodes/A-QA-with-Greg-Wilson-on-Empirical-Software-Engineering-eklhkc)</li></ul> | Group Activity |
+| 3 | 25/09/2020 | [Research Methods for SE](resources/methods.md) | <ul><li>**Rashina Hoda**, Monash University [Recorded Talk and Q&A](https://youtu.be/z-Yr27qtePM) </li></ul> | Group Activity |
+| 4 | 02/10/2020 | [Theories, Theoretical Frameworks and Conceptual Frameworks in Software Engineering Research](resources/theories.md) | <ul><li>**Elise Paradis**, UofT/UVic [Talk and Q&A Video](https://youtu.be/_8aPAGD6tdA)</li></ul>  | Group Activity |
 | 5 | 09/10/2020 | [Literature reviews for Software Engineering Research](resources/literature2.md), Work on [Project #1](requirements.md#project1) |  | Project #1 started |
 | 6 | 16/10/2020 | Workshop #1: [Continuous Software Engineering](resources/contSE.md) | <ul><li>**Nicole Forsgren**, Github</li> <li>**Chandra Maddila**, Microsoft Research</li> <li>**Laurie Williams**, NC State </li> <li>**Eben Haber**, Couchbase</li></ul> | Blogpost #1 |
 | 7 | 23/10/2020 | Workshop #2: Code Review and Assessment | <ul><li>**Chris Bird**, Microsoft Research</li> <li> **Brian Houck**, Microsoft</li> <li> **Ali Mesbah**, UBC</li> <li>**Michaela Greiler**, Consultant</li> <li>**Jorge Aranda**, Workday| Blogpost #2 |
 | 8 | 30/10/2020 | Workshop #3: Diversity and Inclusion in Software Engineering| <ul><li>**Andy Begel**, Microsoft Research</li> <li>**Alexander Serebrenik**, Eindhoven University of Technology</li> <li>**Emerson Murphy-Hill**, Google Research</li> <li>**Anita Sarma**, Oregon State University</li></ul> | Blogpost #3 |
-  | 9 | 06/11/2020 | Alignment for [Project #1](requirements.md#project1) | <ul><li>**Neil Ernst, UVic**</li></ul> | [Project #1](requirements.md#project1) due | 
+  | 9 | 06/11/2020 | Alignment for [Project #1](requirements.md#project1) | <ul><li>**Neil Ernst, UVic**</li></ul> | [Project #1](requirements.md#project1) due |
 | 10 | 13/11/2020 | Workshop #4: Collaboration, Communication and Knowledge Flow in Software Engineering | <ul><li>**Anna Fillipova**, GitHub</li> <li>**Christoph Treude**, Adelaide University</li> <li>**Jim Herbsleb**, Carnegie Mellon University</li> <li>**Carolyn Seaman**, University of Maryland Baltimore County</li></ul> | Blogpost #4 |
 | 11 | 20/11/2020 | Workshop #5: Developer and Team Productivity | <ul><li>**Tom Zimmermann**, Microsoft Research</li> <li>**Jenna Butler**, Microsoft</li> <li> **Courtney Miller**, New College of Florida</li> <li>**Ciera Jaspan**, Google </li></ul>| Blogpost #5 |
 | 12 | 27/11/2020 | Workshop #6: Bridging Gaps | <ul><li>**Michael Hilton**, Carnegie Mellon University</li> <li>**Daniel German**, University of Victoria</li> <li> **Jacek Czerwonka**, Microsoft</li><li>**Kate Stewart**, Linux Foundation</li></ul> | Blogpost #6 |
-| 13 | 04/12/2020 | Project #2 presentations | | Project #2, videos due | 
-| 14 | 11/12/2020 | No class | | Project #2, final reports due | 
+| 13 | 04/12/2020 | Project #2 presentations | | Project #2, videos due |
+| 14 | 11/12/2020 | No class | | Project #2, final reports due |
 
 ---
 
@@ -55,7 +55,7 @@ See the resources for each lecture in the schedule above for an extensive list o
 - [Margaret-Anne Storey](https://margaretannestorey.com/) (Instructor)
 - [Omar Elazhary](http://omazhary.net) (Teaching Assistant)
 
-**Office Hour:** By appointment and Thursdays 2-3pm via Zoom drop in (use the Class link). 
+**Office Hour:** By appointment and Thursdays 2-3pm via Zoom drop in (use the Class link).
 Please direct message me on Slack (or email me) to set up a meeting.
 
 **Contact email:** [mstorey@uvic.ca](mailto:mstorey@uvic.ca)
