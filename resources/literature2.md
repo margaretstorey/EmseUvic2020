@@ -10,7 +10,7 @@ Date: Oct 9th, 2020
 - Start on Project #1
 
 ## Materials
-- Slides (To be posted)
+- [Slides on literature reviews in software engineering](emse-uvic-2020-week5-litreviews.pdf)
 
 ## Required Readings:
 
