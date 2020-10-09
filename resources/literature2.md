@@ -11,7 +11,7 @@ Date: Oct 9th, 2020
 
 ## Materials
 - [Slides on literature reviews in software engineering](emse-uvic-2020-week5-litreviews.pdf) by Margaret-Anne Storey
-- [Slides on Who, What, How Framework and Design Science Revisited](emse-uvic-2020-week5-wwh.pdf) by Margaret-Anne Storey (in preparation for Project #1!) 
+- [Slides on Who, What, How Framework and Design Science Revisited](emse2020-uvic-week5-WWH.pdf) by Margaret-Anne Storey (in preparation for Project #1!) 
 - Slides Administrivia and some notes on Project #1]() Coming soon.
 
 ## Required Readings:
