@@ -58,6 +58,9 @@ Each paper will have two "reviewers".  In the second phase, your task with be to
 This may not always be easy, so make sure you have a solid justification for your choices to some of the questions.
 For this phase, we will use a giant google spreadsheet to record our alignment activity (when you disagree with the other reviewer, you will need to say why you disagree) and we will finally visualize the results as a class!
 
+You will be assigned your paper sets via Slack. A complete list of papers is given in the [paper_list_sorted.txt](resources/paper_list_sorted.txt) file.
+You can download the papers from this link to a public [Google Drive folder](https://drive.google.com/drive/folders/1PNjV_lvKmtTtu0pbDuoZnv3Htu1HvUfc?usp=sharing).
+
 
 #### Project #1 Milestones and Grading
 

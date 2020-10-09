@@ -1,0 +1,115 @@
+P001 - A comprehensive study of autonomous vehicle bugs
+P002 - A cost-efficient approach to building in continuous integration
+P003 - A large-scale empirical study on vulnerability distribution within projects and the lessons learned
+P004 - A study on the lifecycle of flaky tests
+P005 - A study on the prevalence of human values in software engineering publications
+P006 - A tale from the trenches: Cognitive biases and software development
+P007 - Accessibility issues in android apps: State of affairs sentiments and ways forward
+P008 - An empirical assessment of security risks of global android banking apps
+P009 - An empirical study on api parameter rules
+P010 - An empirical study on program failures of deep learning jobs
+P011 - An investigation of cross-project learning in online just-in-time software defect prediction
+P012 - Ankou: Guiding grey-box fuzzing towards combinatorial difference
+P013 - Approximation-refinement testing of compute-intensive cyber-physical models: An approach based on system identification
+P014 - Automatic testing and improvement of machine translation
+P015 - Automatically testing string solvers
+P016 - BCFA: Bespoke control flow analysis for CFA at scale
+P017 - Big code does not equal big vocabulary: Open vocabulary models for source code
+P018 - CC2Vec: Distributed representations of code changes
+P019 - CPC: Automatically classifying and propagating natural language comments via program analysis
+P020 - Caspar: Extracting and synthesizing user stories of problems from app reviews
+P021 - Causal testing: Understanding defects' root causes
+P022 - Collaborative bug finding for android apps
+P023 - ComboDroid: Generating high-quality test inputs for android apps via use case combinations
+P024 - Comparing formal tools for system design: A judgement study
+P025 - Conquering the extensional scalability problem for value-flow analysis frameworks
+P026 - Context-aware in-process crowdworker recommendation
+P027 - Debugging inputs
+P028 - DeepBillboard: Systematic physical-world testing of autonomous driving systems
+P029 - Demystify official API usage directives with crowdsourced API misuse scenarios erroneous code examples and patches
+P030 - Efficient generation of error-inducing floating-point inputs via symbolic execution
+P031 - Empirical review of automated analysis tools on 47587 ethereum smart contracts
+P032 - Engineering gender-inclusivity into software: Ten teams' tales from the trenches
+P033 - Establishing multilevel test-to-code traceability links
+P034 - Explaining pair programming session dynamics from knowledge gaps
+P035 - Extracting taint specifications for javascript libraries
+P036 - Finding client-side business flow tampering vulnerabilities
+P037 - Fuzz testing based data augmentation to improve robustness of deep neural networks
+P038 - Gang of eight: A defect taxonomy for infrastructure as code scripts
+P039 - HARP: Holistic analysis for refactoring python-based analytics programs
+P040 - Heaps'n leaks: How heap snapshots improve android taint analysis
+P041 - Here we go again: Why is it difficult for developers to learn another programming language
+P042 - Heterorefactor: Refactoring for heterogeneious computing with FPGA
+P043 - How android developers handle evolution-induced api compatibility issues: A large-scale study
+P044 - How do companies collaborate in open source ecosystems: An empirical study of openstack
+P045 - How does misconfiguration of analytic services compromise mobile privacy
+P046 - How has forking changed in the last 20 years: A study of hard forks on GitHub
+P047 - How software practitioners use informal local meetups to share software engineering knowledge
+P048 - How to not get rich: An empirical study of donations in open source
+P049 - HyDiff: Hybrid differential software analysis
+P050 - Importance-driven deep learning system testing
+P051 - Improving data scientist efficiency with provenance
+P052 - Improving the effectiveness of traceability link recovery using hierarchical bayesian networks
+P053 - Interpreting cloud computer vision pain-points: A mining study of stack overflow
+P054 - Is rust used safely by software developers
+P055 - JVM fuzzing for JIT-induced side-channel detection
+P056 - Lazy product discovery in huge configuration spaces
+P057 - Learning from understanding and supporting devops artifacts for docker
+P058 - Learning-to-rank vs ranking-to-learn: Strategies for regression testing in continuous integration
+P059 - Managing data constraints in database-backed web applications
+P060 - MemLock: Memory usage guided fuzzing
+P061 - Misbehavior prediction for autonomous driving systems
+P062 - Mitigating turnover with code review recommendation: Balancing expertise workload and knowledge distribution
+P063 - Multiple-entry testing of android applicatoins by constructing activity launching contexts
+P064 - Near-duplicate detection in web app model inference
+P065 - Neurological divide: An fMRI study of prose and code writing
+P066 - On learning meaningful assert statements for unit test cases
+P067 - On the efficiency of test suite based program repair
+P068 - On the recall of static call graph construction in practice
+P069 - One size does not fit all: A grounded theory and online survey study of developer preferences for security warning types
+P070 - POSIT: Simultaneously tagging natural and programming languages
+P071 - Pipelining bottom-up data flow analysis
+P072 - Planning for untangling: Predicting the difficulty of merge conflicts
+P073 - Practical fault detection in puppet programs
+P074 - Predicting developers' negative feelings about code review
+P075 - Primers or reminders: The effects of existing review comments on code review
+P076 - Quickly generating diverse valid test inputs with reinforcement learning
+P077 - Recognizing developers' emotions while programming
+P078 - Reducing run-time adaptation space via analysis of possible utility bounds
+P079 - ReluDiff: Differential verification of deep neural networks
+P080 - Repairing deep neural networks: Fix patterns and challenges
+P081 - Retrieval-based neural source code summarization
+P082 - Revealing injection vulnerabilities by leveraging existing tests
+P083 - SAVER: Scalable, precise, and safe memory-error repair
+P084 - SLACC: Simion-based language agnostic code clones
+P085 - SLEMI: Equivalence modulo input (EMI) based mutation of CPS models for finding compiler bugs in simulink
+P086 - Scaling open source communities: En empirical study of the linux kernel
+P087 - Schroedinger's security: Opening the box on app developers' security rationale
+P088 - Seenomaly: Vision-based linting of gui animation effects against design-don't guidelines
+P089 - Simulee: Detecting CUDA synchronization bugs via memory-access modeling
+P090 - Software documentation: The practitioners' perspective
+P091 - Software visualization and deep transfer learning for effective software defect prediction
+P092 - SpecuSym: Speculative symbolic execution for cache timing leak detection
+P093 - Structure-invariant testing for machine translation
+P094 - Studying the use of java logging utilities in the wild
+P095 - Suggesting natural method names to check name consistencies
+P096 - Symbolic verification of message passing interface programs
+P097 - TRADER: Trace divergence analysis and embedding regulation for debugging recurrent neural networks
+P098 - Tailoring programs for static analysis via program transformation
+P099 - Taming behavioral backward incompatibilities via cross-project testing and analysis
+P100 - Targeted greybox fuzzing with static lookahead analysis
+P101 - Taxonomy of real faults in deep learning systems
+P102 - Testing DNN image classifiers for confusion and bias errors
+P103 - Testing file system implementations on layered models
+P104 - Time-travel testing of android apps
+P105 - Towards characterizing adversarial defects of deep learning software from the lens of uncertainty
+P106 - Towards the use of the readily available tests from the release pipeline as performance tests: Are we there yet
+P107 - Translating video recordings of mobile app usages into replayable scenarios
+P108 - Typestate-guided fuzzer for discovering use-after-free vulnerabilities
+P109 - Unblind your apps: Predicting natural-language labels for mobile GUI components by deep learning
+P110 - Understanding the automated parameter optimization on transfer learning for cross-project defect prediction: An empirical P001 - study
+P111 - Verifying object construction
+P112 - Watchman: Monitoring dependency conflicts for python library ecosystem
+P113 - When APIs are intentionally bypassed: An exploratory study of API workarounds
+P114 - White-box fairness testing through adversarial sampling
+P115 - sFuzz: An efficient adaptive fuzzer for solidity smart contracts
