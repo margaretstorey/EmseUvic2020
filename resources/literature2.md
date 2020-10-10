@@ -12,7 +12,7 @@ Date: Oct 9th, 2020
 ## Materials
 - [Slides on literature reviews in software engineering](emse-uvic-2020-week5-litreviews.pdf) by Margaret-Anne Storey
 - [Slides on Who, What, How Framework and Design Science Revisited](emse2020-uvic-week5-WWH.pdf) by Margaret-Anne Storey (in preparation for Project #1!) 
-- Slides Administrivia and some notes on Project #1]() Coming soon.
+- [Slides Administrivia and some notes/tips on Project #1](emse-uvic 2020-week5-administrivia.pdf)
 
 ## Required Readings:
 
@@ -40,5 +40,5 @@ Software Engineering Group, School of Computer Science and Mathematics, Keele Un
 - [Defining and Classifying Software Bots: A Faceted Taxonomy](https://alexeyza.com/pdf/botse2019invited.pdf) by Lebeuf et al., ICSE/BotSE 2019.
 
 ## Activity 
-- Spot the review type! (Don't judge a book by its cover!), see slides for today!
+- Spot the review type! (Don't judge a book by its cover!), see [slides](emse-uvic-2020-week5-litreviews.pdf) for today for description of the activity!
 - Start on [Project #1](requirements.md#project1)
