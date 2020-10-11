@@ -81,6 +81,11 @@ Elise Paradis and Gary Sutkin](https://pubmed.ncbi.nlm.nih.gov/27580703/) Med Ed
 #### Experiments: 
 - [Experimentation in Software Engineering](https://www.springer.com/gp/book/9783642290435) by Wohlin, C., Runeson, P., Höst, M., Ohlsson, M.C., Regnell, B., Wesslén, A., Springer 2012. [UVic link](http://tinyurl.com/yxhrzen5)
 
+#### Validity and Research Limitations:
+- [A total quality framework approach to sharing qualitative research data: Comment on Dubois et al.](https://psycnet.apa.org/record/2017-12051-001) Roller, M. R., & Lavrakas, P. J. (2018). Qualitative Psychology, 5(3), 394–401
+- [Validity and Qualitative Research: An Oxymoron?](https://link.springer.com/article/10.1007/s11135-006-9000-3#citeas) by Onwuegbuzie, A.J., Leech, N.L. Qual Quant 41, 233–249 (2007).
+- See also the Creswell&Creswell book referenced above.
+
 
 ## Guests
 [Prof. Rashina Hoda, Monash University, Melbourne, Australia](https://research.monash.edu/en/persons/rashina-hoda)
