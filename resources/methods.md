@@ -70,7 +70,7 @@ Elise Paradis and Gary Sutkin](https://pubmed.ncbi.nlm.nih.gov/27580703/) Med Ed
 
 #### Ethnography: 
 - [The Role of Ethnographic Studies in Empirical Software Engineering, by Helen Sharp et al.](http://oro.open.ac.uk/45166/), IEEE Transactions on Software Engineering, 42(8) pp. 786–804, 2016.
--[The Social Dynamics of Pair Programming](https://dl.acm.org/doi/abs/10.1109/ICSE.2007.87) by Jan Chong and Tom Hurlbutt, ICSE '07: Proceedings of the 29th international conference on Software EngineeringMay 2007 Pages 354–363.
+-[The Social Dynamics of Pair Programming](https://dl.acm.org/doi/abs/10.1109/ICSE.2007.87) by Jan Chong and Tom Hurlbutt, ICSE '07: Proceedings of the 29th international conference on Software EngineeringMay 2007 Pages 354–363. (Nice example of ethnography)
 
 #### Action research: 
 - [Action Research in Software Engineering](https://link.springer.com/chapter/10.1007/978-3-030-10801-4_4)
