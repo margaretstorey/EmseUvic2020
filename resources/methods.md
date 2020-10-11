@@ -46,6 +46,7 @@ Date: Sept 25th, 2020
 
 #### General resources: 
 - [Research Methods in Human-Computer Interaction, 2nd Edition](https://www.elsevier.com/books/research-methods-in-human-computer-interaction/lazar/978-0-12-805390-4) by Paul Lazar, Elsevier, 2017. [uvic link](http://tinyurl.com/y2jtrkd2)
+- [Research Methods for Human-Computer Interaction](https://www.cambridge.org/core/books/research-methods-for-humancomputer-interaction/43E95E979117C42DF822673D098474D2) Edited by Paul Cairns and Anna Cox, Cambridge University Press, 2008.
 - [Qualitative methods in empirical studies of software engineering](https://ieeexplore.ieee.org/document/799955) by C. B. Seaman, IEEE Transactions on Software Engineering, vol. 25, no. 4, pp. 557-572, July-Aug. 1999. 
 -  [Research design: Qualitative, quantitative, and mixed methods approaches](https://us.sagepub.com/en-us/nam/research-design/book255675), Creswell & Creswell. Sage publications, 5th edition.
 - [ACM SIGSOFT Empirical Standards](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/Empirical%20Standards.pdf) By Paul Ralph et al., 2020.
@@ -60,6 +61,7 @@ Date: Sept 25th, 2020
 - [Beyond a good story: from Hawthorne Effect to reactivity in health professions education research
 Elise Paradis and Gary Sutkin](https://pubmed.ncbi.nlm.nih.gov/27580703/) Med Educ. 2017 Jan;51(1):31-39. doi: 10.1111/medu.13122. Epub 2016 Aug 31.
 - [Qualitative data analysis: A methods sourcebook](https://us.sagepub.com/en-us/nam/qualitative-data-analysis/book246128) by Miles, Matthew B., A. Michael Huberman, and Johnny Saldana. 2014. 4th edition. [UVic link](http://tinyurl.com/y3a3e82x)
+- [Doing Better Statistics in Human-Computer Interaction](https://www.cambridge.org/core/books/doing-better-statistics-in-humancomputer-interaction/1D19B5419225C05D6E4FE189A345BDB8), by Paul Cairns, 2019.
 
 #### Case study research: 
 - [Guidelines for conducting and reporting case study research in software engineering](https://link.springer.com/article/10.1007%2Fs10664-008-9102-8) by Per Runeson and Martin Höst, Empirical Software Engineering 14, 131 (2009).
