@@ -86,7 +86,7 @@ The collaborative alignment phase completed during class time on Nov 6th is wort
 #### Project #1, for the bonus questions refer to these papers
 - [How software engineering research aligns with design science: a review](https://link.springer.com/article/10.1007/s10664-020-09818-7) by Emelie Engström, Margaret-Anne Storey, Per Runeson, Martin Höst & Maria Teresa Baldassarre, Empirical Software Engineering volume 25, pages 2630–2660, 2020.
 - [The Distinctions Between Theory, Theoretical Framework, and Conceptual Framework](https://www.researchgate.net/profile/Harasit_Paul4/post/what_is_the_difference_between_theoretical_framework_and_conceptual_framework/attachment/5ed558e7152fe900010c39cc/AS%3A897701948448768%401591040231038/download/varpio2019.pdf) by Lara Varpio, Elise Paradis, Sebastian Uijtdehaage, Meredith Young, Academic Medicine: Journal of the Association of American Medical Colleges, 2019.
-= [ACM SIGSOFT Empirical Standards](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/Empirical%20Standards.pdf) by Ralph et al., 2020.  (This is a useful resource for the bonus questions on rigor!)
+- [ACM SIGSOFT Empirical Standards](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/Empirical%20Standards.pdf) by Ralph et al., 2020.  (This is a useful resource for the bonus questions on rigor!)
 
 #### Project #1, Phase 2 alignment
 - [How Practitioners Perceive the Relevance of Software Engineering Research](http://thomas-zimmermann.com/publications/files/lo-esecfse-2015.pdf) by D. Lo, N. Nagappan, T. Zimmermann, ESEC/FSE 2015.
