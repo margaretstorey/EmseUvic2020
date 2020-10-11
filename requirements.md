@@ -45,7 +45,7 @@ but rather our goal is (as a class) to determine answers to the following questi
 - which empirical **research methods** (if any) are used in the papers and how do the methods used meet the quality criteria of **generalizability, control, precision and realism** (see readings by McGrath and the WWH framework)
 - which **software engineering topics** do these papers cover (according to the topics specified by [Swebok](https://cs.fit.edu/~kgallagher/Schtick/Serious/SWEBOKv3.pdf) and used in the Lenberg systematic mapping paper we discussed);
 - for the empirical papers, how do the authors convince the readers that their research and findings are **novel, rigorous, and relevant** to others (see Design science paper);
-- what is your personal opinion of the **importance** of this research (using similar criteria suggested by this David Lo paper).
+- what is your personal opinion of the **importance** of this research.
 
 You will each be assigned a set of papers from the [ICSE 2020 technical track](https://conf.researchr.org/track/icse-2020/icse-2020-papers?track=ICSE%20Technical%20Papers#event-overview). Your task is to read and think critically about each of these papers, and answer the above set of questions for each of them (there are also some bonus questions!).
 Graduate students will be assigned 11 papers; undergraduate students will be assigned 7 papers.
