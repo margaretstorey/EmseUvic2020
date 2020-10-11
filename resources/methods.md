@@ -50,6 +50,7 @@ Date: Sept 25th, 2020
 - [Qualitative methods in empirical studies of software engineering](https://ieeexplore.ieee.org/document/799955) by C. B. Seaman, IEEE Transactions on Software Engineering, vol. 25, no. 4, pp. 557-572, July-Aug. 1999. 
 -  [Research design: Qualitative, quantitative, and mixed methods approaches](https://us.sagepub.com/en-us/nam/research-design/book255675), Creswell & Creswell. Sage publications, 5th edition.
 - [ACM SIGSOFT Empirical Standards](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/Empirical%20Standards.pdf) By Paul Ralph et al., 2020.
+- [The ABC of Software Engineering Research](https://www.researchgate.net/publication/326540762_The_ABC_of_Software_Engineering_Research) by Stol and Fitzgerald, TOSEM 2018. (note this paper also builds on McGrath's framework but interprets it differently to our WWH framework as we maintain the focus on direct involvement of humans to study human behaviours)
 
 
 #### Data science and mining repositories:
