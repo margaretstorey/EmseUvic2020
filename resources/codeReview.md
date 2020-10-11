@@ -19,7 +19,7 @@ Review](https://www.microsoft.com/en-us/research/publication/expectations-outcom
 - [A Code Review Checklist](https://www.michaelagreiler.com/code-review-checklist-2/) by Michaela Greiler.
 
 ## Related Materials
-- [Refactoring Book](https://refactoring.com/) (thanks Jory!)
+- [Refactoring Book](https://refactoring.com/)
 - [Code Reviewing in the Trenches: Understanding
 Challenges and Best Practices](http://cabird.com/pubs/macleod2017codereviewing.pdf) by Laura MacLeod, M. Greiler, M. Storey, C. Bird and J. Czerwonka, IEEE Softwre 2017.
 
