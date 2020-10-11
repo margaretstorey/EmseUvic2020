@@ -11,8 +11,7 @@ Date: October 23rd, 2020
 - Ali Mesbah, UBC
 
 ## Pre Workshop Reading/Watching Materials
-- [Assertions Are Strongly Correlated with
-Test Suite Effectiveness](http://ece.ubc.ca/~amesbah/resources/papers/fse15.pdf) by Yucheng Zhang and Ali Mesbah, ESEC/FSE 2015.
+- [Assertions Are Strongly Correlated with Test Suite Effectiveness](http://ece.ubc.ca/~amesbah/resources/papers/fse15.pdf) by Yucheng Zhang and Ali Mesbah, ESEC/FSE 2015.
 - [The Secret Life of Bugs: Going Past the Errors and Omissions in Software 
 Repositories](https://www.microsoft.com/en-us/research/publication/the-secret-life-of-bugs-going-past-the-errors-and-omissions-in-software-repositories/)
 - [Expectations, Outcomes, and Challenges of Modern Code 
