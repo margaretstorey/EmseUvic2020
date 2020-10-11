@@ -32,8 +32,7 @@ Challenges and Best Practices](http://cabird.com/pubs/macleod2017codereviewing.p
 
 | Time | Speaker | Topic | 
 | ------- | ------------------- | --------------------------------- | 
-| 1:30-2:00 | Ali Mesbah | Assertions Are Strongly Correlated with
-Test Suite Effectiveness |
+| 1:30-2:00 | Ali Mesbah | Assertions Are Strongly Correlated with Test Suite Effectiveness |
 | 2:00-2:30 | Jorge Aranda | The Secret Life of Bugs | 
 | 2:30-2:45 | Break | |
 | 2:45-3:15 | Chris Bird | | "Modern" Code Review today |
