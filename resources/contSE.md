@@ -47,7 +47,7 @@ Write a blogpost on the above materials in advance of the lecture
 See Slack for information on the blogpost tool.
 
 Your blogpost should synthesize information from all of the assigned pre workshop materials and it
-should include at least one discussion question per assigned reading/video/podcast. 
+should include at most one discussion question per assigned reading/video/podcast. 
 You may (and are encouraged to) update your blogpost after the workshop (but in a separate section of the post). 
-The final version of your blogpost is due by the following Monday at 5pm.
+The final version of your blogpost is due by the following Monday at 6pm.
 
