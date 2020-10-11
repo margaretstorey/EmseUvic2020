@@ -13,14 +13,15 @@ Date: October 23rd, 2020
 ## Pre Workshop Reading/Watching Materials
 - [Assertions Are Strongly Correlated with Test Suite Effectiveness](http://ece.ubc.ca/~amesbah/resources/papers/fse15.pdf) by Yucheng Zhang and Ali Mesbah, ESEC/FSE 2015.
 - [The Secret Life of Bugs: Going Past the Errors and Omissions in Software 
-Repositories](https://www.microsoft.com/en-us/research/publication/the-secret-life-of-bugs-going-past-the-errors-and-omissions-in-software-repositories/)
+Repositories](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/secret.pdf), [PPT file](https://www.microsoft.com/en-us/research/publication/the-secret-life-of-bugs-going-past-the-errors-and-omissions-in-software-repositories/)
 - [Expectations, Outcomes, and Challenges of Modern Code 
 Review](https://www.microsoft.com/en-us/research/publication/expectations-outcomes-and-challenges-of-modern-code-review/) Christian Bird Alberto Bacchelby Christian Bird Alberto Bacchelli, ICSE 2013.
 - [A Code Review Checklist](https://www.michaelagreiler.com/code-review-checklist-2/) by Michaela Greiler.
 
 ## Related Materials
-- [Refactoring Book](https://refactoring.com/ (thanks Jory!)
-- 
+- [Refactoring Book](https://refactoring.com/) (thanks Jory!)
+- [Code Reviewing in the Trenches: Understanding
+Challenges and Best Practices](http://cabird.com/pubs/macleod2017codereviewing.pdf) by Laura MacLeod, M. Greiler, M. Storey, C. Bird and J. Czerwonka, IEEE Softwre 2017.
 
 ## Lecture Objectives
 - Learn about code assessment techniques that are used in industry to improve code quality
