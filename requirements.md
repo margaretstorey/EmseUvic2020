@@ -18,7 +18,7 @@
 
 #### Course participation:
 
-There will be ample group activities throughout the term and opportunities to contribute to the course material and class discussions.
+There will be ample group activities throughout the term and opportunities to contribute to the course material and class discussions.  It can be hard to focus during a long class, consider using [sketchnotes](https://medium.com/workday-design/sketchnotes-for-conferences-how-to-stay-awake-and-engaged-5651333d31d6) (as [one of our students is doing!](https://twitter.com/margaretstorey/status/1315043979805638657)) or follow these tips on [notetaking from UVic](https://onlineacademiccommunity.uvic.ca/lap/note-taking/).
 
 # [Blogposts](#workshops)
 
