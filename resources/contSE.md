@@ -37,7 +37,7 @@ Date: October 16th, 2020
 | 2:30-3:00 | Chandra Maddila | Can we make better software by using ML and AI techniques? |
 | 3:00-3:30 | | Break! |
 | 3:30-4:00 | Eben Haber | Before there was DevOps:  What we Learned from Studying System Adminstrators |
-| Thursday Oct 13 at noon | Nicole Forsgren | The Key to High Performance: What the Data Says |
+| Thursday Oct 15 at noon | Nicole Forsgren | The Key to High Performance: What the Data Says |
 
 
 ## Homework
