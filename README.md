@@ -48,6 +48,7 @@ See the resources for each lecture in the schedule above for an extensive list o
 - [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/) by Titus Winters, Tom Manshreck, Hyrum Wright, Released March 2020, Publisher(s): O'Reilly Media, Inc.
 - [Research Methods in Human-Computer Interaction, 2nd Edition](https://www.elsevier.com/books/research-methods-in-human-computer-interaction/lazar/978-0-12-805390-4) by Paul Lazar, Elsevier, 2017. [UVic link](http://tinyurl.com/y2jtrkd2)
 - [Perspectives on Data Science for Software Engineering](https://www.elsevier.com/books/perspectives-on-data-science-for-software-engineering/menzies/978-0-12-804206-9?countrycode=US&format=print&utm_source=google_ads&utm_medium=paid_search&utm_campaign=canadashopping&gclid=CjwKCAjwkoz7BRBPEiwAeKw3q6IdWnBmgg4ZFIMpU6XMzITW4PFErv6VHHEqJ29NflbtSsG6WIFv5xoCrEIQAvD_BwE&gclsrc=aw.ds), 1st Edition, Editors: Tim Menzies Laurie Williams Thomas Zimmerman, Morgan Kaufmann, 2016. [UVic link](http://tinyurl.com/y5fgal9s)
+- [Guidelines for using empirical studies in software engineering education.](https://doi.org/10.7717/peerj-cs.131) by Fagerholm F, Kuhrmann M, Münch J. 2017.  PeerJ Computer Science 3:e131
 
 
 **Teaching Staff:**
