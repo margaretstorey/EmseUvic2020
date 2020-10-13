@@ -34,7 +34,7 @@ Challenges and Best Practices](http://cabird.com/pubs/macleod2017codereviewing.p
 | ------- | ------------------- | --------------------------------- | 
 | 1:30-2:00 | Jorge Aranda | The Secret Life of Bugs |Ali Mesbah | Assertions Are Strongly Correlated with Test Suite Effectiveness |
 | 2:00-2:30 | Ali Mesbah | Assertions Are Strongly Correlated with Test Suite Effectiveness |
-| 2:30-2:45 | Break | |
+| 2:30-2:45 | | Break |
 | 2:45-3:15 | Chris Bird | "Modern" Code Review: From Research to Practice |
 | 3:15-3:45 | Brian Houck| Code Review and Assessment: A Perspective from the Trenches |
 | 3:45-4:20 || Code Review Activity (provided by Michaela Greiler) |
