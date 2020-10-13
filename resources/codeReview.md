@@ -28,7 +28,7 @@ Challenges and Best Practices](http://cabird.com/pubs/macleod2017codereviewing.p
 - Learn about empirical studies that have increased our understanding of code review and assessment techniques and tools that are applicable to industry
 - Discuss how empirical studies may be limited and what we can do about it
 
-## Workshop Agenda (tentative!!!)
+## Workshop Agenda 
 
 | Time | Speaker | Topic | 
 | ------- | ------------------- | --------------------------------- | 
@@ -37,7 +37,7 @@ Challenges and Best Practices](http://cabird.com/pubs/macleod2017codereviewing.p
 | 2:30-2:45 | Break | |
 | 2:45-3:15 | Chris Bird | "Modern" Code Review: From Research to Practice |
 | 3:15-3:45 | Brian Houck| Code Review and Assessment: A Perspective from the Trenches |
-| 3:45-4:15 | Michaela Greiler| Code Review Activity |
+| 3:45-4:15 || Code Review Activity (provided by Michaela Greiler) |
 
 
 ## Homework
