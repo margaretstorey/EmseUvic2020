@@ -35,9 +35,9 @@ Date: October 16th, 2020
 | 1:30-2:00 | | Introduction to Continuous Software Engineering; Prepare for guests |
 | 2:00-2:30 | Laurie Williams | Continuously Deploying Security|
 | 2:30-3:00 | Chandra Maddila | Can we make better software by using ML and AI techniques? |
-| 3:00-3:15 | | Break! |
-| 3:15-3:45 | Eben Haber | Before there was DevOps:  What we Learned from Studying System Adminstrators |
-| 3:45-4:15 | Nicole Forsgren | The Key to High Performance: What the Data Says |
+| 3:00-3:30 | | Break! |
+| 3:30-4:00 | Eben Haber | Before there was DevOps:  What we Learned from Studying System Adminstrators |
+| Thursday Oct 13 at noon | Nicole Forsgren | The Key to High Performance: What the Data Says |
 
 
 ## Homework
