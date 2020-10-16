@@ -63,6 +63,7 @@ Date: Sept 25th, 2020
 Elise Paradis and Gary Sutkin](https://pubmed.ncbi.nlm.nih.gov/27580703/) Med Educ. 2017 Jan;51(1):31-39. doi: 10.1111/medu.13122. Epub 2016 Aug 31.
 - [Qualitative data analysis: A methods sourcebook](https://us.sagepub.com/en-us/nam/qualitative-data-analysis/book246128) by Miles, Matthew B., A. Michael Huberman, and Johnny Saldana. 2014. 4th edition. [UVic link](http://tinyurl.com/y3a3e82x)
 - [Doing Better Statistics in Human-Computer Interaction](https://www.cambridge.org/core/books/doing-better-statistics-in-humancomputer-interaction/1D19B5419225C05D6E4FE189A345BDB8), by Paul Cairns, 2019.
+- (Grounded Theory - Open Coding](https://www.youtube.com/watch?v=gn7Pr8M_Gu8)by Graham R Gibbs 2010, posted on YouTube.
 
 #### Case study research: 
 - [Guidelines for conducting and reporting case study research in software engineering](https://link.springer.com/article/10.1007%2Fs10664-008-9102-8) by Per Runeson and Martin Höst, Empirical Software Engineering 14, 131 (2009).
