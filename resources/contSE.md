@@ -28,7 +28,7 @@ Date: October 16th, 2020
 - Learn how AI may play a role
 - Learnh how to improve security in Devops
 
-## Workshop Agenda (tentative)
+## Workshop Agenda
 
 | Time | Speaker | Topic | 
 | ------- | ------------------- | --------------------------------- | 
