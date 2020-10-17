@@ -17,9 +17,9 @@ Date: Sept 18, 2020
 - Be able to think more critically about research findings and results
 
 ## Materials 
-- [Slides: Part 1, Adminsitrivia and Agenda](Week2AdministriviaAgenda.pdf)
-- [Slides: Part 2, Beliefs and Evidence](Week2BeliefsEvidence.pdf)
-- [Slides: Part 3, Design Science](Week2DesignScience.pdf)
+- [Slides: Part 1, Adminsitrivia and Agenda](../slides/Week2AdministriviaAgenda.pdf)
+- [Slides: Part 2, Beliefs and Evidence](../slides/Week2BeliefsEvidence.pdf)
+- [Slides: Part 3, Design Science](../slides/Week2DesignScience.pdf)
 
 **Assigned Readings/Podcasts:**. 
 - [Empirical Software Engineering](https://www.americanscientist.org/article/empirical-software-engineering) 
@@ -38,5 +38,5 @@ by Greg Wilson, Jorge Aranda, American Scientist, Nov-Dec 2011.
 
 ## Activities
 - Group activity: Replicating the [Beliefs and Evidence in Software Engineering](https://www.microsoft.com/en-us/research/publication/belief-evidence-in-empirical-software-engineering/) Study by Devanbu et al., ICSE 2016.
-- [Survey results from the study replication](Week2ActivityBeliefs.pdf)
+- [Survey results from the study replication](../activities/Week2ActivityBeliefs.pdf)
 - [Results from the activity: visualization](https://colab.research.google.com/drive/1crG2LZ6hpUaJvIrVP4WK60ouZ0q0-DLS?usp=sharing#scrollTo=ACG1a4p_jpfi)
