@@ -12,8 +12,6 @@ Date: Sept 11, 2020
 
 ## Materials
 - [Slides](../slides/Week1CourseIntro.pdf)
-- [Mentimeter Results](../activities/Week1-Menti-Results.pdf)
-- [A History of Software Engineering by Grady Booch](https://www.youtube.com/watch?v=OdI7Ukf-Bf4) (watch during class time)
 
 **Optional readings/podcasts:**
 
@@ -22,4 +20,6 @@ Date: Sept 11, 2020
 
 ## Activities
 - Introductions (display a meaningful [customized Zoom background](https://support.zoom.us/hc/en-us/articles/204674889-Zoom-Rooms-Customized-Background) -- e.g., where you are from, favourite food, animal, sport, movie, song)
-- Group activity on history of software engineering (be ready to mindmap!)
+- Group activity on history of software engineering (be ready to mindmap!), Watch: [A History of Software Engineering by Grady Booch](https://www.youtube.com/watch?v=OdI7Ukf-Bf4)
+- [Class Quiz, Mentimeter Results](../activities/Week1-Menti-Results.pdf)
+
