@@ -26,8 +26,8 @@ Date: Sept 25th, 2020
 - Learn how to critique research designs and understand limitations of research studies
 
 ## Materials
-- [Slides Lecture Administrivia and Introduction](emse-uvic2020week3part1.pdf)
-- [Slides on Research Strategies and Selecting Research Methods](emse-uvic2020week3part2.pdf)
+- [Slides Lecture Administrivia and Introduction](../slides/Week3IntroEMSE.pdf)
+- [Slides on Research Strategies and Selecting Research Methods](../slides/Week3Methods.pdf)
 
 ## Lecture Format
 - Lecture
@@ -92,4 +92,4 @@ Elise Paradis and Gary Sutkin](https://pubmed.ncbi.nlm.nih.gov/27580703/) Med Ed
 [Prof. Rashina Hoda, Monash University, Melbourne, Australia](https://research.monash.edu/en/persons/rashina-hoda)
 
 ## Activities
-- Group Activity (Matching research methods to research questions)
+- Group Activity (Matching research methods to research questions, see slides for this week)
