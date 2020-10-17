@@ -7,6 +7,7 @@ Date: October 23rd, 2020
 - Learn about code assessment techniques that are used in industry to improve code quality
 - Learn about empirical studies that have increased our understanding of code review and assessment techniques and tools that are applicable to industry
 - Discuss how empirical studies may be limited and what we can do about it
+- Learn how to do code reviews, how they can improve code quality and how to discuss/promote code reviews on the job or in job interviews
 
 ## Guests
 - Jorge Aranda, Workday
