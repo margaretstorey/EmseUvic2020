@@ -3,6 +3,11 @@
 Date: October 23rd, 2020
 (See [Connex]( https://connex.csc.uvic.ca/portal/site/emse2020) for link to Zoom, you need to use your UVic ID to access Connex)
 
+## Lecture Objectives
+- Learn about code assessment techniques that are used in industry to improve code quality
+- Learn about empirical studies that have increased our understanding of code review and assessment techniques and tools that are applicable to industry
+- Discuss how empirical studies may be limited and what we can do about it
+
 ## Guests
 - Jorge Aranda, Workday
 - Chris Bird, Microsoft Research
@@ -17,22 +22,16 @@ Repositories](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/0
 - [Expectations, Outcomes, and Challenges of Modern Code 
 Review](https://www.microsoft.com/en-us/research/publication/expectations-outcomes-and-challenges-of-modern-code-review/) by Christian Bird Alberto Bacchelli, ICSE 2013.
 
-
 ## Related Materials
 - [Refactoring Book](https://refactoring.com/)
 - [Code Reviewing in the Trenches: Understanding
 Challenges and Best Practices](http://cabird.com/pubs/macleod2017codereviewing.pdf) by Laura MacLeod, M. Greiler, M. Storey, C. Bird and J. Czerwonka, IEEE Softwre 2017.
 
-## Lecture Objectives
-- Learn about code assessment techniques that are used in industry to improve code quality
-- Learn about empirical studies that have increased our understanding of code review and assessment techniques and tools that are applicable to industry
-- Discuss how empirical studies may be limited and what we can do about it
-
 ## Workshop Agenda 
 
 | Time | Speaker | Topic | 
 | ------- | ------------------- | --------------------------------- | 
-| 1:30-2:00 | Jorge Aranda | The Secret Life of Bugs |Ali Mesbah | Assertions Are Strongly Correlated with Test Suite Effectiveness |
+| 1:30-2:00 | Jorge Aranda | The Secret Life of Bugs |
 | 2:00-2:30 | Ali Mesbah | Assertions Are Strongly Correlated with Test Suite Effectiveness |
 | 2:30-2:45 | | Break |
 | 2:45-3:15 | Chris Bird | "Modern" Code Review: From Research to Practice |
