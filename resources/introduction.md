@@ -16,7 +16,7 @@ Date: Sept 11, 2020
 **Optional readings/podcasts:**
 
 - Chapter 1 of [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/) By Titus Winters, Tom Manshreck and Hyrum Wright, O'Reilly Media [UVic link](http://tinyurl.com/yyybgzr6)
-- [Exploding Software Engineering Myths](https://www.microsoft.com/en-us/research/blog/exploding-software-engineering-myths/)
+- [Exploding Software Engineering Myths](https://www.microsoft.com/en-us/research/blog/exploding-software-engineering-myths/) By Janie Chang, Writer, Microsoft Research
 
 ## Activities
 - Introductions (display a meaningful [customized Zoom background](https://support.zoom.us/hc/en-us/articles/204674889-Zoom-Rooms-Customized-Background) -- e.g., where you are from, favourite food, animal, sport, movie, song)
