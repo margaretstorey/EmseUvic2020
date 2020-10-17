@@ -9,8 +9,8 @@ Date: Oct 2nd, 2020
 - Understand the difference between subjective inductive research and objective deductive research 
 
 ## Materials
-- [Slides: Theories in Software Engineering](Week4Theories.pdf) by Margaret-Anne Storey
-- [Slides: Theories, Theoretical Frameworks and Conceptual Frameworks](Week4TheoriesFrameworks.pdf) by Elise Paradis
+- [Slides: Theories in Software Engineering](../slides/Week4Theories.pdf) by Margaret-Anne Storey
+- [Slides: Theories, Theoretical Frameworks and Conceptual Frameworks](../slides/Week4TheoriesFrameworks.pdf) by Elise Paradis
 - [Talk and Q&A Video](https://youtu.be/_8aPAGD6tdA):  Elise Paradis presenting on Theories, Theoretical Frameworks and Conceptual Frameworks and Q&A
 
 ## Required Readings:

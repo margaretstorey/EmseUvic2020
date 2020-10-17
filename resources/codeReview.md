@@ -39,24 +39,27 @@ Challenges and Best Practices](http://cabird.com/pubs/macleod2017codereviewing.p
 | 3:15-3:45 | Brian Houck| Code Review and Assessment: A Perspective from the Trenches |
 | 3:45-4:20 || Code Review Activity (provided by Michaela Greiler) |
 
-## Activity
+## Class Activity
 
 For this class activity, Michaela Greiler has generously shared with us an exercise she uses in industry to train developers how to conduct effective code reviews (see https://www.michaelagreiler.com/).  
 For this activity: 
 - Individually, spend 10 mins reviewing the (to be) supplied source code. 
 - In small breakout groups, refer to Dr. Greiler's checklist (this will be provided after the code review phase).  
-- Which parts of the checklist did you use?  Which parts did you not think about?  
-- How would the checklist help in a future code review? 
-- What kinds of training would you need to follow all of the guidelines? 
+- Which points covered in the checklist did you use?  Which parts did you not think about?  
+- How would the checklist help in a future code review you might do on the job? 
+- What kinds of training would you need to follow all of the guidelines in this checklist? Do you feel prepared to do a code review?
+- If you were asked about code review in a job interview now that you've seen this checklist, would it change how you answer?
 
-## Homework
+## Preclass Homework
 
 Write a blogpost on the above assigned materials in advance of the lecture 
 (to be completed by 6pm the day before the workshop --> Thursday).
-See Slack for information on the blogpost tool.
+
 
 Your blogpost should synthesize information from all of the assigned pre workshop materials and it
 should include at most one discussion question per assigned reading/video/podcast. 
+Copy these questions to the relevant Slack channel and like other questions you think should be asked of our guests (we can't ask all of them!). 
+The course staff will curate/group them on Thursday evening. 
 You may (and are encouraged to) update your blogpost after the workshop (but in a separate section of the post). 
-The final version of your blogpost is due by the following Monday at 6pm.
+The final version of your blogpost (if you improve it) is due by the following Monday at 6pm.
 

@@ -26,8 +26,8 @@ Date: Sept 25th, 2020
 - Learn how to critique research designs and understand limitations of research studies
 
 ## Materials
-- [Slides Lecture Administrivia and Introduction](../slides/Week3IntroEMSE.pdf)
-- [Slides on Research Strategies and Selecting Research Methods](../slides/Week3Methods.pdf)
+- [Slides Lecture Administrivia and Introduction](../slides/Week3IntroEMSE.pdf) by Margaret-Anne Storey
+- [Slides on Research Strategies and Selecting Research Methods](../slides/Week3Methods.pdf) by Margaret-Anne Storey
 
 ## Lecture Format
 - Lecture
