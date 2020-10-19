@@ -20,7 +20,7 @@ See [course requirements](requirements.md) and the [course outline](https://heat
 (*Tentative schedule, slides and other materials will be posted throughout the term and linked in the table below*)
 
 
-| | Date | Meeting agenda | Guests | Deliverable |
+| | Date | Meeting Topic and Materials | Guests | Deliverable |
 | ---:| ---------- | ------------------- | --------------------------------- |  ----------- |
 | 1 | 11/09/2020 | [Course Introduction and <br> History of Software Engineering](resources/introduction.md)| | Introductions/Activity |
 | 2 | 18/09/2020 | [Introduction to Empirical Software Engineering, Beliefs and Evidence, and Design Science](resources/emse-intro.md) | <ul><li>**Greg Wilson**, RStudio. [[Video on YouTube]](https://www.youtube.com/watch?v=Orghyn91ZMo&feature=youtu.be)  [[Interview as a Podcast]](https://anchor.fm/margaret-anne-d-storey/episodes/A-QA-with-Greg-Wilson-on-Empirical-Software-Engineering-eklhkc)</li></ul> | Group Activity |
