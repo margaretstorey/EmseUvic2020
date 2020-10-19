@@ -52,7 +52,6 @@ Date: Sept 25th, 2020
 - [ACM SIGSOFT Empirical Standards](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/Empirical%20Standards.pdf) By Paul Ralph et al., 2020.
 - [The ABC of Software Engineering Research](https://www.researchgate.net/publication/326540762_The_ABC_of_Software_Engineering_Research) by Stol and Fitzgerald, TOSEM 2018. 
 
-
 #### Data science and mining repositories:
 - [Perspectives on Data Science for Software Engineering](https://www.elsevier.com/books/perspectives-on-data-science-for-software-engineering/menzies/978-0-12-804206-9?countrycode=US&format=print&utm_source=google_ads&utm_medium=paid_search&utm_campaign=canadashopping&gclid=CjwKCAjwkoz7BRBPEiwAeKw3q6IdWnBmgg4ZFIMpU6XMzITW4PFErv6VHHEqJ29NflbtSsG6WIFv5xoCrEIQAvD_BwE&gclsrc=aw.ds), 1st Edition, Editors: Tim Menzies Laurie Williams Thomas Zimmerman, Morgan Kaufmann, 2016. [UVic link](http://tinyurl.com/y5fgal9s)
 
@@ -78,6 +77,9 @@ Elise Paradis and Gary Sutkin](https://pubmed.ncbi.nlm.nih.gov/27580703/) Med Ed
 
 #### Action research: 
 - [Action Research in Software Engineering](https://link.springer.com/chapter/10.1007/978-3-030-10801-4_4)
+
+#### Design Science: 
+- [10 min introduction](https://t.co/XopxZWE3Xo?amp=1) by Runeson, Engstrom, Storey
 
 #### Experiments: 
 - [Experimentation in Software Engineering](https://www.springer.com/gp/book/9783642290435) by Wohlin, C., Runeson, P., Höst, M., Ohlsson, M.C., Regnell, B., Wesslén, A., Springer 2012. [UVic link](http://tinyurl.com/yxhrzen5)
