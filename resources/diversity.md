@@ -26,7 +26,7 @@ Date: Oct 30th, 2020
 | 1:30-2:00 |  Alexander Serebrenik |  TBA | 
 | 2:00-2:30 |  Emerson Murphy-Hill | TBA |
 | 2:30-2:45 |  | Break |
-| 2:45-3:15 | Andy Begel | TBA |
+| 2:45-3:15 | Andrew Begel | TBA |
 | 3:15-4:20 | Anita Sarma| GenderMap Activity |
 
 ## Class Activity
