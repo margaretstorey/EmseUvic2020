@@ -28,6 +28,7 @@ Date: Sept 25th, 2020
 ## Materials
 - [Slides Lecture Administrivia and Introduction](../slides/Week3IntroEMSE.pdf) by Margaret-Anne Storey
 - [Slides on Research Strategies and Selecting Research Methods](../slides/Week3Methods.pdf) by Margaret-Anne Storey
+- [Slides on Grounded Theory](../slides/Week3GroundedTheoryHoda.pdf) presented by Prof. Hashina Hoda
 
 ## Lecture Format
 - Lecture
