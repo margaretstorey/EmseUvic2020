@@ -1,4 +1,4 @@
-# Week 6: A Workshop on Code Review and Assessment 
+# Week 7: A Workshop on Code Review and Assessment 
 
 Date: October 23rd, 2020
 (See [Connex]( https://connex.csc.uvic.ca/portal/site/emse2020) for link to Zoom, you need to use your UVic ID to access Connex)
