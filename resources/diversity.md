@@ -16,7 +16,7 @@ Date: Oct 30th, 2020
 - Anita Sarma, Oregon State University
 
 ### Pre Workshop Assigned Materials 
-- [Gender in Open-Source Software Development](https://cbsoft2020.imd.ufrn.br/palestrante.php?id=alexander) by Alexander Serebrenik, CBSoft 2020, Brazil (now online, video link will be posted shortly). (Video)
+- [Gender in Open-Source Software Development](https://cbsoft2020.imd.ufrn.br/palestrante.php?id=alexander) by Alexander Serebrenik, CBSoft 2020, Brazil [Video link](https://www.youtube.com/watch?v=uK3PqV3qsmI&feature=emb_logo)
 - [Gender differences and bias in open source: pull request acceptance of women versus men](https://peerj.com/articles/cs-111/) by Josh Terrell, Andrew Kofink, Justin Middleton, Clarissa Rainear, Emerson Murphy-Hill, Chris Parnin, Jon Stallings,  May 2017, PeerJ. (Paper)
 - [Neurodiversity in Software Engineering]() by Andrew Begel (Paper)
 - [Gender Inclusivity Software Engineering](https://www.youtube.com/watch?v=tgSn-Ao0VTk) by Margaret Burnett and Anita Sarma (Video)
