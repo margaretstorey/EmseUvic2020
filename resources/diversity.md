@@ -24,6 +24,7 @@ Date: Oct 30th, 2020
 ## Related Materials
 - [Engineering Gender-Inclusivity into Software: Ten Teams’ Tales from the Trenches](http://web.engr.oregonstate.edu/~sarmaa/wp-content/uploads/2020/08/icse20-genderMag-practices.pdf) by C. Hilderbrand, C. Perdriau, L. Letaw, J. Emard, Z. Steine-Hanson, M. Burnett, and A. Sarma, , ACM/IEEE 42nd International Conference on Software Engineering (ICSE), May 2020. (Paper)
 - [Is 40 the new 60?](https://www.youtube.com/watch?v=a7tt18Gh8M0&feature=emb_logo) by Alexander Serebrenik (Video). 
+- [Golden Rules of Building Communities](https://www.youtube.com/watch?v=yP028rbR_t4) by Denae Ford Robinson, OCTO Speaker Series, 2020.
 
 ## Workshop Agenda 
 
