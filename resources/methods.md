@@ -80,10 +80,21 @@ Elise Paradis and Gary Sutkin](https://pubmed.ncbi.nlm.nih.gov/27580703/) Med Ed
 - [Action Research in Software Engineering](https://link.springer.com/chapter/10.1007/978-3-030-10801-4_4)
 
 #### Design Science: 
+- [Using a Visual Abstract as a Lens for Communicating and Promoting
+Design Science Research in Software Engineering](http://chisel.cs.uvic.ca/pubs/storey-ESEM2017.pdf) by Storey, Engstrom, Host, Runeson and Bjarnason, ESEM, 2017.
+- [How software engineering research aligns with design science: a review](https://link.springer.com/article/10.1007%2Fs10664-020-09818-7) by Emelie Engström, Margaret-Anne Storey, Per Runeson, Martin Höst & Maria Teresa Baldassarre, Empirical Software Engineering, volume 25, pages 2630–2660, 2020.
+- Cont book chapter (see above).
+- Van Aken (to add)
+- [Design Science Research as Movement Between Individual and Generic Situation-Problem–Solution Spaces](https://link.springer.com/chapter/10.1007%2F978-3-642-33371-2_3?LI=true), by Ilia Bider, Paul Johannesson and Erik Perjons, Designing Organizational Systems. Lecture Notes in Information Systems and Organisation, vol 1. Springer, Berlin, Heidelberg. 2012.
 - [10 min introduction](https://t.co/XopxZWE3Xo?amp=1) by Runeson, Engstrom, Storey
+
 
 #### Experiments: 
 - [Experimentation in Software Engineering](https://www.springer.com/gp/book/9783642290435) by Wohlin, C., Runeson, P., Höst, M., Ohlsson, M.C., Regnell, B., Wesslén, A., Springer 2012. [UVic link](http://tinyurl.com/yxhrzen5)
+
+#### Mixed methods: 
+- [Combining Quantitative and Qualitative Studies in Empirical Software Engineering Research](https://ieeexplore.ieee.org/document/7965402) by Massimiliano Di Penta and Damian Andrew Tamburri, ICSE Companion, 2017.
+- Creswell book, referenced above.
 
 #### Validity and Research Limitations:
 - [A total quality framework approach to sharing qualitative research data: Comment on Dubois et al.](https://psycnet.apa.org/record/2017-12051-001) Roller, M. R., & Lavrakas, P. J. (2018). Qualitative Psychology, 5(3), 394–401
