@@ -43,12 +43,12 @@ Challenges and Best Practices](http://cabird.com/pubs/macleod2017codereviewing.p
 
 For this class activity, Michaela Greiler has generously shared with us an exercise she uses in industry to train developers how to conduct effective code reviews (see https://www.michaelagreiler.com/).  
 For this activity: 
-- Individually, spend 10 mins reviewing the (to be) supplied source code. 
-- In small breakout groups, refer to Dr. Greiler's checklist (this will be provided after the code review phase).  
-- Which points covered in the checklist did you use?  Which parts did you not think about?  
+- Individually, spend approx. 10 mins reviewing the (to be) supplied source code.  Refer to [Dr. Greiler's checklist](../activities/CodeReviewChecklistMGreiler.pdf) as you complete this review. 
+- Would you accept and merge this code as a contribution as is, yes or no? Write up a review that you would give to the submitter of this code with your feedback. 
+- In small breakout groups, discuss and compare your individual reviews.  Discuss which points you covered in the checklist.  Which parts were not relevant? 
 - How would the checklist help in a future code review you might do on the job? 
 - What kinds of training would you need to follow all of the guidelines in this checklist? Do you feel prepared to do a code review?
-- If you were asked about code review in a job interview now that you've seen this checklist, would it change how you answer?
+- If you were asked about code review in a job interview now that you've seen this checklist, would it change how you answer a question about code review?
 
 ## Preclass Homework
 
