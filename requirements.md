@@ -33,6 +33,42 @@ Please make any changes by the following Monday at 6pm and make sure we can easi
 
 We will be using [Wordpress](https://emseuvic2020.wordpress.com) as a platform for your blogposts. Categories representing the different weeks have already been created. When you author a post related to a particular week in the course, please assign it the appropriate category as well.
 
+### Blog Post Quality Criteria
+
+Main aspects considered:
+- Title is appropriate, added appropriate category
+- Introduction (some opening remark)
+- Background (based on assigned papers for the week, some mention of each)
+- Materials referenced are added as references (at bottom or throughout as links)
+- Questions (per assigned reading, that are not already answered by the assigned readings!) 
+- Conclusion/Takeaway/Some closing remark 
+- Appropriate use of typography, well-formatted (uses headers/sections, ...etc.)
+- Easy to follow post (cohesive, clear in communicating its ideas)
+- On time, questions (at most one per guest) copied to Slack on time
+
+*If the above aspects are covered, this would be deserving of a B+ grade.*
+
+Lower grades will be assigned if not all aspects are covered.
+Marks will be deducted for late posts. 
+
+Extra marks would be given for:
+- It has a good "Hook" that entices your reader to read your post (with a good title)
+- Post is interesting to read and the reader will want to continue reading
+- References to other related materials (if relevant)
+- References to previous materials discussed in the course (if relevant)
+- Visual aids/graphic design (if relevant to the post!)
+- Insightfulness:
+   - Did the post communicate something we did not know or learn already in the course?  
+   - The post has a clear thesis statement that is insightful
+   - Did the writer incorporate their own experiences into the post to make/emphasize their point?
+   - Do I, having read the post, have more questions than I did before reading it? (is it thought provoking?)
+- Are the questions for the guests based on the readings insightful, thought-provoking, and could possibly lead to future research or more discussion?
+
+Some tips: 
+- If you want to improve your writing skills, do consult the writing department at UVic.  They give excellent advice and will give you feedback on your writing.  For this course that is maybe not urgent, but it will help you in the future! 
+- Also there are blogposts out there about how to write a blogpost! You may get some ideas from reading those and reading other student posts.
+- Do consider reposting your posts in your own public blog!  It is a great way to get feedback and build a portfolio of your ability to write, share information and synthesize knowledge. If you are interesting, it would be greak to link to any public posts you add from this page!
+
 
 # [Project #1](#project1)
 
