@@ -40,9 +40,9 @@ For this project we will conduct a review of papers published at the flagship co
 
 This isn't a traditional review of the papers that authors would receive for their papers when submitted to a conference,
 but rather our goal is (as a class) to determine answers to the following questions about these papers:
-- who are the **beneficiaries** of the reported research (see the WWH framework);
+- who are the claimed **beneficiaries** of the reported research, that is by the authors (see the WWH framework);
 - what kinds of **knowledge** are captured in these papers in terms of descriptive or prescriptive knowledge (see our reading on Design Science);
-- which empirical **research methods** (if any) are used in the papers and how do the methods used meet the quality criteria of **generalizability, control, precision and realism** (see readings by McGrath and the WWH framework)
+- which empirical **research methods** (if any) are used in the papers and how do the methods used meet the quality criteria of **generalizability, control, precision and realism** (see readings by McGrath and the WWH framework), or is the research non empirical (see https://en.wikipedia.org/wiki/Empirical_evidence)
 - which **software engineering topics** do these papers cover (according to the topics specified by [Swebok](https://cs.fit.edu/~kgallagher/Schtick/Serious/SWEBOKv3.pdf) and used in the Lenberg systematic mapping paper we discussed);
 - for the empirical papers, how do the authors convince the readers that their research and findings are **novel, rigorous, and relevant** to others (see Design science paper);
 - what is your personal opinion of the **importance** of this research.
@@ -52,9 +52,9 @@ Graduate students will be assigned 11 papers; undergraduate students will be ass
 Note that several of the questions ask you to elaborate on your decisions for type of paper etc, for many of these you can copy/paste quotes directly from the papers you are reading.
 To submit your individual answers for each paper, please use this form: https://www.surveymonkey.ca/r/emseuvic for each of your assigned papers.
 Make sure you fill out the form for the correct paper (select the paper carefully in the survey pulldown box).
-Meeting the milestones (you will review some papers each week) is important so that we can give you feedback along the way if we notice some misunderstanding about the project requirements.
+Meeting the milestones (you will review some papers each week) is important so that we can give you feedback along the way if we notice some misunderstanding about the project requirements. You can resubmit your surveys as we will use the latest versions but you may only update them up to Nov 6th.
 
-Each paper will have two "reviewers".  In the second phase, your task with be to "align" your answers with the other reviewer.
+Each paper will have two or three "reviewers".  In the second phase, your task with be to "align" your answers with the other reviewer.
 This may not always be easy, so make sure you have a solid justification for your choices to some of the questions.
 For this phase, we will use a giant google spreadsheet to record our alignment activity (when you disagree with the other reviewer, you will need to say why you disagree) and we will finally visualize the results as a class!
 
