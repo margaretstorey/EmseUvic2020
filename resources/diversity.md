@@ -34,7 +34,7 @@ Date: Oct 30th, 2020
 | 2:00-2:30 |  Emerson Murphy-Hill | Gender differences and bias in open source: pull request acceptance of women versus men |
 | 2:30-2:45 |  | Break |
 | 2:45-3:15 | Andrew Begel | Neurodiversity in Software Engineering |
-| 3:15-4:20 | Anita Sarma| GenderMap Activity |
+| 3:15-4:20 | Anita Sarma| GenderMag Activity |
 
 ## Class Activity
 - GenderMag (details to be posted soon, you will need to print a persona in advance of the workshop)
