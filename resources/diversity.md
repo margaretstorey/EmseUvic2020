@@ -1,4 +1,4 @@
-# Week 7: A Workshop on Diversity and Inclusion in Software Engineeering
+# Week 8: A Workshop on Diversity and Inclusion in Software Engineeering
 
 Date: Oct 30th, 2020
 (See [Connex]( https://connex.csc.uvic.ca/portal/site/emse2020) for link to Zoom, you need to use your UVic ID to access Connex)
