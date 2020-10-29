@@ -46,7 +46,7 @@ Main aspects considered:
 - Easy to follow post (cohesive, clear in communicating its ideas)
 - On time, questions (at most one per guest) copied to Slack on time
 
-*If the above aspects are covered, this would be deserving of a B+ grade.*
+*If the above aspects are covered, this would be deserving of a B+ grade (7.5/10).*
 
 Lower grades will be assigned if not all aspects are covered.
 Marks will be deducted for late posts. 
@@ -54,15 +54,18 @@ Marks will be deducted for late posts.
 Extra marks would be given for:
 - It has a good "Hook" that entices your reader to read your post (with a good title)
 - Post is interesting to read and the reader will want to continue reading
-- References to other related materials (if relevant)
-- References to previous materials discussed in the course (if relevant)
+- References to other related materials (if relevant, don't just add these for the sake of it, they really need to be on point and add something)
+- References to previous materials discussed in the course (if relevant, again they should be on point and add something)
 - Visual aids/graphic design (if relevant to the post!)
-- Insightfulness:
+- Was the post updated with reflections or new insights gained during the workshop (e.g., from an extra talk, or activity)
+- Insightfulness and creativity:
    - Did the post communicate something we did not know or learn already in the course?  
-   - The post has a clear thesis statement that is insightful
+   - The post has a clear thesis statement that is insightful and thought provoking
    - Did the writer incorporate their own experiences into the post to make/emphasize their point?
    - Do I, having read the post, have more questions than I did before reading it? (is it thought provoking?)
 - Are the questions for the guests based on the readings insightful, thought-provoking, and could possibly lead to future research or more discussion?
+- Note that longer isn't necessarily better!  The best posts will often communicate some key ideas/insights in a few lines!
+- Note that for an A+ mark (9/10 or higher) the criteria as per course outline is: "Exceptional work. Technically flawless and original work demonstrating insight, understanding and independent application or extension of course expectations; often publishable." In this case, publishable would mean this would be at the level of a professional or publishable post (e.g, on medium or other blog). 
 
 Some tips: 
 - If you want to improve your writing skills, do consult the writing department at UVic.  They give excellent advice and will give you feedback on your writing.  For this course that is maybe not urgent, but it will help you in the future! 
