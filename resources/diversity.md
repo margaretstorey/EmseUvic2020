@@ -37,7 +37,7 @@ Date: Oct 30th, 2020
 | 3:15-4:20 | Anita Sarma| GenderMag Activity |
 
 ## Class Activity
-- GenderMag (details to be posted soon, you will need to print a persona in advance of the workshop)
+- GenderMag (details are posted on Slack, Note: you will need to print a persona in advance of the workshop)
 
 ## Preclass Homework
 
