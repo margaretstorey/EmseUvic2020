@@ -10,10 +10,10 @@ Date: Oct 30th, 2020
 - Know how to discuss these issues in your future jobs and job interviews, and what you can do to help address these challenges
 
 ## Guests
-- Alexander Serebrenik, TU Eindhoven, the Netherlands
-- Emerson Murphy-Hill, Google Research
-- Andy Begel, Microsoft Research
-- Anita Sarma, Oregon State University
+- [Alexander Serebrenik](https://www.win.tue.nl/~aserebre/), Eindhoven University of Technology, the Netherlands
+- [Emerson Murphy-Hill](https://research.google/people/EmersonMurphyHill/), Google Research
+- [Andy Begel](https://andrewbegel.com/), Microsoft Research
+- [Anita Sarma](http://web.engr.oregonstate.edu/~sarmaa/), Oregon State University
 
 ### Pre Workshop Assigned Materials 
 - [Gender in Open-Source Software Development](https://cbsoft2020.imd.ufrn.br/palestrante.php?id=alexander) by Alexander Serebrenik, CBSoft 2020, Brazil [Video link](https://www.youtube.com/watch?v=uK3PqV3qsmI&feature=emb_logo)
