@@ -5,9 +5,10 @@ Date: Nov 13th, 2020
 
 ## Lecture Topics/Objectives
 
-- Understand how knowledge flows in software development and the challenges with documentation
-- Learn about the socio-technical coordination theory and why it matters
-- Gain experience with coding qualitative data (from group communications)
+- Understand how knowledge flows in software development and how to address challenges with documentation
+- Learn how to build online communities and successful remote teams
+- Learn about a socio-technical coordination theory, why it matters and how to use it
+- Gain experience with coding qualitative data (and how it can bring insights about group communication)
 
 
 ## Pre-workshop reading/watching materials
