@@ -13,6 +13,7 @@ Date: Oct 30th, 2020
 - [Alexander Serebrenik](https://www.win.tue.nl/~aserebre/), Eindhoven University of Technology, the Netherlands
 - [Emerson Murphy-Hill](https://research.google/people/EmersonMurphyHill/), Google Research
 - [Andy Begel](https://andrewbegel.com/), Microsoft Research
+- [Paige Rodeghero](http://paigerodeghero.com/), Clemson University
 - [Anita Sarma](http://web.engr.oregonstate.edu/~sarmaa/), Oregon State University
 
 ### Pre Workshop Assigned Materials 
@@ -33,7 +34,7 @@ Date: Oct 30th, 2020
 | 1:30-2:00 |  Alexander Serebrenik | Gender in Open-Source Software Development  | 
 | 2:00-2:30 |  Emerson Murphy-Hill | Gender differences and bias in open source: pull request acceptance of women versus men |
 | 2:30-2:45 |  | Break |
-| 2:45-3:15 | Andrew Begel | Neurodiversity in Software Engineering |
+| 2:45-3:15 | Andrew Begel and Paige Rodeghero | Neurodiversity in Software Engineering |
 | 3:15-4:20 | Anita Sarma| GenderMag Activity |
 
 ## Class Activity
