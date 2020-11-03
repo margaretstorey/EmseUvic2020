@@ -158,7 +158,7 @@ https://github.com/Derek-Jones/ESEUR-book).  Or you may wish to replicate a stud
 
 #### Project proposal
 
-Format:  PDF document, submitted via Connex. 1-2 pages.
+Format:  PDF document, submitted via Connex. 1-2 pages. See due date above.
 
 This should describe the study you wish to replicate or new study you wish to design with the following information:
 - Team members (if any)
@@ -169,18 +169,22 @@ This should describe the study you wish to replicate or new study you wish to de
 - Expected Results
 - Core References
 
+The proposal should be considered as a working document.  You will likely update it after I have a chance to read what you plan and we can discuss your next steps. Also I'd be thrilled to see early versions of this and give feedback sooner than later (and you can refine and resubmit by the deadline).  
+
+
 #### Project interim reports
 
-Format: PDF document, submitted via Connex. This will be in the 3-4 page range using the ACM format described here: https://www.acm.org/publications/proceedings-template
+Format: PDF document, submitted via Connex. This will be in the 3-4 page range using the ACM format described here: https://www.acm.org/publications/proceedings-template  See due date above.
 
 The interim project report should be a stand-alone document describing your progress so far on the project. Consider it as an early (but incomplete) preliminary version of your final report (see below). It should include early versions of most sections of the anticipated final report.
 
 #### Project video
 - Approx. 5 min video describing your project (motivation, methods, what you learned, what's next).  You may wish to host this on YouTube (or Vimeo) and submit the link via Connex.
+- See the table above for due date for the video.  This should show your work done by that date.
 
 #### Project final report
 
-Format: PDF document, submitted via Connex. This will be in the 8-12 page range (not including appendices). Use the format described at this page: https://www.acm.org/publications/proceedings-template
+Format: PDF document, submitted via Connex. This will be in the 8-12 page range (not including appendices). Use the format described at this page: https://www.acm.org/publications/proceedings-template. See due date above in the table.
 
 The following shows a typical outline, but your project may require a different outline.  Check with the course staff if you are unsure!
 - Introduction
