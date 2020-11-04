@@ -114,7 +114,7 @@ You can download the papers from this link to a public [Google Drive folder](htt
 The individual work of this assignment is worth 80% of the project #1 grade (interim milestones must be followed).
 This part will be graded according to the effort you put into reviewing these papers.
 
-The **collaborative alignment phase** should ideally be completed during class time on Nov 6th.
+The **collaborative alignment phase** should ideally be finished by the end of class time on Nov 6th.
 This phase is worth 20% of your project #1 grade (this will be graded based on the amount of attention/discussion you put into the alignment and coming to consensus with other students). 
 
 You should do some homework and prepare for this alignment activity (before our class acitivty) and look over your reviews as well as the reviews from other students (this will help to ensure our classtime is used more effectively).  We aim to have these ready for you to review by Thursday morning Nov 5th. 
