@@ -46,9 +46,16 @@ Date: Nov 13th, 2020
 
 ## Preclass Homework
 
-There will be some preparation for the class activity (details will be posted).
+You have to do some preparation for this class activity!  Don't worry it isn't that hard and should be fun!
+See the CSV file (posted on Slack, see #week10-collab-coding) that has 200 edit messages from Stack Overflow.
+Please *individually* label a subset of these before our class session (ideally only one label per row). 
+Undergrads, do at least 10, graduate students do at least 20 rows. 
+The data contains the link to the corresponding Stack Overflow thread for each of the edit messages in case you require more context to decide on a label.
 
-Write a blogpost on the preworkshop assigned materials in advance of the lecture 
+During the session, Christoph Treude will collect a set of distinct labels from you which will be the first version of the coding guide.
+You will then get the chance to annotate another few rows during class with the class to see how good/bad our agreement is, and to see how to refine the coding guide to facilitate more labeling. 
+
+In addition to the above, write a blogpost on the preworkshop assigned materials in advance of the lecture 
 (to be completed by 6pm the day before the workshop --> Thursday).
 Your blogpost should include at least one discussion question per assigned reading/video/podcast.
 
