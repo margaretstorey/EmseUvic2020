@@ -13,7 +13,7 @@ Date: Nov 13th, 2020
 
 ## Pre-workshop reading/watching materials
 - [Revealing actual documentation usage in software maintenance through war stories](https://userpages.umbc.edu/~cseaman/papers/ISTJ07.pdf) by Wayne Lutters and Carolyn Seaman, IST 2007.
-- [The role of identity and social norms in building sustainable online communities and successful remote teams](https://collabtech2020.colaps.ut.ee/keynote/) by Anna Filippova, GitHub (video link to be added)
+- [The role of identity and social norms in building sustainable online communities and successful remote teams](https://collabtech2020.colaps.ut.ee/keynote/) by Anna Filippova, GitHub (video link is posted in Slack collab channel, #week9-collab-sinc)
 - [Socio-Technical Coordination](https://youtu.be/v0CSnYvd0C4?t=1769) by Jim Herbsleb, ICSE 2014 (video)
 - See below for some preclass homework related to this week's activity!
 
