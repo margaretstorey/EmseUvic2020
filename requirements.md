@@ -139,7 +139,9 @@ You should do some homework and prepare for this alignment activity (before our 
 
 # [Project #2](#project2)
 
-For this project, you will conduct a replication of an existing study published in a software engineering research venue, or you may wish to design a novel study.
+For this project, you will conduct a replication of an existing study published in a software engineering research venue, or you may wish to design a novel study.  The replication is likely to be a conceptual replication where you retest the same theoretical ideas or hypotheses, but with a different population, or different study design, different ways of manipulating or measuring variables. 
+A literal replication may also be acceptable, especially if you carefully follow the same steps and provide some kind of reflection and critique of the study (with perhaps suggestions of what you would do differently next time or if it worked well, how you might broaden the study in future). (Refer to our earlier slides on replications). 
+
 The project should ideally be completed in teams of 3-4 students, but students can complete it alone or in pairs if they wish.  The main contribution from this project is about the insights you gained concerning the empirical aspects rather than new knowledge gained through the study. 
 
 If your project will involve a study with the direct participation of human subjects (e.g., developers or students or other stakeholders participating in a lab experiment, observations, focus group, interviews, surveys), you will need to submit a brief application for ethics approval.  We will post details on this process here shortly.  We will guide you this process (you cannot change your mind on this aspect after Nov 16th). Note you cannot use deception as part of this study.
