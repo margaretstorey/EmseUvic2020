@@ -149,8 +149,8 @@ Please note that this project should be independent from other course projects y
 For some ideas of projects you can replicate that are based on data traces only, you may get some ideas from this book: http://www.knosof.co.uk/ESEUR/ (see also http://www.knosof.co.uk/ESEUR/ESEUR-draft.pdf and
 https://github.com/Derek-Jones/ESEUR-code-data for the code and data).  
 Or you may wish to replicate a study from an existing paper that has replication materials available. GHTorrent is another possibility but pay attention to the Perils paper we read by Kalliamvakou et al.!
-The MSR challenges may provide some ideas, e.g. see [2020 MSR challenge papers](https://2020.msrconf.org/track/msr-2020-mining-challenge?track=MSR%20Mining%20Challenge#Resources-for-Participants).
-Also smaller workshops (e.g., CHASE) at ICSE may have studies that are of smaller scope.  
+The MSR challenges may provide some ideas, e.g. see [2020 MSR challenge papers](https://2020.msrconf.org/track/msr-2020-mining-challenge?track=MSR%20Mining%20Challenge#Resources-for-Participants), see other MSR challenge years. This page also lists some datasets: https://github.com/woc-hack/msr-hackathon/blob/master/README.md  
+Also smaller workshops (e.g., CHASE) at ICSE may have studies that are of smaller scope that do not rely on data mining. You may take one of these designs, critique it, redesign and if possible run a pilot with a new design. 
 
 
 
@@ -196,17 +196,17 @@ Format: PDF document, submitted via Connex. This will be in the 8-12 page range 
 
 The following shows a typical outline, but your project may require a different outline.  Check with the course staff if you are unsure!
 - Introduction
-   - Motivation for this research, to whom is it relevant and why
-- Related work (this may come later in your paper!)
-   - Brief literature review on this topic
-- Research questions and methodology
-- Results or Findings
-- Discussion
-- Limitations
-- Conclusion/Future work
-- References
+   - Motivation for this research, to whom is it relevant and why, context of your study
+- Related work (this may come later in your paper if you do some kind of a grounded theory!)
+   - Brief literature review on this topic (can't be complete but should include the main key references!)
+- Research questions and methodology (choice of methodology, clear framing of questions is important)
+- Results or Findings (may be preliminary in the case of a study design)
+- Discussion (what did you learn, what can you speculate but can't prove that could be future work, what does this relate to in terms of other work
+- Limitations (consider limitations of method choice but also of the methods you used)
+- Conclusion/Future work (consider relevance of the work)
+- References (use the proper ACM format! )
 - Appendix A: describe and provide links to any supplementary materials or replication package.
-- Appendix B: if this was does as a team, please include a description of how the team members contributed to the project.
+- Appendix B: if this was does as a team, please include a description of how the team members contributed to the project. Grades may not be evenly distributed in the case some team members did considerably more than others.
 
 #### Project #2 Advice
 Each student/team member is required to do the following:
