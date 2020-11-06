@@ -146,8 +146,9 @@ If your project will involve a study with the direct participation of human subj
 
 Please note that this project should be independent from other course projects you have done previously or that you are currently doing, and it should also be independent from research work you have done or are doing for your graduate degree (the reason is that determining what is unique in terms of the contribution for this course becomes problematic). If you are unsure about this aspect, do talk to your instructor about this.  Some overlap in terms of topic or domain is fine, so do check!
 
-For some ideas of projects you can replicate that are based on data traces only, you may get some ideas from this book: http://www.knosof.co.uk/ESEUR/ (see also
-https://github.com/Derek-Jones/ESEUR-book).  Or you may wish to replicate a study from an existing paper that has replication materials available. GHTorrent is another possibility but pay attention to the Perils paper we read by Kalliamvakou et al.!
+For some ideas of projects you can replicate that are based on data traces only, you may get some ideas from this book: http://www.knosof.co.uk/ESEUR/ (see also http://www.knosof.co.uk/ESEUR/ESEUR-draft.pdf and
+https://github.com/Derek-Jones/ESEUR-code-data for the code and data).  
+Or you may wish to replicate a study from an existing paper that has replication materials available. GHTorrent is another possibility but pay attention to the Perils paper we read by Kalliamvakou et al.!
 The MSR challenges may provide some ideas, e.g. see [2020 MSR challenge papers](https://2020.msrconf.org/track/msr-2020-mining-challenge?track=MSR%20Mining%20Challenge#Resources-for-Participants).
 Also smaller workshops (e.g., CHASE) at ICSE may have studies that are of smaller scope.  
 
@@ -215,6 +216,8 @@ Each student/team member is required to do the following:
 3. Together with your team mates (if any), choose a topic for your project (details to follow).
 4. Contribute equitably throughout the term to the team project in terms of research, video and paper writing.
 5. Grade will be determined on a combination of the following:
-    - 20% of your grade for this project component will be given for presentation in class (prepared video)
+    - 20% of your grade for this project component will be given for presentation in class (prepared video or tiktok!)
     - 80% of your grade will be based on the final report and meeting milestones throughout the term
+    - Your grade will also reflect how much you refer to and integrate course concepts throughout the term
     - Extra points may be given for: challenging projects, original ideas, collaboration with external organizations.
+  
