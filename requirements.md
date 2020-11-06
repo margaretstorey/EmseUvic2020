@@ -140,14 +140,16 @@ You should do some homework and prepare for this alignment activity (before our 
 # [Project #2](#project2)
 
 For this project, you will conduct a replication of an existing study published in a software engineering research venue, or you may wish to design a novel study.
-The project should ideally be completed in teams of 3-4 students, but students can complete it alone or in pairs if they wish.  The main contribution from this project is about the empirical aspects. 
+The project should ideally be completed in teams of 3-4 students, but students can complete it alone or in pairs if they wish.  The main contribution from this project is about the insights you gained concerning the empirical aspects rather than new knowledge gained through the study. 
 
 If your project will involve a study with the direct participation of human subjects (e.g., developers or students or other stakeholders participating in a lab experiment, observations, focus group, interviews, surveys), you will need to submit a brief application for ethics approval.  We will post details on this process here shortly.  We will guide you this process (you cannot change your mind on this aspect after Nov 16th). Note you cannot use deception as part of this study.
 
-Please note that this project should be independent from other course projects you have done previously or that you are currently doing, and it should also be independent from research work you have done or are doing for your graduate degree (the reason is that determining what is unique in terms of the contribution for this course becomes problematic). If you are unsure about this aspect, do talk to your instructor about this. 
+Please note that this project should be independent from other course projects you have done previously or that you are currently doing, and it should also be independent from research work you have done or are doing for your graduate degree (the reason is that determining what is unique in terms of the contribution for this course becomes problematic). If you are unsure about this aspect, do talk to your instructor about this.  Some overlap in terms of topic or domain is fine, so do check!
 
 For some ideas of projects you can replicate that are based on data traces only, you may get some ideas from this book: http://www.knosof.co.uk/ESEUR/ (see also
 https://github.com/Derek-Jones/ESEUR-book).  Or you may wish to replicate a study from an existing paper that has replication materials available. GHTorrent is another possibility but pay attention to the Perils paper we read by Kalliamvakou et al.!
+The MSR challenges may provide some ideas, e.g. see [2020 MSR challenge papers](https://2020.msrconf.org/track/msr-2020-mining-challenge?track=MSR%20Mining%20Challenge#Resources-for-Participants).
+Also smaller workshops (e.g., CHASE) at ICSE may have studies that are of smaller scope.  
 
 
 
