@@ -11,8 +11,9 @@ Date: Nov 20th, 2020
 - Learn how the pandemic impacted developer productivity and satisfaction
 
 ## Pre-workshop reading/watching materials
-- [Challenges and Gratitude: A Diary Study of Software Engineers Working From Home During Covid-19 Pandemic](https://www.microsoft.com/en-us/research/publication/challenges-and-gratitude-a-diary-study-of-software-engineers-working-from-home-during-covid-19-pandemic/) by Jenna Butler, Microsoft (Video/paper)
 - [The productive software engineer with Dr. Tom Zimmermann](https://blubrry.com/microsoftresearch/53765597/077r-the-productive-software-engineer-with-dr-tom-zimmermann/) (Podcast)
+- TBD
+- [Challenges and Gratitude: A Diary Study of Software Engineers Working From Home During Covid-19 Pandemic](https://www.microsoft.com/en-us/research/publication/challenges-and-gratitude-a-diary-study-of-software-engineers-working-from-home-during-covid-19-pandemic/) by Jenna Butler, Microsoft (Video/paper)
 - TBD
 
 
