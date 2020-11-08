@@ -17,7 +17,9 @@ Date: Nov 20th, 2020
 
 
 ### Additional references
-- TBD
+- [A Tale of Two Cities: Software Developers Working from Home During the COVID-19 Pandemic](https://arxiv.org/abs/2008.11147)by Denae Ford, Margaret-Anne Storey, Thomas Zimmermann, Christian Bird, Sonia Jaffe, Chandra Maddila, Jenna L. Butler, Brian Houck, Nachiappan Nagappan
+- [Towards a theory of software developer job satisfaction and perceived productivity](https://conf.researchr.org/details/icse-2020/icse-2020-Journal-First/49/Towards-a-theory-of-software-developer-job-satisfaction-and-perceived-productivity) by Margaret-Anne Storey, Thomas Zimmermann, Christian Bird, Jacek Czerwonka, Brendan Murphy, Eirini Kalliamvakou, TSE journal paper presented at ICSE 2020.
+-[What Predicts Software Developers’ Productivity?](https://research.google/pubs/pub47853/) by Emerson Murphy-Hill Ciera Jaspan Caitlin Sadowski David C. Shepherd Michael Phillips Collin Winter Andrea Knight Dolan Edward K. Smith Matthew A. Jorde, Transactions on Software Engineering (2019).
 
 ## Guests
 - **Jenna Butler**, Microsoft
