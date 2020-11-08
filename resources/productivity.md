@@ -44,7 +44,7 @@ Date: Nov 20th, 2020
 
 ## Preclass Homework
 
-Write a blogpost on the preworkshop assigned materials in advance of the lecture 
+Write a blogpost on the preworkshop assigned materials in advance of the lecture. 
 (to be completed by 6pm the day before the workshop --> Thursday).
 Your blogpost should include at least one discussion question per assigned reading/video/podcast.
 
