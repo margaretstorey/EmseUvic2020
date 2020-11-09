@@ -23,20 +23,21 @@ Date: Nov 20th, 2020
 - [Enabling the Study of Software Development Behavior with Cross-Tool Logs](https://research.google/pubs/pub49446/), Ciera Jaspan Matthew Jorde Carolyn Denomme Egelman Collin Green Ben Holtz Edward K. Smith Maggie Morrow Hodges Andrea Marie Knight Dolan Elizabeth Kammer Jillian Dicker Caitlin Harrison Sadowski James Lin Lan Cheng Mark Canning Emerson Murphy-Hill, IEEE Software, vol. Special Issue on Behavioral Science of Software Engineering (2020).
 
 ## Guests
-- **Jenna Butler**, Microsoft
 - **Tom Zimmerman**, Microsoft Research
-- **Courtney Miller**, Florida State University
 - **Ciera Jaspan**, Google Research
+- **Courtney Miller**, Florida State University
+- **Jenna Butler**, Microsoft 
 
-## Workshop Agenda 
+
+## Workshop Agenda (tentative!)
 
 | Time | Speaker | Topic | 
 | ------- | ------------------- | --------------------------------- | 
-| 1:30-2:00 |  |  | 
-| 2:00-2:30 |  |  |
-| 2:30-3:00 |  | Break |
-| 3:00-3:30 | | |
-| 3:30-4:00 | | |
+| 1:30-2:00 | Tom Zimmermann |  The Productive Software Engineer| 
+| 2:00-2:30 | Ciera Jaspan  | Improving Engineering Productivity at Scale |
+| 2:30-3:00 |   | Break |
+| 3:00-3:30 | Courtney Miller | Team Productivity |
+| 3:30-4:00 |   Jenna Butler | Challenges and Gratitude: A Diary Study of Software Engineers Working From Home During Covid-19 Pandemic |
 
 
 ## Activity
