@@ -33,7 +33,7 @@ See [course requirements](requirements.md) and the [course outline](https://heat
   | 9 | 06/11/2020 | Alignment for [Project #1](requirements.md#project1) | <ul><li>**Neil Ernst, UVic**</li></ul> | [Project #1](requirements.md#project1) due |
 | 10 | 13/11/2020 | Workshop #4: [Collaboration, Communication and Knowledge Flow in Software Engineering](resources/collab.md) | <ul><li>**Anna Filipova**, GitHub</li> <li>**Christoph Treude**, Adelaide University</li> <li>**Jim Herbsleb**, Carnegie Mellon University</li> <li>**Carolyn Seaman**, University of Maryland Baltimore County</li></ul> | Blogpost #4 |
 | 11 | 20/11/2020 | Workshop #5: [Developer and Team Productivity](resources/productivity.md) | <ul><li>**Tom Zimmermann**, Microsoft Research</li> <li>**Jenna Butler**, Microsoft</li> <li> **Courtney Miller**, New College of Florida</li> <li>**Ciera Jaspan**, Google </li></ul>| Blogpost #5 |
-| 12 | 27/11/2020 | Workshop #6: Bridging Gaps | <ul><li>**Michael Hilton**, Carnegie Mellon University</li> <li>**Daniel German**, University of Victoria</li> <li> **Jacek Czerwonka**, Microsoft</li><li>**Kate Stewart**, Linux Foundation</li></ul> | Blogpost #6 |
+| 12 | 27/11/2020 | Workshop #6: Bridging Gaps | <ul><li>**Michael Hilton**, Carnegie Mellon University</li> <li>**Daniel German**, University of Victoria</li> <li> **Jacek Czerwonka**, Microsoft</li></ul> | Blogpost #6 |
 | 13 | 04/12/2020 | Project #2 presentations | | Project #2, videos due |
 | 14 | 11/12/2020 | No class | | Project #2, final reports due |
 
