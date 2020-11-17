@@ -1,4 +1,4 @@
-# Week 10: Software Developer Productivity
+# Week 11: Software Developer Productivity
 
 Date: Nov 20th, 2020
 (See [Connex]( https://connex.csc.uvic.ca/portal/site/emse2020) for link to Zoom, you need to use your UVic ID to access Connex)
@@ -29,7 +29,7 @@ Date: Nov 20th, 2020
 - **Jenna Butler**, Microsoft 
 
 
-## Workshop Agenda (tentative!)
+## Workshop Agenda
 
 | Time | Speaker | Topic | 
 | ------- | ------------------- | --------------------------------- | 
