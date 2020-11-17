@@ -15,6 +15,7 @@ by Daniel German et al. ICSE 2018 [Paper] OR [Was my contribution reviewed fairl
 by Daniel German [Slides]
 - [Code Reviews Do Not Find Bugs: How the Current Code Review Best Practice Slows Us Down](https://www.microsoft.com/en-us/research/wp-content/uploads/2015/05/PID3556473.pdf) 
 by Jacek Czerwonka, Michaela Greiler, and Jack Tilford,  ICSE 2015
+- See Activity description below
 
 ### Additional references
 - [Promoting Human Flourishing Through Ethical Software Development](https://speakerdeck.com/michaelhilton/promoting-human-flourishing-through-ethical-software-development) 
@@ -35,15 +36,15 @@ by Eirini Kalliamvakou, Georgios Gousios, Kelly Blincoe, Leif Singer Daniel M Ge
 | 1:30-2:15 | Michael Hilton | Promoting Human Flourishing Through Ethical Software Development| 
 | 2:15-3:00 | Daniel German | Fairness in Peer Reviews and Code Reviews |
 | 3:00-3:15 |   | Break |
-| 3:15-4:00 | Jacek Czerwonka | TBD |
+| 3:15-4:00 | Jacek Czerwonka | How Software Engineering Systems are Shaped by Practice and Research |
 
 ## Activity
-- No Activity this week
+- Find a recent example of software that is NOT promoting human flourishing. Be prepared to share in class!
 
 ## Preclass Homework
 
-Write a blogpost on the preworkshop assigned materials in advance of the lecture. 
-(to be completed by 6pm the day before the workshop --> Thursday).
+Write a blogpost on the preworkshop assigned materials in advance of the lecture (add the example of software that does not promote flourishing). 
+This is to be completed by 6pm the day before the workshop --> Thursday.
 Your blogpost should include at least one discussion question per assigned reading/video/podcast.
 
 Copy at most one question per guest to the relevant Slack channel and like other questions from your peers you think should be asked of our guests 
