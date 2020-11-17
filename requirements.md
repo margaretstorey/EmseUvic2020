@@ -1,3 +1,6 @@
+##### [CSC 485A + SENG 480A + CSC578A](https://heat.csc.uvic.ca/coview/course/2020091/CSC578A), 2020, Fall Semester
+<br>
+
 # Prereqs and Requirements
 
 **Prerequisites:**
@@ -5,6 +8,16 @@
 - Reserved for students in the BSENG program or Computer Science students with Software Systems option, or graduate students with previous software engineering education or experience
 - SENG 275 and one of SENG 350/360/371 for undergraduates (equivalent for graduate students)
 - Minimum 4th year standing
+
+**Course Description:**
+
+Empirical software engineering is a research area concerned with the study of software engineering processes and artifacts, with the goal to understand and improve software engineering tools, processes, culture and software quality. This topic is of relevance to researchers, practitioners and the users of software systems.
+
+This course will prepare students for advanced research in industrial and academic settings by examining how to plan, conduct and report on empirical investigations of software engineering phenomena. The course will cover techniques applicable to each of the steps of an empirical software engineering research project, including formulating and identifying relevant research questions, data analysis (using both qualitative and quantitative methods), building evidence, developing new and refining existing theories, assessing validity and novelty of the research methods and outcomes, and publishing and presenting findings to different audiences. The course will emphasize research methods that are used to study human interactions with software engineering methods and tools: controlled experiments, user studies, field studies, surveys, archival data analysis methods, action research and ethnographies. We will explore, understand and critique the methods used in several examples of studies of software engineering methodologies and tools used in industry, and through academic peer reviewed articles published in empirical software engineering venues.
+
+The course will be held in a mostly synchronous fashion and students should be available to attend the full lectures each week.
+The first part of the course will be more lecture based, establishing some foundations in the topics taught and explored in this course.
+The second part of the course will be workshop based, with guest speakers and ample activities to drill into specific topics more deeply. The workshops will be on the following topics: code assessment techniques, knowledge sharing and collaboration, continuous software engineering, diversity and inclusion in software engineering, software engineering productivity, and ethics and reliability of empirical research in software engineering.
 
 **General Requirements:**
 
