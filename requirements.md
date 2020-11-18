@@ -53,8 +53,8 @@ Main aspects considered:
 - Introduction (some opening remark)
 - Background (based on assigned papers for the week, some mention of each)
 - Materials referenced are added as references (at bottom or throughout as links)
-- Questions (per assigned reading, that are not already answered by the assigned readings!) 
-- Conclusion/Takeaway/Some closing remark 
+- Questions (per assigned reading, that are not already answered by the assigned readings!)
+- Conclusion/Takeaway/Some closing remark
 - Appropriate use of typography, well-formatted (uses headers/sections, ...etc.)
 - Easy to follow post (cohesive, clear in communicating its ideas)
 - On time, questions (at most one per guest) copied to Slack on time
@@ -62,7 +62,7 @@ Main aspects considered:
 *If the above aspects are covered, this would be deserving of a B+ grade (7.5/10).*
 
 Lower grades will be assigned if not all aspects are covered.
-Marks will be deducted for late posts. 
+Marks will be deducted for late posts.
 
 Extra marks would be given for:
 - It has a good "Hook" that entices your reader to read your post (with a good title)
@@ -72,16 +72,16 @@ Extra marks would be given for:
 - Visual aids/graphic design (if relevant to the post!)
 - Was the post updated with reflections or new insights gained during the workshop (e.g., from an extra talk, or activity)
 - Insightfulness and creativity:
-   - Did the post communicate something we did not know or learn already in the course?  
+   - Did the post communicate something we did not know or learn already in the course?
    - The post has a clear thesis statement that is insightful and thought provoking
    - Did the writer incorporate their own experiences into the post to make/emphasize their point?
    - Do I, having read the post, have more questions than I did before reading it? (is it thought provoking?)
 - Are the questions for the guests based on the readings insightful, thought-provoking, and could possibly lead to future research or more discussion?
 - Note that longer isn't necessarily better!  The best posts will often communicate some key ideas/insights in a few lines!
-- Note that for an A+ mark (9/10 or higher) the criteria as per course outline is: "Exceptional work. Technically flawless and original work demonstrating insight, understanding and independent application or extension of course expectations; often publishable." In this case, publishable would mean this would be at the level of a professional or publishable post (e.g, on medium or other blog). 
+- Note that for an A+ mark (9/10 or higher) the criteria as per course outline is: "Exceptional work. Technically flawless and original work demonstrating insight, understanding and independent application or extension of course expectations; often publishable." In this case, publishable would mean this would be at the level of a professional or publishable post (e.g, on medium or other blog).
 
-Some tips: 
-- If you want to improve your writing skills, do consult the writing department at UVic.  They give excellent advice and will give you feedback on your writing.  For this course that is maybe not urgent, but it will help you in the future! 
+Some tips:
+- If you want to improve your writing skills, do consult the writing department at UVic.  They give excellent advice and will give you feedback on your writing.  For this course that is maybe not urgent, but it will help you in the future!
 - Also there are blogposts out there about how to write a blogpost! You may get some ideas from reading those and reading other student posts.
 - Do consider reposting your posts in your own public blog!  It is a great way to get feedback and build a portfolio of your ability to write, share information and synthesize knowledge. If you are interesting, it would be greak to link to any public posts you add from this page!
 
@@ -128,9 +128,9 @@ The individual work of this assignment is worth 80% of the project #1 grade (int
 This part will be graded according to the effort you put into reviewing these papers.
 
 The **collaborative alignment phase** should ideally be finished by the end of class time on Nov 6th.
-This phase is worth 20% of your project #1 grade (this will be graded based on the amount of attention/discussion you put into the alignment and coming to consensus with other students). 
+This phase is worth 20% of your project #1 grade (this will be graded based on the amount of attention/discussion you put into the alignment and coming to consensus with other students).
 
-You should do some homework and prepare for this alignment activity (before our class acitivty) and look over your reviews as well as the reviews from other students (this will help to ensure our classtime is used more effectively).  We aim to have these ready for you to review by Thursday morning Nov 5th. 
+You should do some homework and prepare for this alignment activity (before our class acitivty) and look over your reviews as well as the reviews from other students (this will help to ensure our classtime is used more effectively).  We aim to have these ready for you to review by Thursday morning Nov 5th.
 
 
 #### Project #1 Reference papers
@@ -152,20 +152,20 @@ You should do some homework and prepare for this alignment activity (before our 
 
 # [Project #2](#project2)
 
-For this project, you will conduct a replication of an existing study published in a software engineering research venue, or you may wish to design a novel study.  The replication is likely to be a conceptual replication where you retest the same theoretical ideas or hypotheses, but with a different population, or different study design, different ways of manipulating or measuring variables. 
-A literal replication may also be acceptable, especially if you carefully follow the same steps and provide some kind of reflection and critique of the study (with perhaps suggestions of what you would do differently next time or if it worked well, how you might broaden the study in future). (Refer to our earlier slides on replications). 
+For this project, you will conduct a replication of an existing study published in a software engineering research venue, or you may wish to design a novel study.  The replication is likely to be a conceptual replication where you retest the same theoretical ideas or hypotheses, but with a different population, or different study design, different ways of manipulating or measuring variables.
+A literal replication may also be acceptable, especially if you carefully follow the same steps and provide some kind of reflection and critique of the study (with perhaps suggestions of what you would do differently next time or if it worked well, how you might broaden the study in future). (Refer to our earlier slides on replications).
 
-The project should ideally be completed in teams of 3-4 students, but students can complete it alone or in pairs if they wish.  The main contribution from this project is about the insights you gained concerning the empirical aspects rather than new knowledge gained through the study. 
+The project should ideally be completed in teams of 3-4 students, but students can complete it alone or in pairs if they wish.  The main contribution from this project is about the insights you gained concerning the empirical aspects rather than new knowledge gained through the study.
 
-If your project will involve a study with the direct participation of human subjects (e.g., developers or students or other stakeholders participating in a lab experiment, observations, focus group, interviews, surveys), you will need to submit a brief application for ethics approval.  We will post details on this process here shortly.  We will guide you this process (you cannot change your mind on this aspect after Nov 16th). Note you cannot use deception as part of this study.
+If your project will involve a study with the direct participation of human subjects (e.g., developers or students or other stakeholders participating in a lab experiment, observations, focus group, interviews, surveys), you will need to submit a brief application for ethics approval. We will guide you this process (you cannot change your mind on this aspect after Nov 16th). Note you cannot use deception as part of this study. Further details on how to submit an ethics application can be found [here](./activities/project-2-ethics/README.md).
 
 Please note that this project should be independent from other course projects you have done previously or that you are currently doing, and it should also be independent from research work you have done or are doing for your graduate degree (the reason is that determining what is unique in terms of the contribution for this course becomes problematic). If you are unsure about this aspect, do talk to your instructor about this.  Some overlap in terms of topic or domain is fine, so do check!
 
 For some ideas of projects you can replicate that are based on data traces only, you may get some ideas from this book: http://www.knosof.co.uk/ESEUR/ (see also http://www.knosof.co.uk/ESEUR/ESEUR-draft.pdf and
-https://github.com/Derek-Jones/ESEUR-code-data for the code and data).  
+https://github.com/Derek-Jones/ESEUR-code-data for the code and data).
 Or you may wish to replicate a study from an existing paper that has replication materials available. GHTorrent is another possibility but pay attention to the Perils paper we read by Kalliamvakou et al.!
-The MSR challenges may provide some ideas, e.g. see [2020 MSR challenge papers](https://2020.msrconf.org/track/msr-2020-mining-challenge?track=MSR%20Mining%20Challenge#Resources-for-Participants), see other MSR challenge years. This page also lists some datasets: https://github.com/woc-hack/msr-hackathon/blob/master/README.md  
-Also smaller workshops (e.g., CHASE) at ICSE may have studies that are of smaller scope that do not rely on data mining. You may take one of these designs, critique it, redesign and if possible run a pilot with a new design. 
+The MSR challenges may provide some ideas, e.g. see [2020 MSR challenge papers](https://2020.msrconf.org/track/msr-2020-mining-challenge?track=MSR%20Mining%20Challenge#Resources-for-Participants), see other MSR challenge years. This page also lists some datasets: https://github.com/woc-hack/msr-hackathon/blob/master/README.md
+Also smaller workshops (e.g., CHASE) at ICSE may have studies that are of smaller scope that do not rely on data mining. You may take one of these designs, critique it, redesign and if possible run a pilot with a new design.
 
 
 
@@ -192,7 +192,7 @@ This should describe the study you wish to replicate or new study you wish to de
 - Expected Results
 - Core References
 
-The proposal should be considered as a working document.  You will likely update it after I have a chance to read what you plan and we can discuss your next steps. Also I'd be thrilled to see early versions of this and give feedback sooner than later (and you can refine and resubmit by the deadline).  
+The proposal should be considered as a working document.  You will likely update it after I have a chance to read what you plan and we can discuss your next steps. Also I'd be thrilled to see early versions of this and give feedback sooner than later (and you can refine and resubmit by the deadline).
 
 
 #### Project interim reports
@@ -235,4 +235,3 @@ Each student/team member is required to do the following:
     - 80% of your grade will be based on the final report and meeting milestones throughout the term
     - Your grade will also reflect how much you refer to and integrate course concepts throughout the term
     - Extra points may be given for: challenging projects, original ideas, collaboration with external organizations.
-  

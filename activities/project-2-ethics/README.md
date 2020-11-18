@@ -70,7 +70,7 @@ Depending on your data collection method, you will need certain types of consent
 
 ### Recruitment Email Template
 
-Should you need it, we've also prepared a [recruitment email template](./templates/recruitment_email.template.docx) for you to use as a basis for your recruitment emails. Like other templates, you can find this in the `templates` folder as a `docx` file.
+Should you need it, we've also prepared a [recruitment email template](./templates/recruitment_email_template.docx) for you to use as a basis for your recruitment emails. Like other templates, you can find this in the `templates` folder as a `docx` file.
 
 ## What and How Should I Submit?
 
