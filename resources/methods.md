@@ -52,6 +52,7 @@ Date: Sept 25th, 2020
 -  [Research design: Qualitative, quantitative, and mixed methods approaches](https://us.sagepub.com/en-us/nam/research-design/book255675), Creswell & Creswell. Sage publications, 5th edition.
 - [ACM SIGSOFT Empirical Standards](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/Empirical%20Standards.pdf) By Paul Ralph et al., 2020.
 - [The ABC of Software Engineering Research](https://www.researchgate.net/publication/326540762_The_ABC_of_Software_Engineering_Research) by Stol and Fitzgerald, TOSEM 2018. 
+- [The Research Onion](https://15writers.com/research-onion/)
 
 #### Data science and mining repositories:
 - [Perspectives on Data Science for Software Engineering](https://www.elsevier.com/books/perspectives-on-data-science-for-software-engineering/menzies/978-0-12-804206-9?countrycode=US&format=print&utm_source=google_ads&utm_medium=paid_search&utm_campaign=canadashopping&gclid=CjwKCAjwkoz7BRBPEiwAeKw3q6IdWnBmgg4ZFIMpU6XMzITW4PFErv6VHHEqJ29NflbtSsG6WIFv5xoCrEIQAvD_BwE&gclsrc=aw.ds), 1st Edition, Editors: Tim Menzies Laurie Williams Thomas Zimmerman, Morgan Kaufmann, 2016. [UVic link](http://tinyurl.com/y5fgal9s)
