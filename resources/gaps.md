@@ -29,7 +29,7 @@ by Eirini Kalliamvakou, Georgios Gousios, Kelly Blincoe, Leif Singer Daniel M Ge
 - **Jacek Czerwonka**, Microsoft
 
 
-## Workshop Agenda (tentative!)
+## Workshop Agenda
 
 | Time | Speaker | Topic | 
 | ------- | ------------------- | --------------------------------- | 
